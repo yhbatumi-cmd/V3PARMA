@@ -7,6 +7,21 @@ import PropertyCard from './PropertyCard';
 
 const perPage = 6;
 
+function getSettlementName(location: string, lang: Lang) {
+  const clean = (value: string) => value.replace(/\s*\([^)]*\)/g, '').trim();
+  const parts = location.split(',').map(clean).filter(Boolean);
+  const first = parts[0] ?? location;
+  const second = parts[1];
+
+  if (second && ['Батуми', 'Batumi'].includes(first)) return second;
+  if (second && (first.startsWith('Пляж') || first.includes('Beach'))) return second;
+  if (lang === 'EN' && first === 'Bakuriani Ski Resort') return 'Bakuriani';
+  if (lang === 'RU' && first === 'Винный регион Кахетии') return 'Кахетия';
+  if (lang === 'EN' && first === 'Kakheti Wine Region') return 'Kakheti';
+
+  return first;
+}
+
 interface CatalogPageProps {
   lang: Lang;
   properties: Property[];
@@ -27,8 +42,11 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
   const [currency, setCurrency] = useState<'USD' | 'GEL'>('USD');
 
   const locations = useMemo(
-    () => ['all', ...new Set(properties.map((p) => p.location[lk]))],
-    [properties, lk]
+    () => {
+      const names = new Set(properties.map((p) => getSettlementName(p.location[lk], lang)));
+      return ['all', ...Array.from(names).sort((a, b) => a.localeCompare(b, lang === 'RU' ? 'ru' : 'en'))];
+    },
+    [properties, lk, lang]
   );
 
   const filtered = useMemo(() => {
@@ -36,7 +54,7 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
     const max = maxPrice ? Number(maxPrice) : Number.MAX_SAFE_INTEGER;
     const list = properties.filter((p) => {
       if (kind !== 'all' && p.type !== kind) return false;
-      if (location !== 'all' && p.location[lk] !== location) return false;
+      if (location !== 'all' && getSettlementName(p.location[lk], lang) !== location) return false;
       return p.priceUSD >= min && p.priceUSD <= max;
     });
     return list.sort((a, b) => {
@@ -48,7 +66,7 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
       if (sort === 'area-desc') return bb - aa;
       return b.id - a.id;
     });
-  }, [kind, location, lk, minPrice, maxPrice, sort, properties]);
+  }, [kind, location, lk, lang, minPrice, maxPrice, sort, properties]);
 
   const pages = Math.max(1, Math.ceil(filtered.length / perPage));
   const list = filtered.slice((currentPage - 1) * perPage, currentPage * perPage);
@@ -117,9 +135,9 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
             transition={{ duration: 0.3 }}
             className="mb-8 rounded-2xl border border-white/8 bg-white/5 backdrop-blur-sm p-5"
           >
-            <div className="grid gap-4 md:grid-cols-4">
+            <div className="grid gap-4 sm:grid-cols-2">
               {/* Type pills */}
-              <div className="flex gap-2 items-center">
+              <div className="flex flex-wrap items-center gap-2 sm:col-span-2">
                 {(['all', 'house', 'land'] as PropertyType[]).map((k) => (
                   <button
                     key={k}
@@ -139,7 +157,7 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
               <select
                 value={location}
                 onChange={(e) => { setLocation(e.target.value); setCurrentPage(1); }}
-                className="rounded-xl border border-white/15 bg-white/8 px-3 py-2.5 text-sm text-white/80 focus:border-[#c9a84c]/50 focus:outline-none backdrop-blur-sm"
+                className="min-w-0 w-full rounded-xl border border-white/15 bg-white/8 px-3 py-2.5 text-sm text-white/80 focus:border-[#c9a84c]/50 focus:outline-none backdrop-blur-sm"
               >
                 <option value="all" className="bg-[#1a1a2e]">{t.filters.location}</option>
                 {locations.slice(1).map((loc) => (
@@ -151,7 +169,7 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
               <select
                 value={sort}
                 onChange={(e) => { setSort(e.target.value as SortOrder); setCurrentPage(1); }}
-                className="rounded-xl border border-white/15 bg-white/8 px-3 py-2.5 text-sm text-white/80 focus:border-[#c9a84c]/50 focus:outline-none backdrop-blur-sm"
+                className="min-w-0 w-full rounded-xl border border-white/15 bg-white/8 px-3 py-2.5 text-sm text-white/80 focus:border-[#c9a84c]/50 focus:outline-none backdrop-blur-sm"
               >
                 {Object.entries(t.sort).map(([k, v]) => (
                   <option key={k} value={k} className="bg-[#1a1a2e]">{v}</option>
@@ -161,26 +179,24 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
               {/* Reset */}
               <button
                 onClick={resetFilters}
-                className="rounded-xl border border-white/15 bg-white/5 px-3 py-2.5 text-sm text-white/60 transition-all duration-200 hover:border-[#c9a84c]/40 hover:text-[#c9a84c]"
+                className="min-w-0 w-full rounded-xl border border-white/15 bg-white/5 px-3 py-2.5 text-sm text-white/60 transition-all duration-200 hover:border-[#c9a84c]/40 hover:text-[#c9a84c]"
               >
                 {t.filters.reset}
               </button>
-            </div>
 
-            <div className="mt-4 grid gap-4 md:grid-cols-2">
               <input
                 value={minPrice}
                 onChange={(e) => { setMinPrice(e.target.value); setCurrentPage(1); }}
                 placeholder={t.filters.min}
                 inputMode="numeric"
-                className="rounded-xl border border-white/15 bg-white/8 px-3 py-2.5 text-sm text-white/80 placeholder-white/30 focus:border-[#c9a84c]/50 focus:outline-none backdrop-blur-sm"
+                className="min-w-0 w-full rounded-xl border border-white/15 bg-white/8 px-3 py-2.5 text-sm text-white/80 placeholder-white/30 focus:border-[#c9a84c]/50 focus:outline-none backdrop-blur-sm"
               />
               <input
                 value={maxPrice}
                 onChange={(e) => { setMaxPrice(e.target.value); setCurrentPage(1); }}
                 placeholder={t.filters.max}
                 inputMode="numeric"
-                className="rounded-xl border border-white/15 bg-white/8 px-3 py-2.5 text-sm text-white/80 placeholder-white/30 focus:border-[#c9a84c]/50 focus:outline-none backdrop-blur-sm"
+                className="min-w-0 w-full rounded-xl border border-white/15 bg-white/8 px-3 py-2.5 text-sm text-white/80 placeholder-white/30 focus:border-[#c9a84c]/50 focus:outline-none backdrop-blur-sm"
               />
             </div>
           </motion.section>

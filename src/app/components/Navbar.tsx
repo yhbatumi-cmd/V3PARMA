@@ -112,13 +112,13 @@ export default function Navbar({ lang, setLang, currentPage, onNavigate }: Navba
           initial={{ opacity: 0, y: -8 }}
           animate={{ opacity: 1, y: 0 }}
           exit={{ opacity: 0, y: -8 }}
-          className="md:hidden bg-[#0c0c14]/95 border-t border-[#c9a84c]/20 px-4 pb-4"
+          className="md:hidden border-t border-[#c9a84c]/20 bg-[#080810]/98 px-4 pb-4 shadow-[0_14px_28px_rgba(0,0,0,0.45)]"
         >
           {navLinks.map(({ key, label }) => (
             <button
               key={key}
               onClick={() => { onNavigate(key); setMobileOpen(false); }}
-              className={`block w-full py-3 text-left text-base font-medium border-b border-white/5 last:border-0 transition-colors ${
+              className={`block w-full border-b border-white/5 py-3 text-left text-base font-medium last:border-0 transition-colors ${
                 currentPage === key ? 'text-[#c9a84c]' : 'text-white/70 hover:text-[#c9a84c]'
               }`}
             >

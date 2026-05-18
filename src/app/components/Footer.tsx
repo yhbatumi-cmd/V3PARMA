@@ -12,20 +12,20 @@ export default function Footer({ lang, onNavigate }: FooterProps) {
   const t = i18n[lang];
 
   return (
-    <footer className="border-t border-white/8 bg-[#080810] px-4 py-6">
+    <footer className="border-t border-white/8 bg-[#080810] px-4 py-4 md:py-6">
       <div className="mx-auto max-w-6xl">
-        <div className="grid gap-6 md:grid-cols-3 md:gap-8">
+        <div className="grid gap-4 md:grid-cols-3 md:gap-8">
           {/* Brand */}
-          <div className="flex flex-col items-center md:items-start gap-4">
+          <div className="flex flex-col items-center gap-0 md:items-start md:gap-4">
             <button onClick={() => onNavigate('home')} className="opacity-90 hover:opacity-100 transition-opacity">
               <img
                 src={logoImage}
                 alt="PARMAINVEST"
-                className="h-44 w-auto object-contain"
+                className="h-36 w-auto object-contain md:h-44"
                 style={{ filter: 'invert(1) drop-shadow(0 1px 6px rgba(201,168,76,0.3))' }}
               />
             </button>
-            <p className="text-base text-white/35 leading-relaxed max-w-xs text-center md:text-left">
+            <p className="-mt-5 max-w-xs text-center text-base leading-snug text-white md:mt-0 md:text-left md:text-white/35 md:leading-relaxed">
               {lang === 'RU'
                 ? <>Загородная недвижимость Грузии.<br />Подбор, проверка и сопровождение.</>
                 : <>Georgia countryside real estate.<br />Search, check, and support.</>}
@@ -83,7 +83,7 @@ export default function Footer({ lang, onNavigate }: FooterProps) {
           </div>
         </div>
 
-        <div className="mt-6 border-t border-white/6 pt-4 text-center">
+        <div className="mt-4 border-t border-white/6 pt-4 text-center md:mt-6">
           <p className="text-xs text-white/20">© 2020 PARMAINVEST. {lang === 'RU' ? 'Все права защищены.' : 'All rights reserved.'}</p>
           <button
             onClick={() => onNavigate('privacy')}
