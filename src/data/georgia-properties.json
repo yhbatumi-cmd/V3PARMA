@@ -1556,6 +1556,73 @@
     }
   },
   {
+    "id": 22,
+    "slug": "земельный-участок-в-капрешуми-2500-м-под-застройку-до-6-этажей",
+    "type": "land",
+    "status": "new",
+    "location": {
+      "ru": "Капрешуми, пригород Батуми",
+      "en": "Kapreshumi, Batumi suburb",
+      "ge": "Kapreshumi, Batumi suburb"
+    },
+    "title": {
+      "ru": "Земельный участок в Капрешуми - 2,500 м² под застройку до 6 этажей",
+      "en": "Land Plot in Kapreshumi - 2,500 m² with 6-Floor Building Rights",
+      "ge": "Land Plot in Kapreshumi - 2,500 m² with 6-Floor Building Rights"
+    },
+    "description": {
+      "ru": "Участок 2,500 м² вдоль центральной дороги в ближайшем пригороде Батуми. Статус несельхоз, рядом горная река. Коэффициенты позволяют строить до 6 этажей.",
+      "en": "2,500 m² land plot along central road in Batumi suburb. Non-agricultural status, near mountain river. Building coefficients allow construction up to 6 floors.",
+      "ge": "2,500 m² land plot along central road in Batumi suburb. Non-agricultural status, near mountain river. Building coefficients allow construction up to 6 floors."
+    },
+    "priceUSD": 150000,
+    "priceGEL": 405000,
+    "priceRUB": 13800000,
+    "landArea": 2500,
+    "houseArea": null,
+    "images": [
+      "IMAGE_2026-04-21_17:04:01.webp"
+    ],
+    "features": {
+      "ru": [
+        "Площадь участка 2,500 м²",
+        "Статус несельхоз назначение",
+        "Доступна покупка иностранцам",
+        "Вдоль центральной дороги",
+        "Рядом горная река",
+        "Коэффициенты позволяют строить до 6 этажей",
+        "Ближайший пригород Батуми",
+        "Отличная локация для застройки",
+        "Идеально для многоквартирного дома",
+        "Высокий потенциал застройки"
+      ],
+      "en": [
+        "2,500 m² plot area",
+        "Non-agricultural land status",
+        "Foreign buyers can purchase",
+        "Along central road",
+        "Near mountain river",
+        "Building coefficients allow up to 6 floors",
+        "Batumi nearest suburb",
+        "Great location for development",
+        "Perfect for apartment building",
+        "High development potential"
+      ],
+      "ge": [
+        "2,500 m² plot area",
+        "Non-agricultural land status",
+        "Foreign buyers can purchase",
+        "Along central road",
+        "Near mountain river",
+        "Building coefficients allow up to 6 floors",
+        "Batumi nearest suburb",
+        "Great location for development",
+        "Perfect for apartment building",
+        "High development potential"
+      ]
+    }
+  },
+  {
     "id": 23,
     "slug": "участок-с-проектом-у-бамбуковой-рощи-в-махинджаури",
     "type": "land",
