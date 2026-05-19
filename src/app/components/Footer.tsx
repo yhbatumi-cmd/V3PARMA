@@ -1,4 +1,4 @@
-import { Instagram, Mail, MessageCircle, Send } from 'lucide-react';
+import { Instagram, MessageCircle, Send } from 'lucide-react';
 import logoImage from '../../imports/logo-georgia-black.png';
 import type { Lang, Page } from '../types';
 import { i18n, privacyText } from '../types';
@@ -16,20 +16,22 @@ export default function Footer({ lang, onNavigate }: FooterProps) {
       <div className="mx-auto max-w-6xl">
         <div className="grid gap-4 md:grid-cols-3 md:gap-8">
           {/* Brand */}
-          <div className="flex flex-col items-center gap-0 md:items-start md:gap-4">
-            <button onClick={() => onNavigate('home')} className="opacity-90 hover:opacity-100 transition-opacity">
-              <img
-                src={logoImage}
-                alt="PARMAINVEST"
-                className="h-36 w-auto object-contain md:h-44"
-                style={{ filter: 'invert(1) drop-shadow(0 1px 6px rgba(201,168,76,0.3))' }}
-              />
-            </button>
-            <p className="-mt-5 max-w-xs text-center text-base leading-snug text-white md:mt-0 md:text-left md:text-white/35 md:leading-relaxed">
-              {lang === 'RU'
-                ? <>Загородная недвижимость Грузии.<br />Подбор, проверка и сопровождение.</>
-                : <>Georgia countryside real estate.<br />Search, check, and support.</>}
-            </p>
+          <div className="flex flex-col items-center md:items-start">
+            <div className="flex flex-row items-center gap-3">
+              <button onClick={() => onNavigate('home')} className="opacity-90 hover:opacity-100 transition-opacity flex-shrink-0">
+                <img
+                  src={logoImage}
+                  alt="PARMAINVEST"
+                  className="h-28 w-auto object-contain md:h-32"
+                  style={{ filter: 'invert(1) drop-shadow(0 1px 6px rgba(201,168,76,0.3))' }}
+                />
+              </button>
+              <p className="max-w-xs text-sm leading-snug text-white">
+                {lang === 'RU'
+                  ? <>Загородная недвижимость Грузии.<br />Подбор, проверка и сопровождение.</>
+                  : <>Georgia countryside real estate.<br />Search, check, and support.</>}
+              </p>
+            </div>
           </div>
 
           {/* Nav */}
@@ -65,7 +67,6 @@ export default function Footer({ lang, onNavigate }: FooterProps) {
                 { href: 'https://instagram.com/parmainvest', icon: <Instagram size={24} /> },
                 { href: 'https://t.me/parmainvest', icon: <Send size={24} /> },
                 { href: 'https://wa.me/995557520693', icon: <MessageCircle size={24} /> },
-                { href: 'mailto:parmainvest@gmail.com', icon: <Mail size={24} /> },
               ].map(({ href, icon }) => (
                 <a
                   key={href}
@@ -79,7 +80,6 @@ export default function Footer({ lang, onNavigate }: FooterProps) {
               ))}
             </div>
             <p className="mt-4 text-base text-white/30">+995 557 520 693</p>
-            <p className="text-base text-white/30">parmainvest@gmail.com</p>
           </div>
         </div>
 

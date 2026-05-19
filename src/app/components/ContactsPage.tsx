@@ -21,10 +21,9 @@ export default function ContactsPage({ lang }: ContactsPageProps) {
   };
 
   const channels = [
-    { href: 'https://instagram.com/parmainvest', icon: <Instagram size={22} />, label: 'Instagram', handle: '@parmainvest' },
-    { href: 'https://t.me/parmainvest', icon: <Send size={22} />, label: 'Telegram', handle: '@parmainvest' },
-    { href: 'https://wa.me/995557520693', icon: <MessageCircle size={22} />, label: 'WhatsApp', handle: '+995 557 520 693' },
-    { href: 'mailto:parmainvest@gmail.com', icon: <Mail size={22} />, label: 'Email', handle: 'parmainvest@gmail.com' },
+    { href: 'https://instagram.com/parmainvest', icon: <Instagram size={22} />, label: 'Instagram' },
+    { href: 'https://t.me/parmainvest', icon: <Send size={22} />, label: 'Telegram' },
+    { href: 'https://wa.me/995557520693', icon: <MessageCircle size={22} />, label: 'WhatsApp' },
     { href: 'tel:+995557520693', icon: <Phone size={22} />, label: lang === 'RU' ? 'Телефон' : 'Phone', handle: '+995 557 520 693' },
   ];
 
@@ -68,7 +67,7 @@ export default function ContactsPage({ lang }: ContactsPageProps) {
                   </div>
                   <div>
                     <p className="text-sm font-semibold text-white">{ch.label}</p>
-                    <p className="text-sm text-white/45">{ch.handle}</p>
+                    {'handle' in ch && ch.handle && <p className="text-sm text-white/45">{ch.handle}</p>}
                   </div>
                 </motion.a>
               ))}

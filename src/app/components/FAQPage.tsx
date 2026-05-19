@@ -91,8 +91,8 @@ export default function FAQPage({ lang, onNavigate }: FAQPageProps) {
           </h3>
           <p className="text-white/55 mb-6">
             {lang === 'RU'
-              ? 'Свяжитесь с нами — ответим на любые вопросы.'
-              : 'Contact us — we’ll answer any questions you have.'}
+              ? 'Свяжитесь с нами - ответим на любые вопросы.'
+              : 'Contact us - we\'ll answer any questions you have.'}
           </p>
           <button
             onClick={() => onNavigate && onNavigate('contacts')}

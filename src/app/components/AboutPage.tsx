@@ -47,20 +47,25 @@ export default function AboutPage({ lang, onNavigate }: AboutPageProps) {
             transition={{ duration: 0.5 }}
             className="rounded-2xl border border-white/8 bg-white/5 backdrop-blur-sm p-8"
           >
-            <h2 className="text-2xl font-bold text-[#c9a84c] mb-4">PARMAINVEST</h2>
-            <p className="text-white/65 leading-relaxed text-base">{t.aboutText}</p>
+            <h2 className="text-2xl font-bold text-[#c9a84c] mb-4">PARMAINVEST.</h2>
+            <p className="text-white/65 leading-relaxed text-base">
+              {lang === 'RU'
+                ? 'PARMAINVEST. - компания, специализирующаяся на загородной недвижимости Грузии. Мы помогаем клиентам безопасно и эффективно приобретать дома, виллы и земельные участки, обеспечивая полный цикл сопровождения: от подбора объекта и юридической проверки, до организации сделки под ключ.'
+                : 'PARMAINVEST. is a company specializing in countryside real estate in Georgia. We help clients safely and effectively acquire homes, villas and land plots, providing a full cycle of support: from property selection and legal verification to turnkey transaction management.'}
+            </p>
 
-            <div className="mt-6 flex flex-col gap-3">
+            <ul className="mt-6 flex flex-row flex-wrap items-center justify-center gap-x-6 gap-y-2">
               {[
-                lang === 'RU' ? '🌊 Черноморское побережье' : '🌊 Black Sea coast',
-                lang === 'RU' ? '⛰️ Горные районы Грузии' : '⛰️ Mountain regions of Georgia',
-                lang === 'RU' ? '🏡 Пригороды Батуми' : '🏡 Batumi suburbs',
+                lang === 'RU' ? 'Черноморское побережье' : 'Black Sea coast',
+                lang === 'RU' ? 'Горные районы Грузии' : 'Mountain regions of Georgia',
+                lang === 'RU' ? 'Пригороды Батуми' : 'Batumi suburbs',
               ].map((item) => (
-                <div key={item} className="flex items-center gap-3 text-sm text-white/60">
+                <li key={item} className="flex items-center gap-2 text-lg text-white/70">
+                  <span className="h-1.5 w-1.5 rounded-full bg-[#c9a84c] flex-shrink-0" />
                   <span>{item}</span>
-                </div>
+                </li>
               ))}
-            </div>
+            </ul>
           </motion.div>
 
           {/* Feature grid */}
@@ -92,9 +97,9 @@ export default function AboutPage({ lang, onNavigate }: AboutPageProps) {
           transition={{ duration: 0.5 }}
           className="mt-10 rounded-2xl border border-[#c9a84c]/20 bg-[#c9a84c]/5 p-8 text-center"
         >
-          <p className="text-white/70 text-base leading-relaxed max-w-2xl mx-auto">
+          <p className="text-white text-xl leading-relaxed max-w-2xl mx-auto font-medium">
             {lang === 'RU'
-              ? 'Наша миссия — помочь каждому клиенту найти правильный объект в Грузии с минимальными рисками и максимальным комфортом в процессе.'
+              ? 'Наша миссия - помочь каждому клиенту найти правильный объект в Грузии с минимальными рисками и максимальным комфортом в процессе.'
               : 'Our mission is to help every client find the right property in Georgia with minimal risk and maximum comfort throughout the process.'}
           </p>
           <button

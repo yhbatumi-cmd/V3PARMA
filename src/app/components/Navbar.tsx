@@ -43,9 +43,9 @@ export default function Navbar({ lang, setLang, currentPage, onNavigate }: Navba
       transition={{ duration: 0.3 }}
       className="fixed top-0 left-0 right-0 z-50 border-b backdrop-blur-md"
     >
-      <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 md:px-8">
-        {/* Logo — hidden on home page, visible and large on other pages */}
-        {!isHome ? (
+      <div className="mx-auto flex h-16 max-w-7xl items-center px-4 md:px-8 relative">
+        {/* Logo + lang switcher - left */}
+        <div className="flex items-center gap-2 flex-shrink-0">
           <button
             onClick={() => onNavigate('home')}
             className="flex items-center"
@@ -54,16 +54,29 @@ export default function Navbar({ lang, setLang, currentPage, onNavigate }: Navba
             <img
               src={logoImage}
               alt="PARMAINVEST"
-              className="h-20 md:h-24 w-auto object-contain"
+              className="h-16 md:h-[4.8rem] w-auto object-contain"
               style={{ filter: 'invert(1) drop-shadow(0 1px 4px rgba(201,168,76,0.4))' }}
             />
           </button>
-        ) : (
-          <div />
-        )}
+          <div className="hidden md:flex gap-1 rounded-full bg-white/10 p-0.5">
+            {(['RU', 'EN'] as Lang[]).map((code) => (
+              <button
+                key={code}
+                onClick={() => setLang(code)}
+                className={`h-7 min-w-9 rounded-full px-2 text-[11px] font-semibold transition-all duration-200 ${
+                  lang === code
+                    ? 'bg-[#c9a84c] text-white shadow-[0_0_8px_rgba(201,168,76,0.5)]'
+                    : 'text-white/60 hover:text-white'
+                }`}
+              >
+                {code}
+              </button>
+            ))}
+          </div>
+        </div>
 
-        {/* Desktop nav */}
-        <nav className="hidden md:flex items-center gap-6">
+        {/* Desktop nav - centered */}
+        <nav className="hidden md:flex items-center gap-6 absolute left-1/2 -translate-x-1/2">
           {navLinks.map(({ key, label }) => (
             <button
               key={key}
@@ -79,9 +92,9 @@ export default function Navbar({ lang, setLang, currentPage, onNavigate }: Navba
           ))}
         </nav>
 
-        {/* Lang switcher + mobile toggle */}
+        {/* Mobile toggle + lang */}
         <div className="flex items-center gap-3">
-          <div className="flex gap-1 rounded-full bg-white/10 p-0.5">
+          <div className="md:hidden flex gap-1 rounded-full bg-white/10 p-0.5">
             {(['RU', 'EN'] as Lang[]).map((code) => (
               <button
                 key={code}
