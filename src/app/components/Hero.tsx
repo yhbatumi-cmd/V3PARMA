@@ -48,7 +48,7 @@ export default function Hero({ lang, onNavigate }: HeroProps) {
           {lang === 'RU' ? (
             <>
 Дома, виллы и земельные участки в живописных уголках страны.
-              <br />
+              <br className="md:block" />
               Подбор, проверка и сопровождение сделки под ключ.
             </>
           ) : (
