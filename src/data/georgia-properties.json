@@ -2332,5 +2332,81 @@
         "Price: $4,900,000"
       ]
     }
+  },
+  {
+    "id": 41,
+    "slug": "investicionnyj-uchastok-1-ga-v-chakvi-10217-m",
+    "type": "land",
+    "status": "new",
+    "location": {
+      "ru": "Чакви",
+      "en": "Chakvi, near Batumi",
+      "ge": "Chakvi, near Batumi"
+    },
+    "title": {
+      "ru": "Инвестиционный участок 1 Га в Чакви с проектом (10217 м²)",
+      "en": "Investment Plot 1 Hectare in Chakvi with Development Project (10217 m²)",
+      "ge": "Investment Plot 1 Hectare in Chakvi with Development Project (10217 m²)"
+    },
+    "description": {
+      "ru": "Уникальный земельный участок 10000 м² с проектом малоэтажной застройки на побережье Чёрного моря в курортном посёлке Чакви, в 15 минутах от Батуми. Участок в 800 метрах от моря. Статус несельскохозяйственного назначения, подходит для покупки иностранными гражданами. Согласован проект на 10 домов. Граничит с чистой горной рекой.",
+      "en": "Unique 10000 m² land plot with low-rise development project on the Black Sea coast in Chakvi, 15 min from Batumi. 800m from sea. Non-agricultural status, available for foreign buyers. Project for 10 houses approved. Borders mountain river.",
+      "ge": "Unique 10000 m² land plot with low-rise development project on the Black Sea coast in Chakvi, 15 min from Batumi. 800m from sea. Non-agricultural status, available for foreign buyers. Project for 10 houses approved. Borders mountain river."
+    },
+    "priceUSD": 800000,
+    "priceGEL": 2160000,
+    "priceRUB": 81600000,
+    "landArea": 10217,
+    "houseArea": null,
+    "images": [
+      "tg_116_photo_35@23-03-2026_10-58-30.jpg",
+      "tg_116_photo_36@23-03-2026_10-58-30.jpg",
+      "tg_116_photo_37@23-03-2026_10-58-30.jpg",
+      "tg_116_photo_38@23-03-2026_10-58-30.jpg",
+      "tg_116_photo_39@23-03-2026_10-58-30.jpg",
+      "tg_116_photo_40@23-03-2026_10-58-30.jpg",
+      "tg_116_photo_41@23-03-2026_10-58-30.jpg",
+      "tg_116_photo_42@23-03-2026_10-58-30.jpg",
+      "tg_116_photo_43@23-03-2026_10-58-30.jpg",
+      "tg_116_photo_44@23-03-2026_10-58-30.jpg"
+    ],
+    "features": {
+      "ru": [
+        "Площадь 10 217 м² (1 Га)",
+        "Статус несельхоз назначение",
+        "Доступно для иностранных граждан",
+        "Проект на 10 домов согласован",
+        "Все коммуникации: газ, электричество, вода",
+        "Асфальт до участка",
+        "800 м от моря",
+        "Граничит с горной рекой",
+        "15 минут от Батуми",
+        "Цена: $80/м²"
+      ],
+      "en": [
+        "Plot area: 10,217 m² (1 hectare)",
+        "Non-agricultural status",
+        "Available for foreign buyers",
+        "Project for 10 houses approved",
+        "All utilities: gas, electricity, water",
+        "Asphalt road access",
+        "800m from sea",
+        "Borders mountain river",
+        "15 min from Batumi",
+        "Price: $80/m²"
+      ],
+      "ge": [
+        "Plot area: 10,217 m² (1 hectare)",
+        "Non-agricultural status",
+        "Available for foreign buyers",
+        "Project for 10 houses approved",
+        "All utilities: gas, electricity, water",
+        "Asphalt road access",
+        "800m from sea",
+        "Borders mountain river",
+        "15 min from Batumi",
+        "Price: $80/m²"
+      ]
+    }
   }
 ]
