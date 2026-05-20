@@ -1012,7 +1012,9 @@
     "priceRUB": 52632000,
     "landArea": 8600,
     "houseArea": null,
-    "images": [],
+    "images": [
+      "tg_329_sakhalvasho_view.jpg"
+    ],
     "features": {
       "ru": [
         "Площадь - 8 600 м² с",
