@@ -54,7 +54,7 @@ export default function AboutPage({ lang, onNavigate }: AboutPageProps) {
                 : 'PARMAINVEST. is a company specializing in countryside real estate in Georgia. We help clients safely and effectively acquire homes, villas and land plots, providing a full cycle of support: from property selection and legal verification to turnkey transaction management.'}
             </p>
 
-            <ul className="mt-6 flex flex-row flex-wrap items-center justify-center gap-x-6 gap-y-2">
+            <ul className="mt-6 flex flex-col items-start gap-2 sm:flex-row sm:flex-wrap sm:items-center sm:justify-center sm:gap-x-6 sm:gap-y-2">
               {[
                 lang === 'RU' ? 'Черноморское побережье' : 'Black Sea coast',
                 lang === 'RU' ? 'Горные районы Грузии' : 'Mountain regions of Georgia',

@@ -81,7 +81,7 @@ export default function Navbar({ lang, setLang, currentPage, onNavigate }: Navba
             <button
               key={key}
               onClick={() => onNavigate(key)}
-              className={`relative text-lg font-medium tracking-wide transition-colors duration-200 pb-0.5 ${
+              className={`relative text-2xl font-medium tracking-wide transition-colors duration-200 pb-0.5 ${
                 currentPage === key
                   ? 'text-[#c9a84c] after:absolute after:bottom-0 after:left-0 after:right-0 after:h-0.5 after:bg-[#c9a84c] after:rounded-full'
                   : 'text-white/70 hover:text-[#c9a84c]'
@@ -92,31 +92,34 @@ export default function Navbar({ lang, setLang, currentPage, onNavigate }: Navba
           ))}
         </nav>
 
-        {/* Mobile toggle + lang */}
-        <div className="flex items-center gap-3">
-          <div className="md:hidden flex gap-1 rounded-full bg-white/10 p-0.5">
-            {(['RU', 'EN'] as Lang[]).map((code) => (
-              <button
-                key={code}
-                onClick={() => setLang(code)}
-                className={`h-7 min-w-9 rounded-full px-2 text-[11px] font-semibold transition-all duration-200 ${
-                  lang === code
-                    ? 'bg-[#c9a84c] text-white shadow-[0_0_8px_rgba(201,168,76,0.5)]'
-                    : 'text-white/60 hover:text-white'
-                }`}
-              >
-                {code}
-              </button>
-            ))}
-          </div>
-          <button
-            className="md:hidden flex h-11 w-11 items-center justify-center text-white/70 hover:text-white"
-            onClick={() => setMobileOpen((v) => !v)}
-            aria-label="Toggle menu"
-          >
-            {mobileOpen ? <X size={22} /> : <Menu size={22} />}
-          </button>
+        {/* Mobile lang switcher - near logo */}
+        <div className="md:hidden flex gap-1 rounded-full bg-white/10 p-0.5 ml-2">
+          {(['RU', 'EN'] as Lang[]).map((code) => (
+            <button
+              key={code}
+              onClick={() => setLang(code)}
+              className={`h-7 min-w-9 rounded-full px-2 text-[11px] font-semibold transition-all duration-200 ${
+                lang === code
+                  ? 'bg-[#c9a84c] text-white shadow-[0_0_8px_rgba(201,168,76,0.5)]'
+                  : 'text-white/60 hover:text-white'
+              }`}
+            >
+              {code}
+            </button>
+          ))}
         </div>
+
+        {/* Spacer to push hamburger right */}
+        <div className="flex-1 md:hidden" />
+
+        {/* Mobile hamburger - far right, bigger */}
+        <button
+          className="md:hidden flex h-12 w-12 items-center justify-center rounded-xl border border-white/15 bg-white/10 text-white hover:border-[#c9a84c]/50 hover:text-[#c9a84c] transition-all duration-200"
+          onClick={() => setMobileOpen((v) => !v)}
+          aria-label="Toggle menu"
+        >
+          {mobileOpen ? <X size={26} /> : <Menu size={26} />}
+        </button>
       </div>
 
       {/* Mobile drawer */}
