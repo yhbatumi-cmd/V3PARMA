@@ -106,7 +106,13 @@ export default function App() {
                   </h1>
                   <div className="h-px w-16 bg-gradient-to-r from-transparent via-[#c9a84c] to-transparent mb-8" />
                   <div className="rounded-2xl border border-white/8 bg-white/5 backdrop-blur-sm p-8">
-                    <p className="text-white/60 leading-relaxed">{privacyText[lang].body}</p>
+                    <div className="text-white/60 leading-relaxed space-y-4">
+                      {privacyText[lang].body.split('\n\n').map((para, i) => (
+                        <p key={i} className={para.match(/^\d+\./) ? 'text-white/80 font-semibold mt-6' : ''}>
+                          {para}
+                        </p>
+                      ))}
+                    </div>
                   </div>
                 </motion.div>
               </div>
