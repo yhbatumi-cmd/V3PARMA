@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import { motion } from 'motion/react';
-import { ChevronLeft, ChevronRight, SlidersHorizontal } from 'lucide-react';
+import { ChevronFirst, ChevronLast, ChevronLeft, ChevronRight, SlidersHorizontal } from 'lucide-react';
 import type { Lang, Property, PropertyType, SortOrder } from '../types';
 import { i18n } from '../types';
 import PropertyCard from './PropertyCard';
@@ -26,9 +26,11 @@ interface CatalogPageProps {
   lang: Lang;
   properties: Property[];
   onSelectProperty: (slug: string) => void;
+  initialPage?: number;
+  onPageChange?: (page: number) => void;
 }
 
-export default function CatalogPage({ lang, properties, onSelectProperty }: CatalogPageProps) {
+export default function CatalogPage({ lang, properties, onSelectProperty, initialPage = 1, onPageChange }: CatalogPageProps) {
   const t = i18n[lang];
   const lk = lang.toLowerCase() as 'ru' | 'en';
 
@@ -37,9 +39,11 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
   const [sort, setSort] = useState<SortOrder>('new');
   const [minPrice, setMinPrice] = useState('');
   const [maxPrice, setMaxPrice] = useState('');
-  const [currentPage, setCurrentPage] = useState(1);
+  const [currentPage, setCurrentPage] = useState(initialPage);
+  const changePage = (p: number) => { setCurrentPage(p); onPageChange?.(p); };
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [currency, setCurrency] = useState<'USD' | 'GEL'>('USD');
+  const [hotOnly, setHotOnly] = useState(false);
 
   const locations = useMemo(
     () => {
@@ -55,6 +59,7 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
     const list = properties.filter((p) => {
       if (kind !== 'all' && p.type !== kind) return false;
       if (location !== 'all' && getSettlementName(p.location[lk], lang) !== location) return false;
+      if (hotOnly && p.badge !== 'HOT') return false;
       return p.priceUSD >= min && p.priceUSD <= max;
     });
     return list.sort((a, b) => {
@@ -77,12 +82,13 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
     setSort('new');
     setMinPrice('');
     setMaxPrice('');
-    setCurrentPage(1);
+    changePage(1);
+    setHotOnly(false);
   };
 
   const selectKind = (k: PropertyType) => {
     setKind(k);
-    setCurrentPage(1);
+    changePage(1);
   };
 
   return (
@@ -138,7 +144,17 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
             <div className="grid gap-4 sm:grid-cols-2">
               {/* Type pills */}
               <div className="flex flex-wrap items-center gap-2 sm:col-span-2">
-                {(['all', 'house', 'land'] as PropertyType[]).map((k) => (
+                <button
+                  onClick={() => { setHotOnly((v) => !v); changePage(1); }}
+                  className={`rounded-full border px-4 py-2 text-sm font-medium transition-all duration-200 ${
+                    hotOnly
+                      ? 'border-red-500 bg-red-500 text-white shadow-[0_0_12px_rgba(239,68,68,0.4)]'
+                      : 'border-white/15 text-white/60 hover:border-red-400/50 hover:text-red-400'
+                  }`}
+                >
+                  🔥 HOT
+                </button>
+              {(['all', 'house', 'land'] as PropertyType[]).map((k) => (
                   <button
                     key={k}
                     onClick={() => selectKind(k)}
@@ -156,7 +172,7 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
               {/* Location */}
               <select
                 value={location}
-                onChange={(e) => { setLocation(e.target.value); setCurrentPage(1); }}
+                onChange={(e) => { setLocation(e.target.value); changePage(1); }}
                 className="min-w-0 w-full rounded-xl border border-white/15 bg-white/8 px-3 py-2.5 text-sm text-white/80 focus:border-[#c9a84c]/50 focus:outline-none backdrop-blur-sm"
               >
                 <option value="all" className="bg-[#1a1a2e]">{t.filters.location}</option>
@@ -168,7 +184,7 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
               {/* Sort */}
               <select
                 value={sort}
-                onChange={(e) => { setSort(e.target.value as SortOrder); setCurrentPage(1); }}
+                onChange={(e) => { setSort(e.target.value as SortOrder); changePage(1); }}
                 className="min-w-0 w-full rounded-xl border border-white/15 bg-white/8 px-3 py-2.5 text-sm text-white/80 focus:border-[#c9a84c]/50 focus:outline-none backdrop-blur-sm"
               >
                 {Object.entries(t.sort).map(([k, v]) => (
@@ -186,14 +202,14 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
 
               <input
                 value={minPrice}
-                onChange={(e) => { setMinPrice(e.target.value); setCurrentPage(1); }}
+                onChange={(e) => { setMinPrice(e.target.value); changePage(1); }}
                 placeholder={t.filters.min}
                 inputMode="numeric"
                 className="min-w-0 w-full rounded-xl border border-white/15 bg-white/8 px-3 py-2.5 text-sm text-white/80 placeholder-white/30 focus:border-[#c9a84c]/50 focus:outline-none backdrop-blur-sm"
               />
               <input
                 value={maxPrice}
-                onChange={(e) => { setMaxPrice(e.target.value); setCurrentPage(1); }}
+                onChange={(e) => { setMaxPrice(e.target.value); changePage(1); }}
                 placeholder={t.filters.max}
                 inputMode="numeric"
                 className="min-w-0 w-full rounded-xl border border-white/15 bg-white/8 px-3 py-2.5 text-sm text-white/80 placeholder-white/30 focus:border-[#c9a84c]/50 focus:outline-none backdrop-blur-sm"
@@ -219,24 +235,40 @@ export default function CatalogPage({ lang, properties, onSelectProperty }: Cata
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
-            className="mt-10 flex items-center justify-center gap-3"
+            className="mt-10 flex items-center justify-center gap-2"
           >
             <button
-              onClick={() => setCurrentPage((v) => Math.max(1, v - 1))}
+              onClick={() => changePage(1)}
+              disabled={currentPage === 1}
+              className="rounded-full border border-white/15 bg-white/5 p-2.5 text-white/70 transition hover:border-[#c9a84c]/50 hover:text-[#c9a84c] disabled:opacity-30 disabled:cursor-not-allowed"
+              title="Первая страница"
+            >
+              <ChevronFirst size={18} />
+            </button>
+            <button
+              onClick={() => changePage(Math.max(1, currentPage - 1))}
               disabled={currentPage === 1}
               className="rounded-full border border-white/15 bg-white/5 p-2.5 text-white/70 transition hover:border-[#c9a84c]/50 hover:text-[#c9a84c] disabled:opacity-30 disabled:cursor-not-allowed"
             >
               <ChevronLeft size={18} />
             </button>
-            <span className="text-sm text-white/60">
+            <span className="text-sm text-white/60 min-w-20 text-center">
               {t.page} {currentPage} / {pages}
             </span>
             <button
-              onClick={() => setCurrentPage((v) => Math.min(pages, v + 1))}
+              onClick={() => changePage(Math.min(pages, currentPage + 1))}
               disabled={currentPage === pages}
               className="rounded-full border border-white/15 bg-white/5 p-2.5 text-white/70 transition hover:border-[#c9a84c]/50 hover:text-[#c9a84c] disabled:opacity-30 disabled:cursor-not-allowed"
             >
               <ChevronRight size={18} />
+            </button>
+            <button
+              onClick={() => changePage(pages)}
+              disabled={currentPage === pages}
+              className="rounded-full border border-white/15 bg-white/5 p-2.5 text-white/70 transition hover:border-[#c9a84c]/50 hover:text-[#c9a84c] disabled:opacity-30 disabled:cursor-not-allowed"
+              title="Последняя страница"
+            >
+              <ChevronLast size={18} />
             </button>
           </motion.div>
         )}

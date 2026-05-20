@@ -111,7 +111,8 @@
         "цена: 350 000$ (~70$ / метр)",
         "Price: $350,000"
       ]
-    }
+    },
+    "badge": "HOT"
   },
   {
     "id": 3,
@@ -189,9 +190,9 @@
       "en": "Area 13 соток (1300 m²), разделен на 3 кадастра.. Есть разрешение на строительство 3х частных вилл площадью ~400m² каждая.. Стоимость земли вместе с проектом и разрешением на строительство 180 000$",
       "ge": "Area 13 соток (1300 m²), разделен на 3 кадастра.. Есть разрешение на строительство 3х частных вилл площадью ~400m² каждая.. Стоимость земли вместе с проектом и разрешением на строительство 180 000$"
     },
-    "priceUSD": 180000,
-    "priceGEL": 486000,
-    "priceRUB": 18360000,
+    "priceUSD": 160000,
+    "priceGEL": 432000,
+    "priceRUB": 16320000,
     "landArea": 1300,
     "houseArea": null,
     "images": [
@@ -210,7 +211,11 @@
       "ge": [
         "Price: $180,000"
       ]
-    }
+    },
+    "badge": "HOT",
+    "oldPriceUSD": 180000,
+    "oldPriceGEL": 486000,
+    "oldPriceRUB": 18360000
   },
   {
     "id": 5,
@@ -1207,8 +1212,8 @@
   },
   {
     "id": 23,
-    "slug": "коттедж-в-чакви-396-м²",
-    "type": "house",
+    "slug": "zemelnye-uchastki-v-kottedzhnom-poselke-chakvi-ot-400-m",
+    "type": "land",
     "status": "new",
     "location": {
       "ru": "Чакви",
@@ -1216,19 +1221,19 @@
       "ge": "Chakvi, near Batumi"
     },
     "title": {
-      "ru": "Коттедж в Чакви (396 м²)",
-      "en": "Коттедж в Чакви (396 m²)",
-      "ge": "Коттедж в Чакви (396 m²)"
+      "ru": "Земельные участки в коттеджном поселке Чакви (от 400 м²)",
+      "en": "Land Plots in Cottage Community Chakvi (from 400 m²)",
+      "ge": "Land Plots in Cottage Community Chakvi (from 400 m²)"
     },
     "description": {
-      "ru": "В продаже земельные участки в коттеджном поселке в Чакви, поселок Сачино. статус не сельскохозяйственное назначение. сделана опорная стена",
-      "en": "В продаже земельные участки в коттеджном поселке в Чакви, поселок Сачино. статус не сельскохозяйственное назначение. сделана опорная стена",
-      "ge": "В продаже земельные участки в коттеджном поселке в Чакви, поселок Сачино. статус не сельскохозяйственное назначение. сделана опорная стена"
+      "ru": "Земельные участки от 400 м² в коттеджном поселке Сачино, Чакви. Статус несельскохозяйственного назначения, подходит для иностранных граждан. Опорная стена уже сделана, все коммуникации вдоль участков. Цена 90$/м².",
+      "en": "Land plots from 400 m² in cottage community Sachino, Chakvi. Non-agricultural status, available for foreign buyers. Retaining wall done, all utilities along plots. Price $90/m².",
+      "ge": "Land plots from 400 m² in cottage community Sachino, Chakvi. Non-agricultural status, available for foreign buyers. Retaining wall done, all utilities along plots. Price $90/m²."
     },
-    "priceUSD": 35640,
-    "priceGEL": 96228,
-    "priceRUB": 3635280,
-    "landArea": 396,
+    "priceUSD": 36000,
+    "priceGEL": 97200,
+    "priceRUB": 3672000,
+    "landArea": 400,
     "houseArea": null,
     "images": [
       "tg_425_photo_256@19-05-2026_16-40-17.jpg",
@@ -1240,31 +1245,34 @@
     ],
     "features": {
       "ru": [
-        "площадь от 396 м2",
-        "статус не сельскохозяйственное назначение",
-        "подходит для покупки иностранными гражданами",
-        "сделана опорная стена",
-        "вдоль участка проходят все необходимые коммуникации",
-        "есть возможность заказать строительство дома",
-        "Цена: $35,640"
+        "Площадь от 400 м²",
+        "Статус несельхоз назначение",
+        "Доступно для иностранных граждан",
+        "Опорная стена готова",
+        "Все коммуникации вдоль участков",
+        "Возможность заказать строительство дома",
+        "Развивающийся коттеджный поселок",
+        "Цена: $90/м²"
       ],
       "en": [
-        "площадь от 396 m²",
-        "статус не сельскохозяйственное назначение",
-        "подходит для покупки foreign buyers",
-        "сделана опорная стена",
-        "вдоль участка проходят все необходимые коммуникации",
-        "есть возможность заказать строительство дома",
-        "Price: $35,640"
+        "Plot area from 400 m²",
+        "Non-agricultural status",
+        "Available for foreign buyers",
+        "Retaining wall completed",
+        "All utilities along plots",
+        "Option to order house construction",
+        "Developing cottage community",
+        "Price: $90/m²"
       ],
       "ge": [
-        "площадь от 396 m²",
-        "статус не сельскохозяйственное назначение",
-        "подходит для покупки foreign buyers",
-        "сделана опорная стена",
-        "вдоль участка проходят все необходимые коммуникации",
-        "есть возможность заказать строительство дома",
-        "Price: $35,640"
+        "Plot area from 400 m²",
+        "Non-agricultural status",
+        "Available for foreign buyers",
+        "Retaining wall completed",
+        "All utilities along plots",
+        "Option to order house construction",
+        "Developing cottage community",
+        "Price: $90/m²"
       ]
     }
   },
@@ -2353,9 +2361,9 @@
       "en": "Unique 10000 m² land plot with low-rise development project on the Black Sea coast in Chakvi, 15 min from Batumi. 800m from sea. Non-agricultural status, available for foreign buyers. Project for 10 houses approved. Borders mountain river.",
       "ge": "Unique 10000 m² land plot with low-rise development project on the Black Sea coast in Chakvi, 15 min from Batumi. 800m from sea. Non-agricultural status, available for foreign buyers. Project for 10 houses approved. Borders mountain river."
     },
-    "priceUSD": 800000,
-    "priceGEL": 2160000,
-    "priceRUB": 81600000,
+    "priceUSD": 715190,
+    "priceGEL": 1931013,
+    "priceRUB": 72949380,
     "landArea": 10217,
     "houseArea": null,
     "images": [
@@ -2407,6 +2415,10 @@
         "15 min from Batumi",
         "Price: $80/m²"
       ]
-    }
+    },
+    "badge": "HOT",
+    "oldPriceUSD": 800000,
+    "oldPriceGEL": 2160000,
+    "oldPriceRUB": 81600000
   }
 ]

@@ -18,6 +18,7 @@ export default function App() {
   const [lang, setLang] = useState<Lang>('RU');
   const [page, setPage] = useState<Page>('home');
   const [selectedSlug, setSelectedSlug] = useState<string | null>(null);
+  const [catalogPage, setCatalogPage] = useState(1);
 
   const selected = selectedSlug ? properties.find((p) => p.slug === selectedSlug) || null : null;
 
@@ -30,6 +31,12 @@ export default function App() {
   const openProperty = (slug: string) => {
     setSelectedSlug(slug);
     setPage('property');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const backToCatalog = () => {
+    setPage('catalog');
+    setSelectedSlug(null);
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
@@ -59,6 +66,8 @@ export default function App() {
               lang={lang}
               properties={properties}
               onSelectProperty={openProperty}
+              initialPage={catalogPage}
+              onPageChange={setCatalogPage}
             />
           )}
 
@@ -67,7 +76,7 @@ export default function App() {
               property={selected}
               properties={properties}
               lang={lang}
-              onBack={() => navigate('catalog')}
+              onBack={backToCatalog}
               onSelectProperty={openProperty}
             />
           )}

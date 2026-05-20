@@ -35,13 +35,23 @@ export default function PropertyCard({ property: p, lang, onSelect, currency = '
         />
         <div className="absolute inset-0 bg-gradient-to-t from-[#0c0c14]/70 via-transparent to-transparent" />
         {/* Type badge */}
-        <div className="absolute top-3 left-3">
+        <div className="absolute top-3 left-3 flex gap-2">
           <span className="rounded-full bg-[#c9a84c] px-3 py-1 text-xs font-semibold text-white shadow-[0_0_12px_rgba(201,168,76,0.4)]">
             {p.type === 'house' ? t.filters.house : t.filters.land}
           </span>
+          {p.badge === 'HOT' && (
+            <span className="rounded-full bg-red-500 px-3 py-1 text-xs font-bold text-white shadow-[0_0_12px_rgba(239,68,68,0.6)] animate-pulse">
+              🔥 HOT
+            </span>
+          )}
         </div>
         {/* Price overlay */}
         <div className="absolute bottom-3 left-3 right-3">
+          {p.oldPriceUSD && (
+            <p className="text-sm text-white/50 line-through">
+              {currency === 'GEL' ? money(p.oldPriceGEL!, 'GEL') : money(p.oldPriceUSD, 'USD')}
+            </p>
+          )}
           <p className="text-xl font-bold text-[#c9a84c] drop-shadow-lg">{currency === 'GEL' ? money(p.priceGEL, 'GEL') : money(p.priceUSD, 'USD')}</p>
         </div>
       </div>

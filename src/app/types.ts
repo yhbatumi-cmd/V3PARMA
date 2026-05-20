@@ -18,6 +18,10 @@ export interface Property {
   houseArea: number | null;
   images: string[];
   features: Record<'ru' | 'en' | 'ge', string[]>;
+  badge?: string;
+  oldPriceUSD?: number;
+  oldPriceGEL?: number;
+  oldPriceRUB?: number;
 }
 
 export const i18n = {
