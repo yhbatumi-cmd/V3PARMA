@@ -1687,5 +1687,152 @@
         "Easy access from Batumi"
       ]
     }
+  },
+  {
+    "id": 25,
+    "slug": "земельные-участки-в-чакви-сачино",
+    "type": "land",
+    "status": "new",
+    "location": {
+      "ru": "Чакви, поселок Сачино",
+      "en": "Chakvi, Sachino village",
+      "ge": "Chakvi, Sachino village"
+    },
+    "title": {
+      "ru": "Земельные участки в коттеджном поселке Чакви (поселок Сачино)",
+      "en": "Land Plots in Cottage Community Chakvi (Sachino village)",
+      "ge": "Land Plots in Cottage Community Chakvi (Sachino village)"
+    },
+    "description": {
+      "ru": "Земельные участки площадью от 396 м² в развивающемся коттеджном поселке Чакви. Статус несельскохозяйственного назначения, доступны для покупки иностранными гражданами. Опорная стена готова, все коммуникации проведены вдоль участков. Возможность заказать строительство дома под ключ.",
+      "en": "Land plots starting from 396 m² in developing cottage community Chakvi. Non-agricultural land status, available for foreign buyers. Retaining wall completed, all utilities provided. Option to order turnkey home construction.",
+      "ge": "Land plots starting from 396 m² in developing cottage community Chakvi. Non-agricultural land status, available for foreign buyers. Retaining wall completed, all utilities provided. Option to order turnkey home construction."
+    },
+    "priceUSD": 35640,
+    "priceGEL": 96228,
+    "priceRUB": 3635280,
+    "landArea": 396,
+    "houseArea": null,
+    "images": [
+      "IMAGE_2026-05-20_chakvi-01.webp",
+      "IMAGE_2026-05-20_chakvi-02.webp",
+      "IMAGE_2026-05-20_chakvi-03.webp"
+    ],
+    "features": {
+      "ru": [
+        "Площадь от 396 м²",
+        "Статус несельскохоз назначение",
+        "Доступно для иностранных граждан",
+        "Опорная стена готова",
+        "Все коммуникации вдоль участков",
+        "Возможность заказать строительство дома",
+        "Цена: $90/м²",
+        "Развивающийся коттеджный поселок",
+        "Удобная инфраструктура",
+        "Перспективная локация"
+      ],
+      "en": [
+        "Plot area from 396 m²",
+        "Non-agricultural land status",
+        "Available for foreign buyers",
+        "Retaining wall completed",
+        "All utilities provided",
+        "Option to order home construction",
+        "Price: $90/m²",
+        "Developing cottage community",
+        "Convenient infrastructure",
+        "Promising location"
+      ],
+      "ge": [
+        "Plot area from 396 m²",
+        "Non-agricultural land status",
+        "Available for foreign buyers",
+        "Retaining wall completed",
+        "All utilities provided",
+        "Option to order home construction",
+        "Price: $90/m²",
+        "Developing cottage community",
+        "Convenient infrastructure",
+        "Promising location"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "slug": "роскошный-дом-в-махинджаури-утопающий-в-зелени",
+    "type": "house",
+    "status": "new",
+    "location": {
+      "ru": "Махинджаури, пригород Батуми",
+      "en": "Mahindzhauri, Batumi suburb",
+      "ge": "Mahindzhauri, Batumi suburb"
+    },
+    "title": {
+      "ru": "Большой атмосферный дом в Махинджаури, утопающий в зелени",
+      "en": "Spacious Atmospheric House in Mahindzhauri, Nestled in Greenery",
+      "ge": "Spacious Atmospheric House in Mahindzhauri, Nestled in Greenery"
+    },
+    "description": {
+      "ru": "Шикарный загородный дом 700 м² в престижном районе Махинджаури, рядом с историческим особняком Николая II. Дом полностью готов к проживанию, расположен в окружении природы с видом на море. 3 спальни со своими балконами, центральное отопление, гостевая студия на цокольном этаже. Участок ровный, идеально благоустроенный.",
+      "en": "Luxurious country house of 700 m² in prestigious Mahindzhauri area, near the historic Nikolai II mansion. Fully ready to live, surrounded by nature with sea view. 3 bedrooms with private balconies, central heating, guest studio in basement. Level lot, perfectly landscaped.",
+      "ge": "Luxurious country house of 700 m² in prestigious Mahindzhauri area, near the historic Nikolai II mansion. Fully ready to live, surrounded by nature with sea view. 3 bedrooms with private balconies, central heating, guest studio in basement. Level lot, perfectly landscaped."
+    },
+    "priceUSD": 400000,
+    "priceGEL": 1080000,
+    "priceRUB": 40800000,
+    "landArea": 700,
+    "houseArea": null,
+    "images": [
+      "IMAGE_2026-05-20_mahindzhauri-01.webp",
+      "IMAGE_2026-05-20_mahindzhauri-02.webp",
+      "IMAGE_2026-05-20_mahindzhauri-03.webp",
+      "IMAGE_2026-05-20_mahindzhauri-04.webp",
+      "IMAGE_2026-05-20_mahindzhauri-05.webp",
+      "IMAGE_2026-05-20_mahindzhauri-06.webp"
+    ],
+    "features": {
+      "ru": [
+        "Участок 700 м²",
+        "Статус несельскохоз назначение",
+        "Доступен для иностранных граждан",
+        "3 спальни со своими балконами",
+        "Центральное отопление",
+        "Гостевая студия на цокольном этаже",
+        "Красивый вид на море",
+        "Участок ровный и хорошо благоустроен",
+        "Рядом исторический особняк Николая II",
+        "Окружен природой и зеленью",
+        "Цена: $400,000",
+        "Готовый к проживанию"
+      ],
+      "en": [
+        "Plot area: 700 m²",
+        "Non-agricultural land status",
+        "Available for foreign buyers",
+        "3 bedrooms with private balconies",
+        "Central heating",
+        "Guest studio in basement",
+        "Beautiful sea view",
+        "Level and well-landscaped lot",
+        "Near historic Nikolai II mansion",
+        "Surrounded by nature and greenery",
+        "Price: $400,000",
+        "Ready to live in"
+      ],
+      "ge": [
+        "Plot area: 700 m²",
+        "Non-agricultural land status",
+        "Available for foreign buyers",
+        "3 bedrooms with private balconies",
+        "Central heating",
+        "Guest studio in basement",
+        "Beautiful sea view",
+        "Level and well-landscaped lot",
+        "Near historic Nikolai II mansion",
+        "Surrounded by nature and greenery",
+        "Price: $400,000",
+        "Ready to live in"
+      ]
+    }
   }
 ]
