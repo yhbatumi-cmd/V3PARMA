@@ -1,2156 +1,478 @@
 [
   {
     "id": 1,
-    "slug": "роскошная-вилла-в-батуми-ахалсопели",
-    "type": "house",
+    "slug": "верхний-ахалшени-700m2-26000",
+    "type": "land",
     "status": "new",
     "location": {
-      "ru": "Батуми, Ахалсопели",
-      "en": "Batumi, Akhalsopeli",
-      "ge": "Batumi, Akhalsopeli"
+      "ru": "Верхний Ахалшени",
+      "en": "Верхний Ахалшени",
+      "ge": "Верхний Ахалшени"
     },
     "title": {
-      "ru": "Роскошная вилла в Батуми (Ахалсопели)",
-      "en": "Luxury Villa in Batumi (Akhalsopeli)",
-      "ge": "Luxury Villa in Batumi (Akhalsopeli)"
+      "ru": "Земельный участок 700 м² в Верхний Ахалшени",
+      "en": "Земельный участок 700 м² в Верхний Ахалшени",
+      "ge": "Земельный участок 700 м² в Верхний Ахалшени"
     },
     "description": {
-      "ru": "Дом готовый к проживанию в закрытом коттеджном мини-поселке из 6 домов. Дорогой ремонт, идеальное состояние с инфинити-бассейном с подогревом и гаражом на 2 машины.",
-      "en": "Ready to move in house in exclusive gated cottage community of 6 homes. Premium renovation, perfect condition with infinity pool and garage for 2 cars.",
-      "ge": "Ready to move in house in exclusive gated cottage community of 6 homes. Premium renovation, perfect condition with infinity pool and garage for 2 cars."
+      "ru": "В продаже земельныйучасток в Верхнем Ахалшени (до Батуми 15 минут езды)\n\n✔площадь 700 м2\n✔статус - несельскохозяйственное назначение\n✔рядом проходит газ, электричество, вода.\n❗Рельеф - склон, н",
+      "en": "В продаже земельныйучасток в Верхнем Ахалшени (до Батуми 15 минут езды)\n\n✔площадь 700 м2\n✔статус - несельскохозяйственное назначение\n✔рядом проходит газ, электричество, вода.\n❗Рельеф - склон, н",
+      "ge": "В продаже земельныйучасток в Верхнем Ахалшени (до Батуми 15 минут езды)\n\n✔площадь 700 м2\n✔статус - несельскохозяйственное назначение\n✔рядом проходит газ, электричество, вода.\n❗Рельеф - склон, н"
     },
-    "priceUSD": 280000,
-    "priceGEL": 756000,
-    "priceRUB": 25760000,
-    "landArea": 100,
-    "houseArea": 305,
-    "images": [
-      "IMAGE_2026-04-21_13:16:38.webp",
-      "IMAGE_2026-04-21_13:16:42.webp",
-      "IMAGE_2026-04-21_13:16:45.webp",
-      "IMAGE_2026-04-21_13:16:48.webp",
-      "IMAGE_2026-04-21_13:16:51.webp",
-      "IMAGE_2026-04-21_13:16:55.webp",
-      "IMAGE_2026-04-21_13:16:59.webp",
-      "IMAGE_2026-04-21_13:17:03.webp",
-      "IMAGE_2026-04-21_13:10:51.webp",
-      "IMAGE_2026-04-21_13:10:55.webp",
-      "IMAGE_2026-04-21_13:10:59.webp",
-      "IMAGE_2026-04-21_13:11:02.webp",
-      "IMAGE_2026-04-21_13:11:07.webp",
-      "IMAGE_2026-04-21_13:11:11.webp",
-      "IMAGE_2026-04-21_13:11:15.webp",
-      "IMAGE_2026-04-21_13:11:18.webp"
-    ],
+    "priceUSD": 26000,
+    "priceGEL": 70200,
+    "priceRUB": 2392000,
+    "landArea": 700,
+    "houseArea": null,
+    "images": [],
     "features": {
       "ru": [
-        "Закрытый коттеджный мини-поселок из 6 домов",
-        "Дом 305 м², двор 100 м²",
-        "Дорогой ремонт, дом в идеальном состоянии",
-        "3 этажа, 2 спальни",
-        "Газовое отопление, полы с подогревом",
-        "Большие террасы на двух этажах",
-        "Мебель и техника вся остается",
-        "Свой инфинити-бассейн с подогревом",
-        "Гараж на 2 машины"
+        "Площадь участка: 700 м²",
+        "Цена: $26,000",
+        "Локация: Верхний Ахалшени",
+        "Статус: несельскохозяйственное назначение",
+        "Доступна покупка иностранцами",
+        "Все коммуникации подведены"
       ],
       "en": [
-        "Gated cottage community (6 houses)",
-        "305 m² house, 100 m² yard",
-        "Premium renovation, perfect condition",
-        "3 floors, 2 bedrooms",
-        "Gas heating, heated floors",
-        "Large terraces on 2 floors",
-        "All furniture and appliances included",
-        "Heated infinity pool",
-        "Garage for 2 cars"
+        "Land area: 700 m²",
+        "Price: $26,000",
+        "Location: Верхний Ахалшени",
+        "Non-agricultural status",
+        "Foreign buyers can purchase",
+        "All utilities available"
       ],
       "ge": [
-        "Gated cottage community (6 houses)",
-        "305 m² house, 100 m² yard",
-        "Premium renovation, perfect condition",
-        "3 floors, 2 bedrooms",
-        "Gas heating, heated floors",
-        "Large terraces on 2 floors",
-        "All furniture and appliances included",
-        "Heated infinity pool",
-        "Garage for 2 cars"
+        "Land area: 700 m²",
+        "Price: $26,000",
+        "Location: Верхний Ахалшени",
+        "Non-agricultural status",
+        "Foreign buyers can purchase",
+        "All utilities available"
       ]
     }
   },
   {
     "id": 2,
-    "slug": "3-комнатный-частный-дом-в-пригороде-батуми",
-    "type": "house",
-    "status": "new",
-    "location": {
-      "ru": "Ахалсопели, 10 минут до Батуми",
-      "en": "Akhalsopeli, 10 min to Batumi",
-      "ge": "Akhalsopeli, 10 min to Batumi"
-    },
-    "title": {
-      "ru": "3-комнатный частный дом в пригороде Батуми",
-      "en": "3-Bedroom Private House in Batumi Suburbs",
-      "ge": "3-Bedroom Private House in Batumi Suburbs"
-    },
-    "description": {
-      "ru": "3-комнатный частный дом в Ахалсопели, всего в 10 минутах от центра Батуми. Современные удобства с потрясающим видом на город, море и горы.",
-      "en": "Spacious 3-bedroom private house in Akhalsopeli, just 10 minutes from Batumi city center. Modern amenities with stunning views of the city, sea and mountains.",
-      "ge": "Spacious 3-bedroom private house in Akhalsopeli, just 10 minutes from Batumi city center. Modern amenities with stunning views of the city, sea and mountains."
-    },
-    "priceUSD": 285000,
-    "priceGEL": 769500,
-    "priceRUB": 26220000,
-    "landArea": 300,
-    "houseArea": 229,
-    "images": [
-      "IMAGE_2026-04-21_13:34:10.webp",
-      "IMAGE_2026-04-21_13:34:13.webp",
-      "IMAGE_2026-04-21_13:34:17.webp",
-      "IMAGE_2026-04-21_13:34:19.webp",
-      "IMAGE_2026-04-21_13:34:24.webp",
-      "IMAGE_2026-04-21_13:34:30.webp",
-      "IMAGE_2026-04-21_13:34:37.webp"
-    ],
-    "features": {
-      "ru": [
-        "229 м² площадь дома",
-        "300 м² участок",
-        "2 этажа",
-        "Посудомоечная машина, стиральная и сушильная машины",
-        "Духовка",
-        "Терасса на втором этаже",
-        "Вид на город, море и горы",
-        "2 парковочных места",
-        "Центральное отопление + подогрев пола"
-      ],
-      "en": [
-        "229 m² house area",
-        "300 m² land plot",
-        "2 floors",
-        "Dishwasher, washing and drying machines",
-        "Oven",
-        "Second floor terrace",
-        "Views of city, sea and mountains",
-        "2 parking spaces",
-        "Central heating + underfloor heating"
-      ],
-      "ge": [
-        "229 m² house area",
-        "300 m² land plot",
-        "2 floors",
-        "Dishwasher, washing and drying machines",
-        "Oven",
-        "Second floor terrace",
-        "Views of city, sea and mountains",
-        "2 parking spaces",
-        "Central heating + underfloor heating"
-      ]
-    }
-  },
-  {
-    "id": 3,
-    "slug": "дом-в-белом-каркасе-в-махинджаури",
-    "type": "house",
-    "status": "new",
-    "location": {
-      "ru": "Махинджаури",
-      "en": "Makhinjauri",
-      "ge": "Makhinjauri"
-    },
-    "title": {
-      "ru": "Дом в белом каркасе в Махинджаури",
-      "en": "White Frame House in Makhinjauri",
-      "ge": "White Frame House in Makhinjauri"
-    },
-    "description": {
-      "ru": "Современный дом в белом каркасе в Махинджаури, готовый к индивидуальной отделке. Земля несельхоз назначения (могут покупать иностранцы). Море в пешей доступности, рядом Ботанический сад.",
-      "en": "Modern white frame house in Makhinjauri, ready for custom interior finishing. Non-agricultural land suitable for foreign buyers. Walking distance to the sea and Botanical Garden.",
-      "ge": "Modern white frame house in Makhinjauri, ready for custom interior finishing. Non-agricultural land suitable for foreign buyers. Walking distance to the sea and Botanical Garden."
-    },
-    "priceUSD": 270000,
-    "priceGEL": 729000,
-    "priceRUB": 24840000,
-    "landArea": 500,
-    "houseArea": 220,
-    "images": [
-      "IMAGE_2026-04-21_13:36:35.webp",
-      "IMAGE_2026-04-21_13:36:39.webp",
-      "IMAGE_2026-04-21_13:36:44.webp",
-      "IMAGE_2026-04-21_13:36:47.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь дома 220 м²",
-        "500 м² участок",
-        "Земля несельхоз назначения (могут покупать иностранцы)",
-        "Дом в белом каркасе, обустройте по своему вкусу",
-        "Подключены все коммуникации: газ, электричество, вода",
-        "Планировка 3 спальни и 2 санузла",
-        "Центральное отопление",
-        "Море в пешей доступности",
-        "Рядом Ботанический сад и центр Махинджаури"
-      ],
-      "en": [
-        "220 m² house area",
-        "500 m² land plot",
-        "Non-agricultural land (foreigners can purchase)",
-        "White frame ready for custom finishing",
-        "All utilities connected: gas, electricity, water",
-        "Layout: 3 bedrooms and 2 bathrooms",
-        "Central heating",
-        "Walking distance to the sea",
-        "Near Botanical Garden and Makhinjauri center"
-      ],
-      "ge": [
-        "220 m² house area",
-        "500 m² land plot",
-        "Non-agricultural land (foreigners can purchase)",
-        "White frame ready for custom finishing",
-        "All utilities connected: gas, electricity, water",
-        "Layout: 3 bedrooms and 2 bathrooms",
-        "Central heating",
-        "Walking distance to the sea",
-        "Near Botanical Garden and Makhinjauri center"
-      ]
-    }
-  },
-  {
-    "id": 4,
-    "slug": "уникальный-участок-с-проектом-в-ортабатуми",
+    "slug": "махинджаури-(у-бамбуковой-рощи)-4997m2-350000",
     "type": "land",
     "status": "new",
     "location": {
-      "ru": "Ортабатуми, пригород Батуми",
-      "en": "Ortabatumi, Batumi suburbs",
-      "ge": "Ortabatumi, Batumi suburbs"
+      "ru": "Махинджаури (у бамбуковой рощи)",
+      "en": "Махинджаури (у бамбуковой рощи)",
+      "ge": "Махинджаури (у бамбуковой рощи)"
     },
     "title": {
-      "ru": "Уникальный участок с проектом в Ортабатуми",
-      "en": "Premium Land Plot with Project in Ortabatumi",
-      "ge": "Premium Land Plot with Project in Ortabatumi"
+      "ru": "Земельный участок 4997 м² в Махинджаури (у бамбуковой рощи)",
+      "en": "Земельный участок 4997 м² в Махинджаури (у бамбуковой рощи)",
+      "ge": "Земельный участок 4997 м² в Махинджаури (у бамбуковой рощи)"
     },
     "description": {
-      "ru": "Уникальный участок 4000 м² с готовым архитектурным проектом и разрешениями на строительство. Земля несельхоз назначения в престижном пригороде Батуми с высоким спросом на аренду.",
-      "en": "Unique 4000 m² land plot with ready architectural project and construction permits. Non-agricultural land in prime Batumi suburb location with high rental demand.",
-      "ge": "Unique 4000 m² land plot with ready architectural project and construction permits. Non-agricultural land in prime Batumi suburb location with high rental demand."
-    },
-    "priceUSD": 420000,
-    "priceGEL": 1134000,
-    "priceRUB": 38640000,
-    "landArea": 4000,
-    "houseArea": null,
-    "images": [
-      "IMAGE_2026-04-21_15:18:57.webp",
-      "IMAGE_2026-04-21_15:19:01.webp",
-      "IMAGE_2026-04-21_15:19:04.webp"
-    ],
-    "features": {
-      "ru": [
-        "Ближайший пригород Батуми",
-        "Асфальтированная дорога",
-        "Все необходимые коммуникации",
-        "Статус земли - несельскохозяйственное назначение",
-        "Площадь 4000 м², поделен на кадастры",
-        "Проектная документация и разрешения на строительство в подарок!",
-        "Выгодное месторасположение с высоким спросом",
-        "Уникальная архитектура",
-        "Высокорентабельный объект"
-      ],
-      "en": [
-        "Nearest Batumi suburb",
-        "Paved road access",
-        "All utilities available",
-        "Non-agricultural land status",
-        "4000 m² area, divided into cadastral units",
-        "Project documentation and construction permits included!",
-        "Prime location with high rental demand",
-        "Unique architecture design",
-        "High profitability investment opportunity"
-      ],
-      "ge": [
-        "Nearest Batumi suburb",
-        "Paved road access",
-        "All utilities available",
-        "Non-agricultural land status",
-        "4000 m² area, divided into cadastral units",
-        "Project documentation and construction permits included!",
-        "Prime location with high rental demand",
-        "Unique architecture design",
-        "High profitability investment opportunity"
-      ]
-    }
-  },
-  {
-    "id": 5,
-    "slug": "уютный-дом-у-моря-в-махинджаури",
-    "type": "house",
-    "status": "new",
-    "location": {
-      "ru": "Махинджаури, Аджария, 1.5 км до моря",
-      "en": "Makhinjauri, Adjara, 1.5 km to the sea",
-      "ge": "Makhinjauri, Adjara, 1.5 km to the sea"
-    },
-    "title": {
-      "ru": "Уютный дом у моря в Махинджаури",
-      "en": "Cozy House by the Sea in Makhinjauri",
-      "ge": "Cozy House by the Sea in Makhinjauri"
-    },
-    "description": {
-      "ru": "Дом на холме с видом на Чёрное море. 65 м² дом на участке 1398 м² несельхоз земли с цитрусовым садом. Продается с мебелью, газовое отопление, кондиционер, горячая вода.",
-      "en": "House on a hill with Black Sea views. 65 m² home on 1,398 m² non-agricultural land with citrus garden. Sold furnished with gas heating, AC, and hot water.",
-      "ge": "House on a hill with Black Sea views. 65 m² home on 1,398 m² non-agricultural land with citrus garden. Sold furnished with gas heating, AC, and hot water."
-    },
-    "priceUSD": 175000,
-    "priceGEL": 472500,
-    "priceRUB": 16100000,
-    "landArea": 1398,
-    "houseArea": 65,
-    "images": [
-      "IMAGE_2026-04-21_15:23:37.webp",
-      "IMAGE_2026-04-21_15:23:41.webp",
-      "IMAGE_2026-04-21_15:23:44.webp",
-      "IMAGE_2026-04-21_15:23:49.webp",
-      "IMAGE_2026-04-21_15:23:52.webp",
-      "IMAGE_2026-04-21_15:23:56.webp",
-      "IMAGE_2026-04-21_15:23:59.webp",
-      "IMAGE_2026-04-21_15:24:02.webp"
-    ],
-    "features": {
-      "ru": [
-        "Участок 1398 м² (несельхоз, часть на склоне)",
-        "Дом 65 м² (шлакоблок, без фасада)",
-        "2 спальни + общее пространство",
-        "1,5 км до моря (5 мин авто, 15 мин пешком)",
-        "Газовый котёл, горячая вода - проточная колонка",
-        "Вода бесплатно (локальный водопровод)",
-        "Асфальт, подъезд без ограничений",
-        "Цитрусовый сад: мандарины, апельсины",
-        "Ламинат в спальнях, плитка в гостиной",
-        "Кондиционер (сплит-система в гостиной)",
-        "Санузел совмещённый (душ, туалет, раковина)",
-        "Тихое окружение, вид на море",
-        "Продаётся с мебелью и техникой"
-      ],
-      "en": [
-        "1,398 m² plot (non-agricultural, partly on slope)",
-        "65 m² house (cinder block, no facade)",
-        "2 bedrooms + common area",
-        "1.5 km to the sea (5 min by car, 15 min walk)",
-        "Gas boiler heating, instant water heater",
-        "Free water (local water supply)",
-        "Paved road, unrestricted access",
-        "Citrus garden: mandarins, oranges",
-        "Laminate in bedrooms, tiles in living room",
-        "Split AC system in living room",
-        "Combined bathroom (shower, toilet, sink)",
-        "Quiet neighborhood, sea views",
-        "Sold with furniture and appliances"
-      ],
-      "ge": [
-        "1,398 m² plot (non-agricultural, partly on slope)",
-        "65 m² house (cinder block, no facade)",
-        "2 bedrooms + common area",
-        "1.5 km to the sea (5 min by car, 15 min walk)",
-        "Gas boiler heating, instant water heater",
-        "Free water (local water supply)",
-        "Paved road, unrestricted access",
-        "Citrus garden: mandarins, oranges",
-        "Laminate in bedrooms, tiles in living room",
-        "Split AC system in living room",
-        "Combined bathroom (shower, toilet, sink)",
-        "Quiet neighborhood, sea views",
-        "Sold with furniture and appliances"
-      ]
-    }
-  },
-  {
-    "id": 6,
-    "slug": "премиум-таунхаус-в-винном-регионе-кахетии",
-    "type": "house",
-    "status": "new",
-    "location": {
-      "ru": "Винный регион Кахетии",
-      "en": "Kakheti Wine Region",
-      "ge": "Kakheti Wine Region"
-    },
-    "title": {
-      "ru": "Премиум таунхаус в винном регионе Кахетии",
-      "en": "Premium Townhouse in Kakheti Wine Region",
-      "ge": "Premium Townhouse in Kakheti Wine Region"
-    },
-    "description": {
-      "ru": "Редкая инвестиционная возможность в винном регионе Кахетии. Таунхаус 220 м² построен по немецким стандартам с частным виноградником. White frame готов к отделке. Высокий потенциал дохода от аренды.",
-      "en": "Rare investment opportunity in Kakheti wine region. 220 m² townhouse built to German standards with private vineyard. White frame ready for custom finishing. High rental income potential.",
-      "ge": "Rare investment opportunity in Kakheti wine region. 220 m² townhouse built to German standards with private vineyard. White frame ready for custom finishing. High rental income potential."
-    },
-    "priceUSD": 320000,
-    "priceGEL": 864000,
-    "priceRUB": 29440000,
-    "landArea": 300,
-    "houseArea": 220,
-    "images": [
-      "IMAGE_2026-04-21_15:27:56.webp",
-      "IMAGE_2026-04-21_15:27:59.webp",
-      "IMAGE_2026-04-21_15:28:02.webp",
-      "IMAGE_2026-04-21_15:28:06.webp",
-      "IMAGE_2026-04-21_15:28:12.webp",
-      "IMAGE_2026-04-21_15:28:20.webp"
-    ],
-    "features": {
-      "ru": [
-        "Таунхаус площадью 220 м²",
-        "Участок 300 м²",
-        "Построен по немецким стандартам качества",
-        "Готовый общий бассейн",
-        "Возможность установки частного бассейна",
-        "Частный виноградник на территории проекта",
-        "Растущий спрос на эко-люкс и винный туризм",
-        "Высокий потенциал аренды (краткосрочной и сезонной)",
-        "White frame - возможность отделки под ваш вкус",
-        "Проект полностью распродан - ограниченное предложение",
-        "Владейте виноградником, производите собственное вино",
-        "Потенциал долгосрочного роста капитала"
-      ],
-      "en": [
-        "220 m² townhouse",
-        "300 m² plot",
-        "Built to German quality standards",
-        "Shared pool ready",
-        "Option for private pool installation",
-        "Private vineyard on project territory",
-        "Growing eco-luxury and wine tourism demand",
-        "High rental potential (short-term & seasonal)",
-        "White frame - custom finishing options",
-        "Sold-out boutique project - limited availability",
-        "Own a vineyard, produce your own wine",
-        "Long-term capital growth potential"
-      ],
-      "ge": [
-        "220 m² townhouse",
-        "300 m² plot",
-        "Built to German quality standards",
-        "Shared pool ready",
-        "Option for private pool installation",
-        "Private vineyard on project territory",
-        "Growing eco-luxury and wine tourism demand",
-        "High rental potential (short-term & seasonal)",
-        "White frame - custom finishing options",
-        "Sold-out boutique project - limited availability",
-        "Own a vineyard, produce your own wine",
-        "Long-term capital growth potential"
-      ]
-    }
-  },
-  {
-    "id": 7,
-    "slug": "готовый-дом-в-цихисдзири",
-    "type": "house",
-    "status": "new",
-    "location": {
-      "ru": "Цихисдзири",
-      "en": "Tsikhisdziri",
-      "ge": "Tsikhisdziri"
-    },
-    "title": {
-      "ru": "Готовый дом в Цихисдзири",
-      "en": "Turnkey House in Tsikhisdziri",
-      "ge": "Turnkey House in Tsikhisdziri"
-    },
-    "description": {
-      "ru": "Дом полностью готов к проживанию, отделка «под ключ». Построен по классической технологии на ж/б плите из блоков, газ вдоль участка. Земля несельхоз назначения - доступна иностранным гражданам.",
-      "en": "Fully finished turnkey house ready to move in. Built with reinforced concrete foundation and blocks, gas connection available. Non-agricultural land accessible to foreign buyers.",
-      "ge": "Fully finished turnkey house ready to move in. Built with reinforced concrete foundation and blocks, gas connection available. Non-agricultural land accessible to foreign buyers."
-    },
-    "priceUSD": 125000,
-    "priceGEL": 337500,
-    "priceRUB": 11500000,
-    "landArea": 300,
-    "houseArea": 80,
-    "images": [
-      "IMAGE_2026-04-21_16:04:18.webp",
-      "IMAGE_2026-04-21_16:04:24.webp",
-      "IMAGE_2026-04-21_16:04:30.webp",
-      "IMAGE_2026-04-21_16:04:34.webp",
-      "IMAGE_2026-04-21_16:04:43.webp",
-      "IMAGE_2026-04-21_16:04:46.webp",
-      "IMAGE_2026-04-21_16:04:52.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь дома 80 м²",
-        "~300 м² участок несельхоз назначения",
-        "Доступна покупка иностранным гражданам",
-        "2 спальни, кухня-гостиная, 1 санузел",
-        "Классическая технология: ж/б плита из блоков",
-        "Газ вдоль участка, есть возможность подключения",
-        "Полная отделка - под ключ",
-        "Готов к проживанию"
-      ],
-      "en": [
-        "80 m² house area",
-        "~300 m² non-agricultural land plot",
-        "Foreign buyers can purchase",
-        "2 bedrooms, kitchen-living room, 1 bathroom",
-        "Classic construction: reinforced concrete slab with blocks",
-        "Gas line along the plot, connection available",
-        "Fully finished - turnkey ready",
-        "Ready to move in"
-      ],
-      "ge": [
-        "80 m² house area",
-        "~300 m² non-agricultural land plot",
-        "Foreign buyers can purchase",
-        "2 bedrooms, kitchen-living room, 1 bathroom",
-        "Classic construction: reinforced concrete slab with blocks",
-        "Gas line along the plot, connection available",
-        "Fully finished - turnkey ready",
-        "Ready to move in"
-      ]
-    }
-  },
-  {
-    "id": 8,
-    "slug": "земельный-участок-в-тхилнари-срочная-продажа",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Тхилнари",
-      "en": "Tkhilnari",
-      "ge": "Tkhilnari"
-    },
-    "title": {
-      "ru": "Земельный участок в Тхилнари - Срочная продажа",
-      "en": "Land Plot in Tkhilnari - Urgent Sale",
-      "ge": "Land Plot in Tkhilnari - Urgent Sale"
-    },
-    "description": {
-      "ru": "Срочная продажа: земельный участок 1000 м² с видом на горы. Статус земли НЕ сельхозназначение, все необходимые коммуникации. Приватное и тихое расположение.",
-      "en": "Urgent sale: 1000 m² land plot with mountain views. Non-agricultural status, all utilities available. Private and peaceful location.",
-      "ge": "Urgent sale: 1000 m² land plot with mountain views. Non-agricultural status, all utilities available. Private and peaceful location."
-    },
-    "priceUSD": 26000,
-    "priceGEL": 70200,
-    "priceRUB": 2392000,
-    "landArea": 1000,
-    "houseArea": null,
-    "images": [
-      "IMAGE_2026-04-21_16:07:57.webp",
-      "IMAGE_2026-04-21_16:08:02.webp",
-      "IMAGE_2026-04-21_16:08:05.webp",
-      "IMAGE_2026-04-21_16:08:13.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь участка 1000 м²",
-        "Статус земли НЕ сельхозназначение",
-        "Доступна покупка иностранцам",
-        "Вид на горы",
-        "Приватность и тихое окружение",
-        "Все необходимые коммуникации",
-        "Срочная продажа - отличная возможность"
-      ],
-      "en": [
-        "1000 m² plot area",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Mountain views",
-        "Privacy and peaceful surroundings",
-        "All necessary utilities available",
-        "Urgent sale - great opportunity"
-      ],
-      "ge": [
-        "1000 m² plot area",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Mountain views",
-        "Privacy and peaceful surroundings",
-        "All necessary utilities available",
-        "Urgent sale - great opportunity"
-      ]
-    }
-  },
-  {
-    "id": 9,
-    "slug": "земельный-участок-в-хелвачаури-срочная-продажа",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Хелвачаури",
-      "en": "Khelvachauri",
-      "ge": "Khelvachauri"
-    },
-    "title": {
-      "ru": "Земельный участок в Хелвачаури - Срочная продажа",
-      "en": "Land Plot in Khelvachauri - Urgent Sale",
-      "ge": "Land Plot in Khelvachauri - Urgent Sale"
-    },
-    "description": {
-      "ru": "Срочная продажа: земельный участок 1000 м² с видом на горы и правильной формой. Статус земли НЕ сельхозназначение, все необходимые коммуникации. Приватное и тихое расположение.",
-      "en": "Urgent sale: 1000 m² land plot with mountain views and proper rectangular shape. Non-agricultural status, all utilities available. Private and peaceful location.",
-      "ge": "Urgent sale: 1000 m² land plot with mountain views and proper rectangular shape. Non-agricultural status, all utilities available. Private and peaceful location."
-    },
-    "priceUSD": 26000,
-    "priceGEL": 70200,
-    "priceRUB": 2392000,
-    "landArea": 1000,
-    "houseArea": null,
-    "images": [
-      "IMAGE_2026-04-21_16:09:23.webp",
-      "IMAGE_2026-04-21_16:09:28.webp",
-      "IMAGE_2026-04-21_16:09:31.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь участка 1000 м²",
-        "Статус земли НЕ сельхозназначение",
-        "Доступна покупка иностранцам",
-        "Вид на горы",
-        "Приватность и тихое окружение",
-        "Все необходимые коммуникации",
-        "Правильная форма участка",
-        "Срочная продажа - отличная возможность"
-      ],
-      "en": [
-        "1000 m² plot area",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Mountain views",
-        "Privacy and peaceful surroundings",
-        "All necessary utilities available",
-        "Proper rectangular plot shape",
-        "Urgent sale - great opportunity"
-      ],
-      "ge": [
-        "1000 m² plot area",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Mountain views",
-        "Privacy and peaceful surroundings",
-        "All necessary utilities available",
-        "Proper rectangular plot shape",
-        "Urgent sale - great opportunity"
-      ]
-    }
-  },
-  {
-    "id": 10,
-    "slug": "эксклюзивный-участок-на-первой-линии-моря-в-уреки",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Уреки, первая линия Черного моря",
-      "en": "Ureki, Black Sea beachfront",
-      "ge": "Ureki, Black Sea beachfront"
-    },
-    "title": {
-      "ru": "Эксклюзивный участок на первой линии моря в Уреки",
-      "en": "Exclusive Black Sea Beachfront Land in Ureki",
-      "ge": "Exclusive Black Sea Beachfront Land in Ureki"
-    },
-    "description": {
-      "ru": "Эксклюзивное предложение: земельный участок 32,000 м² на первой линии Черного моря. Статус несельхоз, вдоль участка проходят все необходимые коммуникации. Премиум инвестиционная возможность.",
-      "en": "Exclusive opportunity: 32,000 m² beachfront land plot on the Black Sea first line. Non-agricultural status, all utilities along the plot. Premium investment opportunity.",
-      "ge": "Exclusive opportunity: 32,000 m² beachfront land plot on the Black Sea first line. Non-agricultural status, all utilities along the plot. Premium investment opportunity."
-    },
-    "priceUSD": 2560000,
-    "priceGEL": 6912000,
-    "priceRUB": 235520000,
-    "landArea": 32000,
-    "houseArea": null,
-    "images": [
-      "IMAGE_2026-04-21_16:12:36.webp",
-      "IMAGE_2026-04-21_16:12:39.webp",
-      "IMAGE_2026-04-21_16:12:42.webp",
-      "IMAGE_2026-04-21_16:12:45.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь 32,000 м² (3.2 гектара) на берегу моря",
-        "Первая линия Черного моря",
-        "Статус несельхоз назначение",
-        "Доступна покупка иностранцам",
-        "Все необходимые коммуникации вдоль участка",
-        "Цена: $80/м²",
-        "Итого: $2,560,000",
-        "Премиум инвестиционная возможность",
-        "Идеально для курорта/отеля",
-        "Эксклюзивная локация на берегу моря"
-      ],
-      "en": [
-        "32,000 m² (3.2 hectares) beachfront land",
-        "First line of the Black Sea",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "All necessary utilities along the plot",
-        "Price: $80/m²",
-        "Total: $2,560,000",
-        "Premium investment opportunity",
-        "Ideal for resort/hotel development",
-        "Exclusive beachfront location"
-      ],
-      "ge": [
-        "32,000 m² (3.2 hectares) beachfront land",
-        "First line of the Black Sea",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "All necessary utilities along the plot",
-        "Price: $80/m²",
-        "Total: $2,560,000",
-        "Premium investment opportunity",
-        "Ideal for resort/hotel development",
-        "Exclusive beachfront location"
-      ]
-    }
-  },
-  {
-    "id": 11,
-    "slug": "участок-с-рестораном-на-пляже-черные-пески",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Пляж Черные пески, Уреки",
-      "en": "Black Sands Beach, Ureki",
-      "ge": "Black Sands Beach, Ureki"
-    },
-    "title": {
-      "ru": "Участок с рестораном на пляже Черные пески",
-      "en": "Beachfront Land with Restaurant at Black Sands Beach",
-      "ge": "Beachfront Land with Restaurant at Black Sands Beach"
-    },
-    "description": {
-      "ru": "Готовый к работе ресторан на участке у моря. Участок 1,078 м² с построенным рестораном 201 м². Все коммуникации заведены, можно завозить оборудование и начинать работать. В шаге от знаменитого пляжа Черные пески.",
-      "en": "Ready-to-operate restaurant on beachfront land. 1,078 m² plot with 201 m² completed restaurant building. All utilities connected, ready for equipment installation. Steps from the famous Black Sands Beach.",
-      "ge": "Ready-to-operate restaurant on beachfront land. 1,078 m² plot with 201 m² completed restaurant building. All utilities connected, ready for equipment installation. Steps from the famous Black Sands Beach."
-    },
-    "priceUSD": 345000,
-    "priceGEL": 931500,
-    "priceRUB": 31740000,
-    "landArea": 1078,
-    "houseArea": null,
-    "images": [
-      "IMAGE_2026-04-21_16:15:09.webp",
-      "IMAGE_2026-04-21_16:15:17.webp",
-      "IMAGE_2026-04-21_16:15:21.webp",
-      "IMAGE_2026-04-21_16:15:31.webp"
-    ],
-    "features": {
-      "ru": [
-        "Участок 1,078 м²",
-        "Ресторан 201 м² - достроен",
-        "Первая линия Черного моря",
-        "В шаге от знаменитого пляжа Черные пески",
-        "Статус несельхоз назначение",
-        "Доступна покупка иностранцам",
-        "Все коммуникации заведены и готовы",
-        "Можно завозить оборудование",
-        "Можно начинать работать сразу",
-        "Ровный участок, подъезд - асфальт",
-        "В окружении сосен",
-        "Шикарное место для ресторанного бизнеса у моря"
-      ],
-      "en": [
-        "1,078 m² land plot",
-        "201 m² restaurant building - completed",
-        "First line of the Black Sea",
-        "Steps from famous Black Sands Beach",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "All utilities connected and ready",
-        "Ready for equipment installation",
-        "Can start operations immediately",
-        "Level plot with asphalt access",
-        "Surrounded by pine trees",
-        "Perfect location for seaside restaurant business"
-      ],
-      "ge": [
-        "1,078 m² land plot",
-        "201 m² restaurant building - completed",
-        "First line of the Black Sea",
-        "Steps from famous Black Sands Beach",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "All utilities connected and ready",
-        "Ready for equipment installation",
-        "Can start operations immediately",
-        "Level plot with asphalt access",
-        "Surrounded by pine trees",
-        "Perfect location for seaside restaurant business"
-      ]
-    }
-  },
-  {
-    "id": 12,
-    "slug": "земельный-участок-в-капровани-шекветили-5-минут-до-пляжа",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Капровани (Шекветили)",
-      "en": "Kaprovani (Shekvetili)",
-      "ge": "Kaprovani (Shekvetili)"
-    },
-    "title": {
-      "ru": "Земельный участок в Капровани (Шекветили) - 5 минут до пляжа",
-      "en": "Land Plot in Kaprovani (Shekvetili) - 5 Minutes to Beach",
-      "ge": "Land Plot in Kaprovani (Shekvetili) - 5 Minutes to Beach"
-    },
-    "description": {
-      "ru": "Ровный участок 400 м² в одном из самых перспективных районов на побережье. Статус НЕсельхоз, удобный асфальтированный подъезд, всего 5 минут пешком до пляжа.",
-      "en": "Level 400 m² land plot in one of the most promising coastal areas. Non-agricultural status, convenient asphalt access, just 5 minutes walk to the beach.",
-      "ge": "Level 400 m² land plot in one of the most promising coastal areas. Non-agricultural status, convenient asphalt access, just 5 minutes walk to the beach."
-    },
-    "priceUSD": 50000,
-    "priceGEL": 135000,
-    "priceRUB": 4600000,
-    "landArea": 400,
-    "houseArea": null,
-    "images": [
-      "IMAGE_2026-04-21_16:17:17.webp",
-      "IMAGE_2026-04-21_16:17:23.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь участка 400 м²",
-        "Статус НЕсельхоз назначение",
-        "Доступна покупка иностранцам",
-        "Ровный участок",
-        "Удобный асфальтированный подъезд",
-        "Всего 5 минут пешком до пляжа",
-        "Один из самых перспективных районов на побережье",
-        "Отличная инвестиционная возможность",
-        "Идеально для строительства дома или виллы у моря"
-      ],
-      "en": [
-        "400 m² plot area",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Level plot",
-        "Convenient asphalt access",
-        "Just 5 minutes walk to the beach",
-        "One of the most promising coastal areas",
-        "Great investment opportunity",
-        "Perfect for building a seaside home or villa"
-      ],
-      "ge": [
-        "400 m² plot area",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Level plot",
-        "Convenient asphalt access",
-        "Just 5 minutes walk to the beach",
-        "One of the most promising coastal areas",
-        "Great investment opportunity",
-        "Perfect for building a seaside home or villa"
-      ]
-    }
-  },
-  {
-    "id": 13,
-    "slug": "готовый-дом-в-черном-каркасе-в-батуми",
-    "type": "house",
-    "status": "new",
-    "location": {
-      "ru": "Батуми",
-      "en": "Batumi",
-      "ge": "Batumi"
-    },
-    "title": {
-      "ru": "Готовый дом в черном каркасе в Батуми",
-      "en": "Black Frame House in Batumi",
-      "ge": "Black Frame House in Batumi"
-    },
-    "description": {
-      "ru": "Готовый дом в состоянии «черный каркас» для реализации любых ваших задумок. Дом 170 м² на участке 463 м² несельхоз земли. Отличная возможность создать дом вашей мечты по собственному дизайну.",
-      "en": "Black frame house ready for your custom design. 170 m² house on 463 m² non-agricultural land. Perfect opportunity to create your dream home exactly as you envision it.",
-      "ge": "Black frame house ready for your custom design. 170 m² house on 463 m² non-agricultural land. Perfect opportunity to create your dream home exactly as you envision it."
-    },
-    "priceUSD": 270000,
-    "priceGEL": 729000,
-    "priceRUB": 24840000,
-    "landArea": 463,
-    "houseArea": 170,
-    "images": [
-      "IMAGE_2026-04-21_16:19:26.webp",
-      "IMAGE_2026-04-21_16:19:40.webp",
-      "IMAGE_2026-04-21_16:19:44.webp",
-      "IMAGE_2026-04-21_16:19:49.webp",
-      "IMAGE_2026-04-21_16:19:58.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь дома 170 м²",
-        "Площадь участка 463 м²",
-        "Статус земли несельхоз назначение",
-        "Доступна покупка иностранцам",
-        "Состояние «черный каркас»",
-        "Готов для индивидуальной отделки",
-        "Реализуйте любые ваши задумки",
-        "Крепкая конструкция готова",
-        "Отличная инвестиционная возможность",
-        "Престижная локация в Батуми"
-      ],
-      "en": [
-        "170 m² house area",
-        "463 m² land plot",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Black frame condition",
-        "Ready for custom interior finishing",
-        "Create your dream home design",
-        "Solid structure ready",
-        "Great investment opportunity",
-        "Prime Batumi location"
-      ],
-      "ge": [
-        "170 m² house area",
-        "463 m² land plot",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Black frame condition",
-        "Ready for custom interior finishing",
-        "Create your dream home design",
-        "Solid structure ready",
-        "Great investment opportunity",
-        "Prime Batumi location"
-      ]
-    }
-  },
-  {
-    "id": 14,
-    "slug": "инвестиционный-земельный-участок-1-га-с-проектом-застройки-в-чакви",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Чакви, 800 м до моря, 15 мин до Батуми",
-      "en": "Chakvi, 800m to Black Sea, 15 min to Batumi",
-      "ge": "Chakvi, 800m to Black Sea, 15 min to Batumi"
-    },
-    "title": {
-      "ru": "Инвестиционный земельный участок 1 га с проектом застройки в Чакви",
-      "en": "Investment Land 1 Hectare with Development Project in Chakvi",
-      "ge": "Investment Land 1 Hectare with Development Project in Chakvi"
-    },
-    "description": {
-      "ru": "Уникальный инвестиционный участок 10,000 м² с согласованным проектом малоэтажной застройки на 10 домов. Расположен в 800 метрах от побережья Чёрного моря в курортном посёлке Чакви, всего в 15 минутах от Батуми. Граничит с чистой горной рекой.",
-      "en": "Unique 10,000 m² investment land with approved low-rise development project for 10 houses. Located 800m from Black Sea coast in resort village Chakvi, just 15 minutes from Batumi. Borders clean mountain river.",
-      "ge": "Unique 10,000 m² investment land with approved low-rise development project for 10 houses. Located 800m from Black Sea coast in resort village Chakvi, just 15 minutes from Batumi. Borders clean mountain river."
-    },
-    "priceUSD": 700000,
-    "priceGEL": 1890000,
-    "priceRUB": 64400000,
-    "landArea": 10000,
-    "houseArea": null,
-    "images": [
-      "IMAGE_2026-04-21_16:24:47.webp",
-      "IMAGE_2026-04-21_16:24:50.webp",
-      "IMAGE_2026-04-21_16:24:56.webp",
-      "IMAGE_2026-04-21_16:25:01.webp",
-      "IMAGE_2026-04-21_16:25:08.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь участка 10,000 м² (1 гектар)",
-        "Статус несельхоз назначение",
-        "Доступна покупка иностранным гражданам",
-        "Согласован проект на 10 домов",
-        "800 метров от побережья Чёрного моря",
-        "15 минут от Батуми",
-        "Все коммуникации: газ, электричество, центральная вода",
-        "Асфальт до участка",
-        "Граничит с чистой горной рекой",
-        "Рядом национальный парк \"Мтирала\"",
-        "Близко к пляжам и инфраструктуре",
-        "Цена: $70/м²",
-        "Идеально для застройки частными домами",
-        "Растущий спрос на дома недалеко от Батуми",
-        "Отличная инвестиционная возможность"
-      ],
-      "en": [
-        "10,000 m² (1 hectare) plot area",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Approved project for 10 houses",
-        "800 meters from Black Sea coast",
-        "15 minutes from Batumi",
-        "All utilities: gas, electricity, central water",
-        "Asphalt road to the plot",
-        "Borders clean mountain river",
-        "Near Mtirala National Park",
-        "Close to beaches and infrastructure",
-        "Price: $70/m²",
-        "Perfect for private house development",
-        "Growing demand area near Batumi",
-        "Excellent investment opportunity"
-      ],
-      "ge": [
-        "10,000 m² (1 hectare) plot area",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Approved project for 10 houses",
-        "800 meters from Black Sea coast",
-        "15 minutes from Batumi",
-        "All utilities: gas, electricity, central water",
-        "Asphalt road to the plot",
-        "Borders clean mountain river",
-        "Near Mtirala National Park",
-        "Close to beaches and infrastructure",
-        "Price: $70/m²",
-        "Perfect for private house development",
-        "Growing demand area near Batumi",
-        "Excellent investment opportunity"
-      ]
-    }
-  },
-  {
-    "id": 15,
-    "slug": "дом-в-чакви-на-нулевой-линии-моря",
-    "type": "house",
-    "status": "new",
-    "location": {
-      "ru": "Чакви, нулевая линия моря",
-      "en": "Chakvi, zero line to the sea",
-      "ge": "Chakvi, zero line to the sea"
-    },
-    "title": {
-      "ru": "Дом в Чакви на нулевой линии моря",
-      "en": "Beachfront House in Chakvi - Zero Line to the Sea",
-      "ge": "Beachfront House in Chakvi - Zero Line to the Sea"
-    },
-    "description": {
-      "ru": "2-этажный дом 287 м² на участке 180 м² прямо на берегу моря. Прямой выход к морю, камин, большая терраса. Идеально для мини-отеля. Рядом проходит ЖД дорога.",
-      "en": "2-story beachfront house 287 m² on 180 m² plot. Direct sea access, fireplace, large terrace. Perfect for mini-hotel business. Railway nearby.",
-      "ge": "2-story beachfront house 287 m² on 180 m² plot. Direct sea access, fireplace, large terrace. Perfect for mini-hotel business. Railway nearby."
-    },
-    "priceUSD": 150000,
-    "priceGEL": 405000,
-    "priceRUB": 13800000,
-    "landArea": 180,
-    "houseArea": 287,
-    "images": [
-      "IMAGE_2026-04-21_16:27:00.webp",
-      "IMAGE_2026-04-21_16:27:06.webp",
-      "IMAGE_2026-04-21_16:27:14.webp",
-      "IMAGE_2026-04-21_16:27:19.webp",
-      "IMAGE_2026-04-21_16:27:24.webp",
-      "IMAGE_2026-04-21_16:27:27.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь дома 287 м², 2 этажа",
-        "Участок земли 180 м²",
-        "Нулевая линия - прямо на берегу моря",
-        "Статус несельхоз назначение",
-        "Доступна покупка иностранцам",
-        "Камин",
-        "Большая терраса с видом на море",
-        "Рядом проходит железная дорога",
-        "Идеально для мини-отеля",
-        "Прямой выход на пляж",
-        "Уникальная локация на берегу",
-        "Отличная инвестиционная возможность"
-      ],
-      "en": [
-        "287 m² house area, 2 floors",
-        "180 m² land plot",
-        "Zero line - directly on the seashore",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Fireplace",
-        "Large terrace with sea views",
-        "Railway nearby",
-        "Perfect for mini-hotel business",
-        "Direct beach access",
-        "Unique beachfront location",
-        "Great investment opportunity"
-      ],
-      "ge": [
-        "287 m² house area, 2 floors",
-        "180 m² land plot",
-        "Zero line - directly on the seashore",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Fireplace",
-        "Large terrace with sea views",
-        "Railway nearby",
-        "Perfect for mini-hotel business",
-        "Direct beach access",
-        "Unique beachfront location",
-        "Great investment opportunity"
-      ]
-    }
-  },
-  {
-    "id": 16,
-    "slug": "дом-в-черном-каркасе-в-чакви-с-видом-на-море",
-    "type": "house",
-    "status": "new",
-    "location": {
-      "ru": "Чакви, вид на море",
-      "en": "Chakvi, sea views",
-      "ge": "Chakvi, sea views"
-    },
-    "title": {
-      "ru": "Дом в черном каркасе в Чакви с видом на море",
-      "en": "Black Frame House in Chakvi with Sea Views",
-      "ge": "Black Frame House in Chakvi with Sea Views"
-    },
-    "description": {
-      "ru": "3-этажный дом в черном каркасе 280 м² с шикарным видом на море. Универсальная недвижимость: приватная резиденция, отель, или дом на 2 семьи. Каждая семья может иметь апартамент на 3 спальни и 2 санузла.",
-      "en": "3-story black frame house 280 m² with stunning sea views. Versatile property: private residence, hotel, or duplex for 2 families. Each family can have 3-bedroom apartment with 2 bathrooms.",
-      "ge": "3-story black frame house 280 m² with stunning sea views. Versatile property: private residence, hotel, or duplex for 2 families. Each family can have 3-bedroom apartment with 2 bathrooms."
-    },
-    "priceUSD": 243000,
-    "priceGEL": 656100,
-    "priceRUB": 22356000,
-    "landArea": 450,
-    "houseArea": 280,
-    "images": [
-      "IMAGE_2026-04-21_16:44:05.webp",
-      "IMAGE_2026-04-21_16:44:12.webp",
-      "IMAGE_2026-04-21_16:44:17.webp",
-      "IMAGE_2026-04-21_16:44:23.webp",
-      "IMAGE_2026-04-21_16:44:32.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь дома 280 м², 3 этажа",
-        "Площадь участка 450 м²",
-        "Шикарный вид на море",
-        "Состояние черный каркас",
-        "Теплый, сухой",
-        "Статус несельхоз назначение",
-        "Доступна покупка иностранцам",
-        "Все необходимые коммуникации вдоль участка",
-        "Варианты использования:",
-        "- Приватная резиденция",
-        "- Отель",
-        "- Жить самим и сдавать частично",
-        "- Дом на 2 семьи",
-        "Каждая семья: апартамент на 3 спальни и 2 санузла",
-        "Отличная инвестиционная возможность"
-      ],
-      "en": [
-        "280 m² house area, 3 floors",
-        "450 m² land plot",
-        "Stunning sea views",
-        "Black frame condition",
-        "Warm and dry structure",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "All utilities along the plot",
-        "Versatile use options:",
-        "- Private residence",
-        "- Hotel business",
-        "- Live + partial rental",
-        "- Duplex for 2 families",
-        "Each family apartment: 3 bedrooms + 2 bathrooms",
-        "Great investment opportunity"
-      ],
-      "ge": [
-        "280 m² house area, 3 floors",
-        "450 m² land plot",
-        "Stunning sea views",
-        "Black frame condition",
-        "Warm and dry structure",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "All utilities along the plot",
-        "Versatile use options:",
-        "- Private residence",
-        "- Hotel business",
-        "- Live + partial rental",
-        "- Duplex for 2 families",
-        "Each family apartment: 3 bedrooms + 2 bathrooms",
-        "Great investment opportunity"
-      ]
-    }
-  },
-  {
-    "id": 17,
-    "slug": "земельный-участок-на-берегу-реки-в-чакви-11-км-от-батуми",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Чакви, 11 км от центра Батуми",
-      "en": "Chakvi, 11 km from Batumi center",
-      "ge": "Chakvi, 11 km from Batumi center"
-    },
-    "title": {
-      "ru": "Земельный участок на берегу реки в Чакви - 11 км от Батуми",
-      "en": "Riverside Land Plot in Chakvi - 11 km from Batumi",
-      "ge": "Riverside Land Plot in Chakvi - 11 km from Batumi"
-    },
-    "description": {
-      "ru": "Прекрасный ровный участок на берегу реки в курортном городе Чакви. 2,400 м² (фактически 3,600 м² общая площадь). Река вдоль всего участка, ореховые деревья, вид на горы. Идеально для 10-12 таунхаусов или 4-5 частных домов.",
-      "en": "Beautiful level riverside plot in resort town Chakvi. 2,400 m² (actually 3,600 m² total area). River along entire plot, walnut trees, mountain views. Perfect for 10-12 townhouses or 4-5 private homes.",
-      "ge": "Beautiful level riverside plot in resort town Chakvi. 2,400 m² (actually 3,600 m² total area). River along entire plot, walnut trees, mountain views. Perfect for 10-12 townhouses or 4-5 private homes."
-    },
-    "priceUSD": 210000,
-    "priceGEL": 567000,
-    "priceRUB": 19320000,
-    "landArea": 2400,
-    "houseArea": null,
-    "images": [
-      "IMAGE_2026-04-21_16:45:42.webp",
-      "IMAGE_2026-04-21_16:45:54.webp",
-      "IMAGE_2026-04-21_16:46:03.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь участка 2,400 м² (в документах)",
-        "Фактически 3,600 м² (9 м от реки не оформляются)",
-        "Вытянутая форма вдоль русла реки",
-        "Идеально ровный ландшафт",
-        "Вдоль всего участка протекает река",
-        "На участке растут ореховые деревья",
-        "Вид на горы",
-        "Статус несельхоз назначение",
-        "Доступна покупка иностранцам",
-        "Все коммуникации: газ, электричество, оптоволокно, центральная вода",
-        "Перспективная локация для застройки",
-        "Идеально для 10-12 таунхаусов или 4-5 частных домов",
-        "Уютная атмосфера уединения с природой",
-        "11 км от центра Батуми"
-      ],
-      "en": [
-        "2,400 m² registered area",
-        "Actually 3,600 m² total (9m from river not registered)",
-        "Elongated shape along river",
-        "Perfectly level landscape",
-        "River flows along entire plot",
-        "Walnut trees on the property",
-        "Mountain views",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "All utilities: gas, electricity, fiber internet, central water",
-        "Perspective location for development",
-        "Perfect for 10-12 townhouses or 4-5 private homes",
-        "Cozy atmosphere surrounded by nature",
-        "11 km from Batumi center"
-      ],
-      "ge": [
-        "2,400 m² registered area",
-        "Actually 3,600 m² total (9m from river not registered)",
-        "Elongated shape along river",
-        "Perfectly level landscape",
-        "River flows along entire plot",
-        "Walnut trees on the property",
-        "Mountain views",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "All utilities: gas, electricity, fiber internet, central water",
-        "Perspective location for development",
-        "Perfect for 10-12 townhouses or 4-5 private homes",
-        "Cozy atmosphere surrounded by nature",
-        "11 km from Batumi center"
-      ]
-    }
-  },
-  {
-    "id": 18,
-    "slug": "инвестиционный-участок-под-отельапартаменты-в-бакуриани",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Бакуриани (сердце курорта)",
-      "en": "Bakuriani Ski Resort (heart of resort)",
-      "ge": "Bakuriani Ski Resort (heart of resort)"
-    },
-    "title": {
-      "ru": "Инвестиционный участок под отель/апартаменты в Бакуриани",
-      "en": "Investment Land for Hotel/Apartments in Bakuriani Ski Resort",
-      "ge": "Investment Land for Hotel/Apartments in Bakuriani Ski Resort"
-    },
-    "description": {
-      "ru": "Инвестиционный участок в сердце горнолыжного курорта Бакуриани. 3,735 м² под строительство отеля/апартаментов. Газ и электричество подведены. Прогнозируемая доходность 10-17% годовых.",
-      "en": "Prime investment land in heart of Bakuriani ski resort. 3,735 m² plot for hotel/apartment development. Gas and electricity connected. Projected annual return 10-17%.",
-      "ge": "Prime investment land in heart of Bakuriani ski resort. 3,735 m² plot for hotel/apartment development. Gas and electricity connected. Projected annual return 10-17%."
-    },
-    "priceUSD": 367000,
-    "priceGEL": 990900,
-    "priceRUB": 33764000,
-    "landArea": 3735,
-    "houseArea": null,
-    "images": [
-      "IMAGE_2026-04-21_16:47:27.webp",
-      "IMAGE_2026-04-21_16:47:34.webp",
-      "IMAGE_2026-04-21_16:47:47.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь участка 3,735 м²",
-        "Сердце горнолыжного курорта Бакуриани",
-        "Статус несельхоз назначение",
-        "Под строительство отеля/апартаментов",
-        "Доступна покупка иностранцам",
-        "Газ подведен к участку",
-        "Электричество подведено к участку",
-        "Прогнозируемая доходность: 10-17% годовых",
-        "На основе анализа работающих проектов в Бакуриани",
-        "Престижная локация на горнолыжном курорте",
-        "Круглогодичный туристический спрос",
-        "Отличная инвестиционная возможность",
-        "Растущий рынок горнолыжного туризма"
-      ],
-      "en": [
-        "3,735 m² plot area",
-        "Heart of Bakuriani ski resort",
-        "Non-agricultural status",
-        "Designated for hotel/apartment construction",
-        "Foreign buyers can purchase",
-        "Gas connected to the plot",
-        "Electricity connected to the plot",
-        "Projected annual return: 10-17%",
-        "Based on analysis of operating projects in Bakuriani",
-        "Prime ski resort location",
-        "Year-round tourist demand",
-        "Excellent investment opportunity",
-        "Growing ski tourism market"
-      ],
-      "ge": [
-        "3,735 m² plot area",
-        "Heart of Bakuriani ski resort",
-        "Non-agricultural status",
-        "Designated for hotel/apartment construction",
-        "Foreign buyers can purchase",
-        "Gas connected to the plot",
-        "Electricity connected to the plot",
-        "Projected annual return: 10-17%",
-        "Based on analysis of operating projects in Bakuriani",
-        "Prime ski resort location",
-        "Year-round tourist demand",
-        "Excellent investment opportunity",
-        "Growing ski tourism market"
-      ]
-    }
-  },
-  {
-    "id": 19,
-    "slug": "земельный-участок-с-капитальным-домом-в-ортабатуми",
-    "type": "house",
-    "status": "new",
-    "location": {
-      "ru": "Ортабатуми, 15 минут до Батуми",
-      "en": "Ortabatumi, 15 min to Batumi",
-      "ge": "Ortabatumi, 15 min to Batumi"
-    },
-    "title": {
-      "ru": "Земельный участок с капитальным домом в Ортабатуми",
-      "en": "Land with Capital House in Ortabatumi",
-      "ge": "Land with Capital House in Ortabatumi"
-    },
-    "description": {
-      "ru": "Просторный уединенный участок 6,800 м² с капитальным домом 400 м². Дом под ремонт, можно использовать как отель, гостевой дом, ретрит центр или жилой дом. Красивые деревья и кустарники. 15 минут до Батуми.",
-      "en": "Spacious 6,800 m² secluded plot with 400 m² capital house. Property needs renovation but offers versatile use: hotel, guest house, retreat center, or private residence. Beautiful trees and shrubs. 15 minutes to Batumi.",
-      "ge": "Spacious 6,800 m² secluded plot with 400 m² capital house. Property needs renovation but offers versatile use: hotel, guest house, retreat center, or private residence. Beautiful trees and shrubs. 15 minutes to Batumi."
-    },
-    "priceUSD": 350000,
-    "priceGEL": 945000,
-    "priceRUB": 32200000,
-    "landArea": 6800,
-    "houseArea": 400,
-    "images": [
-      "IMAGE_2026-04-21_16:51:03.webp"
-    ],
-    "features": {
-      "ru": [
-        "Участок 6,800 м²",
-        "Капитальный дом 400 м²",
-        "Дом под ремонт",
-        "Варианты использования:",
-        "- Отель",
-        "- Гостевой дом",
-        "- Ретрит центр",
-        "- Жилой дом",
-        "Уединенный участок",
-        "Красивые деревья и кустарники",
-        "15 минут до Батуми на автомобиле",
-        "Тихая загородная локация",
-        "Отличная инвестиционная возможность"
-      ],
-      "en": [
-        "6,800 m² land plot",
-        "400 m² capital house",
-        "House needs renovation",
-        "Versatile use options:",
-        "- Hotel",
-        "- Guest house",
-        "- Retreat center",
-        "- Private residence",
-        "Secluded plot",
-        "Beautiful trees and shrubs",
-        "15 minutes to Batumi by car",
-        "Peaceful countryside location",
-        "Great investment opportunity"
-      ],
-      "ge": [
-        "6,800 m² land plot",
-        "400 m² capital house",
-        "House needs renovation",
-        "Versatile use options:",
-        "- Hotel",
-        "- Guest house",
-        "- Retreat center",
-        "- Private residence",
-        "Secluded plot",
-        "Beautiful trees and shrubs",
-        "15 minutes to Batumi by car",
-        "Peaceful countryside location",
-        "Great investment opportunity"
-      ]
-    }
-  },
-  {
-    "id": 21,
-    "slug": "участок-с-проектом-в-чакви-3-кадастра-с-разрешениями",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Чакви",
-      "en": "Chakvi",
-      "ge": "Chakvi"
-    },
-    "title": {
-      "ru": "Участок с проектом в Чакви - 3 кадастра с разрешениями",
-      "en": "Land with Villa Project in Chakvi - 3 Plots with Building Permits",
-      "ge": "Land with Villa Project in Chakvi - 3 Plots with Building Permits"
-    },
-    "description": {
-      "ru": "Участок 1,300 м² (13 соток) разделен на 3 кадастра. Разрешение на строительство 3х частных вилл площадью ~400 м² каждая уже получено. Земля, проект и разрешения включены в цену.",
-      "en": "1,300 m² (13 sotkas) land divided into 3 cadastral plots. Building permits for 3 private villas ~400 m² each already obtained. Land, project, and permits included in price.",
-      "ge": "1,300 m² (13 sotkas) land divided into 3 cadastral plots. Building permits for 3 private villas ~400 m² each already obtained. Land, project, and permits included in price."
-    },
-    "priceUSD": 180000,
-    "priceGEL": 486000,
-    "priceRUB": 16560000,
-    "landArea": 1300,
-    "houseArea": null,
-    "images": [
-      "IMAGE_2026-04-21_16:57:53.webp",
-      "IMAGE_2026-04-21_16:57:59.webp",
-      "IMAGE_2026-04-21_16:58:04.webp",
-      "IMAGE_2026-04-21_16:58:11.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь 1,300 м² (13 соток)",
-        "Разделен на 3 кадастра",
-        "Разрешения на строительство уже получены",
-        "Утвержденный проект на 3 частных виллы",
-        "Каждая вилла ~400 м²",
-        "Земля + проект + разрешения включены",
-        "Готов к началу строительства",
-        "Не требует дополнительных согласований",
-        "Курортная зона Чакви",
-        "Отличная инвестиционная возможность",
-        "Идеально для застройки виллами"
-      ],
-      "en": [
-        "1,300 m² (13 sotkas) total area",
-        "Divided into 3 cadastral plots",
-        "Building permits already obtained",
-        "Approved project for 3 private villas",
-        "Each villa ~400 m²",
-        "Land + project + permits included",
-        "Ready to start construction",
-        "No additional approvals needed",
-        "Chakvi resort area",
-        "Great investment opportunity",
-        "Perfect for villa development"
-      ],
-      "ge": [
-        "1,300 m² (13 sotkas) total area",
-        "Divided into 3 cadastral plots",
-        "Building permits already obtained",
-        "Approved project for 3 private villas",
-        "Each villa ~400 m²",
-        "Land + project + permits included",
-        "Ready to start construction",
-        "No additional approvals needed",
-        "Chakvi resort area",
-        "Great investment opportunity",
-        "Perfect for villa development"
-      ]
-    }
-  },
-  {
-    "id": 22,
-    "slug": "земельный-участок-в-капрешуми-2500-м-под-застройку-до-6-этажей",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Капрешуми, пригород Батуми",
-      "en": "Kapreshumi, Batumi suburb",
-      "ge": "Kapreshumi, Batumi suburb"
-    },
-    "title": {
-      "ru": "Земельный участок в Капрешуми - 2,500 м² под застройку до 6 этажей",
-      "en": "Land Plot in Kapreshumi - 2,500 m² with 6-Floor Building Rights",
-      "ge": "Land Plot in Kapreshumi - 2,500 m² with 6-Floor Building Rights"
-    },
-    "description": {
-      "ru": "Участок 2,500 м² вдоль центральной дороги в ближайшем пригороде Батуми. Статус несельхоз, рядом горная река. Коэффициенты позволяют строить до 6 этажей.",
-      "en": "2,500 m² land plot along central road in Batumi suburb. Non-agricultural status, near mountain river. Building coefficients allow construction up to 6 floors.",
-      "ge": "2,500 m² land plot along central road in Batumi suburb. Non-agricultural status, near mountain river. Building coefficients allow construction up to 6 floors."
-    },
-    "priceUSD": 150000,
-    "priceGEL": 405000,
-    "priceRUB": 13800000,
-    "landArea": 2500,
-    "houseArea": null,
-    "images": [
-      "IMAGE_2026-04-21_17:04:01.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь участка 2,500 м²",
-        "Статус несельхоз назначение",
-        "Доступна покупка иностранцам",
-        "Вдоль центральной дороги",
-        "Рядом горная река",
-        "Коэффициенты позволяют строить до 6 этажей",
-        "Ближайший пригород Батуми",
-        "Отличная локация для застройки",
-        "Идеально для многоквартирного дома",
-        "Высокий потенциал застройки"
-      ],
-      "en": [
-        "2,500 m² plot area",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Along central road",
-        "Near mountain river",
-        "Building coefficients allow up to 6 floors",
-        "Batumi nearest suburb",
-        "Great location for development",
-        "Perfect for apartment building",
-        "High development potential"
-      ],
-      "ge": [
-        "2,500 m² plot area",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Along central road",
-        "Near mountain river",
-        "Building coefficients allow up to 6 floors",
-        "Batumi nearest suburb",
-        "Great location for development",
-        "Perfect for apartment building",
-        "High development potential"
-      ]
-    }
-  },
-  {
-    "id": 23,
-    "slug": "участок-с-проектом-у-бамбуковой-рощи-в-махинджаури",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Махинджаури, у бамбуковой рощи",
-      "en": "Makhinjauri, near bamboo grove",
-      "ge": "Makhinjauri, near bamboo grove"
-    },
-    "title": {
-      "ru": "Участок с проектом у бамбуковой рощи в Махинджаури",
-      "en": "Land with Cottage Project Near Bamboo Grove in Makhinjauri",
-      "ge": "Land with Cottage Project Near Bamboo Grove in Makhinjauri"
-    },
-    "description": {
-      "ru": "Участок 4,997 м² с архитектурным проектом на 5 коттеджей и разрешением на строительство. Коммуникации на участке, асфальтированная дорога, 3-4 минуты на машине от центра Махинджаури. У бамбуковой рощи.",
-      "en": "4,997 m² land with architectural project for 5 cottages and building permit. All utilities on site, asphalt road, 3-4 minutes by car from Makhinjauri center. Near bamboo grove.",
-      "ge": "4,997 m² land with architectural project for 5 cottages and building permit. All utilities on site, asphalt road, 3-4 minutes by car from Makhinjauri center. Near bamboo grove."
+      "ru": "участокспроектом У БАМБУКОВОЙ РОЩИ\n\n- коммуникации на участке\n- асфальтированная дорога, из центра Махинджаури 3-4 минуты на машине\n- архитектурный проект на строительство 5 коттеджей\n- получено",
+      "en": "участокспроектом У БАМБУКОВОЙ РОЩИ\n\n- коммуникации на участке\n- асфальтированная дорога, из центра Махинджаури 3-4 минуты на машине\n- архитектурный проект на строительство 5 коттеджей\n- получено",
+      "ge": "участокспроектом У БАМБУКОВОЙ РОЩИ\n\n- коммуникации на участке\n- асфальтированная дорога, из центра Махинджаури 3-4 минуты на машине\n- архитектурный проект на строительство 5 коттеджей\n- получено"
     },
     "priceUSD": 350000,
     "priceGEL": 945000,
     "priceRUB": 32200000,
     "landArea": 4997,
     "houseArea": null,
-    "images": [
-      "IMAGE_2026-04-21_17:06:07.webp",
-      "IMAGE_2026-04-21_17:06:11.webp",
-      "IMAGE_2026-04-21_17:06:17.webp"
-    ],
+    "images": [],
     "features": {
       "ru": [
-        "Площадь участка 4,997 м²",
-        "Статус несельхоз назначение",
-        "Доступна покупка иностранным гражданам",
-        "Архитектурный проект на 5 коттеджей",
-        "Разрешение на строительство получено",
-        "Коммуникации на участке",
-        "Асфальтированная дорога",
-        "3-4 минуты на машине от центра Махинджаури",
-        "У бамбуковой рощи",
-        "Цена: ~$70/м²",
-        "Готов к началу строительства",
-        "Отличная инвестиционная возможность"
+        "Площадь участка: 4997 м²",
+        "Цена: $350,000",
+        "Локация: Махинджаури (у бамбуковой рощи)",
+        "Статус: несельскохозяйственное назначение",
+        "Доступна покупка иностранцами",
+        "Все коммуникации подведены"
       ],
       "en": [
-        "4,997 m² plot area",
-        "Non-agricultural land status",
+        "Land area: 4997 m²",
+        "Price: $350,000",
+        "Location: Махинджаури (у бамбуковой рощи)",
+        "Non-agricultural status",
         "Foreign buyers can purchase",
-        "Architectural project for 5 cottages",
-        "Building permit already obtained",
-        "All utilities on the plot",
-        "Asphalt road access",
-        "3-4 minutes by car from Makhinjauri center",
-        "Near bamboo grove",
-        "Price: ~$70/m²",
-        "Ready to start construction",
-        "Great investment opportunity"
+        "All utilities available"
       ],
       "ge": [
-        "4,997 m² plot area",
-        "Non-agricultural land status",
+        "Land area: 4997 m²",
+        "Price: $350,000",
+        "Location: Махинджаури (у бамбуковой рощи)",
+        "Non-agricultural status",
         "Foreign buyers can purchase",
-        "Architectural project for 5 cottages",
-        "Building permit already obtained",
-        "All utilities on the plot",
-        "Asphalt road access",
-        "3-4 minutes by car from Makhinjauri center",
-        "Near bamboo grove",
-        "Price: ~$70/m²",
-        "Ready to start construction",
-        "Great investment opportunity"
+        "All utilities available"
       ]
     }
   },
   {
-    "id": 24,
-    "slug": "земельный-участок-в-сахалвашо-с-панорамным-видом-на-горы-идеально-под-глэмпинг",
+    "id": 3,
+    "slug": "капрешуми-2500m2-150000",
     "type": "land",
     "status": "new",
     "location": {
-      "ru": "Сахалвашо, пригород Батуми (за тоннелем)",
-      "en": "Sakhalvasho, Batumi suburb (after tunnel)",
-      "ge": "Sakhalvasho, Batumi suburb (after tunnel)"
+      "ru": "Капрешуми",
+      "en": "Капрешуми",
+      "ge": "Капрешуми"
     },
     "title": {
-      "ru": "Земельный участок в Сахалвашо с панорамным видом на горы - идеально под глэмпинг",
-      "en": "Land Plot in Sakhalvasho with Mountain Views - Perfect for Glamping",
-      "ge": "Land Plot in Sakhalvasho with Mountain Views - Perfect for Glamping"
+      "ru": "Земельный участок 2500 м² в Капрешуми",
+      "en": "Земельный участок 2500 м² в Капрешуми",
+      "ge": "Земельный участок 2500 м² в Капрешуми"
     },
     "description": {
-      "ru": "Участок 8,600 м² с панорамным видом на горы в пригороде Батуми, сразу за тоннелем. Два подъездных пути, все коммуникации вдоль участка. Идеально под глэмпинг или другой инвестиционный проект.",
-      "en": "8,600 m² land plot with panoramic mountain views in Batumi suburb, right after the tunnel. Two access roads, all utilities along the plot. Perfect for glamping or other investment project.",
-      "ge": "8,600 m² land plot with panoramic mountain views in Batumi suburb, right after the tunnel. Two access roads, all utilities along the plot. Perfect for glamping or other investment project."
+      "ru": "В продаже земельныйучасток в Капрешуми, ближайший пригород Батуми\n\n✅Площадь 2500 м2\n✅Статус несельхоз\n✅Вдоль центральной дороги\n✅Рядом горная река\n✅ Коэффициенты позволяют строить до 6 этажей\n\nСтои",
+      "en": "В продаже земельныйучасток в Капрешуми, ближайший пригород Батуми\n\n✅Площадь 2500 м2\n✅Статус несельхоз\n✅Вдоль центральной дороги\n✅Рядом горная река\n✅ Коэффициенты позволяют строить до 6 этажей\n\nСтои",
+      "ge": "В продаже земельныйучасток в Капрешуми, ближайший пригород Батуми\n\n✅Площадь 2500 м2\n✅Статус несельхоз\n✅Вдоль центральной дороги\n✅Рядом горная река\n✅ Коэффициенты позволяют строить до 6 этажей\n\nСтои"
     },
-    "priceUSD": 516000,
-    "priceGEL": 1393200,
-    "priceRUB": 47472000,
-    "landArea": 8600,
-    "houseArea": null,
-    "images": [
-      "hf_20260421_131602_547b6cf4-fb81-4d92-8f48-2dd1b3382079.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь участка 8,600 м²",
-        "Панорамный вид на горы",
-        "Статус несельхоз назначение",
-        "Готов к приобретению иностранными гражданами",
-        "Два подъездных пути",
-        "Все коммуникации вдоль участка",
-        "Пригород Батуми, сразу за тоннелем",
-        "Цена: $60/м²",
-        "Идеально под глэмпинг",
-        "Отлично для инвестиционных проектов",
-        "Уникальная живописная локация",
-        "Удобный доступ из Батуми"
-      ],
-      "en": [
-        "8,600 m² plot area",
-        "Panoramic mountain views",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Two access roads",
-        "All utilities along the plot",
-        "Batumi suburb, right after tunnel",
-        "Price: $60/m²",
-        "Perfect for glamping",
-        "Great for investment projects",
-        "Unique scenic location",
-        "Easy access from Batumi"
-      ],
-      "ge": [
-        "8,600 m² plot area",
-        "Panoramic mountain views",
-        "Non-agricultural land status",
-        "Foreign buyers can purchase",
-        "Two access roads",
-        "All utilities along the plot",
-        "Batumi suburb, right after tunnel",
-        "Price: $60/m²",
-        "Perfect for glamping",
-        "Great for investment projects",
-        "Unique scenic location",
-        "Easy access from Batumi"
-      ]
-    }
-  },
-  {
-    "id": 25,
-    "slug": "земельные-участки-в-чакви-сачино",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Чакви, поселок Сачино",
-      "en": "Chakvi, Sachino village",
-      "ge": "Chakvi, Sachino village"
-    },
-    "title": {
-      "ru": "Земельные участки в коттеджном поселке Чакви (поселок Сачино)",
-      "en": "Land Plots in Cottage Community Chakvi (Sachino village)",
-      "ge": "Land Plots in Cottage Community Chakvi (Sachino village)"
-    },
-    "description": {
-      "ru": "Земельные участки площадью от 396 м² в развивающемся коттеджном поселке Чакви. Статус несельскохозяйственного назначения, доступны для покупки иностранными гражданами. Опорная стена готова, все коммуникации проведены вдоль участков. Возможность заказать строительство дома под ключ.",
-      "en": "Land plots starting from 396 m² in developing cottage community Chakvi. Non-agricultural land status, available for foreign buyers. Retaining wall completed, all utilities provided. Option to order turnkey home construction.",
-      "ge": "Land plots starting from 396 m² in developing cottage community Chakvi. Non-agricultural land status, available for foreign buyers. Retaining wall completed, all utilities provided. Option to order turnkey home construction."
-    },
-    "priceUSD": 35640,
-    "priceGEL": 96228,
-    "priceRUB": 3635280,
-    "landArea": 396,
-    "houseArea": null,
-    "images": [
-      "IMAGE_2026-05-20_chakvi-01.webp",
-      "IMAGE_2026-05-20_chakvi-02.webp",
-      "IMAGE_2026-05-20_chakvi-03.webp"
-    ],
-    "features": {
-      "ru": [
-        "Площадь от 396 м²",
-        "Статус несельскохоз назначение",
-        "Доступно для иностранных граждан",
-        "Опорная стена готова",
-        "Все коммуникации вдоль участков",
-        "Возможность заказать строительство дома",
-        "Цена: $90/м²",
-        "Развивающийся коттеджный поселок",
-        "Удобная инфраструктура",
-        "Перспективная локация"
-      ],
-      "en": [
-        "Plot area from 396 m²",
-        "Non-agricultural land status",
-        "Available for foreign buyers",
-        "Retaining wall completed",
-        "All utilities provided",
-        "Option to order home construction",
-        "Price: $90/m²",
-        "Developing cottage community",
-        "Convenient infrastructure",
-        "Promising location"
-      ],
-      "ge": [
-        "Plot area from 396 m²",
-        "Non-agricultural land status",
-        "Available for foreign buyers",
-        "Retaining wall completed",
-        "All utilities provided",
-        "Option to order home construction",
-        "Price: $90/m²",
-        "Developing cottage community",
-        "Convenient infrastructure",
-        "Promising location"
-      ]
-    }
-  },
-  {
-    "id": 26,
-    "slug": "роскошный-дом-в-махинджаури-утопающий-в-зелени",
-    "type": "house",
-    "status": "new",
-    "location": {
-      "ru": "Махинджаури, пригород Батуми",
-      "en": "Mahindzhauri, Batumi suburb",
-      "ge": "Mahindzhauri, Batumi suburb"
-    },
-    "title": {
-      "ru": "Большой атмосферный дом в Махинджаури, утопающий в зелени",
-      "en": "Spacious Atmospheric House in Mahindzhauri, Nestled in Greenery",
-      "ge": "Spacious Atmospheric House in Mahindzhauri, Nestled in Greenery"
-    },
-    "description": {
-      "ru": "Шикарный загородный дом 700 м² в престижном районе Махинджаури, рядом с историческим особняком Николая II. Дом полностью готов к проживанию, расположен в окружении природы с видом на море. 3 спальни со своими балконами, центральное отопление, гостевая студия на цокольном этаже. Участок ровный, идеально благоустроенный.",
-      "en": "Luxurious country house of 700 m² in prestigious Mahindzhauri area, near the historic Nikolai II mansion. Fully ready to live, surrounded by nature with sea view. 3 bedrooms with private balconies, central heating, guest studio in basement. Level lot, perfectly landscaped.",
-      "ge": "Luxurious country house of 700 m² in prestigious Mahindzhauri area, near the historic Nikolai II mansion. Fully ready to live, surrounded by nature with sea view. 3 bedrooms with private balconies, central heating, guest studio in basement. Level lot, perfectly landscaped."
-    },
-    "priceUSD": 400000,
-    "priceGEL": 1080000,
-    "priceRUB": 40800000,
-    "landArea": 700,
-    "houseArea": null,
-    "images": [
-      "IMAGE_2026-05-20_mahindzhauri-01.webp",
-      "IMAGE_2026-05-20_mahindzhauri-02.webp",
-      "IMAGE_2026-05-20_mahindzhauri-03.webp",
-      "IMAGE_2026-05-20_mahindzhauri-04.webp",
-      "IMAGE_2026-05-20_mahindzhauri-05.webp",
-      "IMAGE_2026-05-20_mahindzhauri-06.webp"
-    ],
-    "features": {
-      "ru": [
-        "Участок 700 м²",
-        "Статус несельскохоз назначение",
-        "Доступен для иностранных граждан",
-        "3 спальни со своими балконами",
-        "Центральное отопление",
-        "Гостевая студия на цокольном этаже",
-        "Красивый вид на море",
-        "Участок ровный и хорошо благоустроен",
-        "Рядом исторический особняк Николая II",
-        "Окружен природой и зеленью",
-        "Цена: $400,000",
-        "Готовый к проживанию"
-      ],
-      "en": [
-        "Plot area: 700 m²",
-        "Non-agricultural land status",
-        "Available for foreign buyers",
-        "3 bedrooms with private balconies",
-        "Central heating",
-        "Guest studio in basement",
-        "Beautiful sea view",
-        "Level and well-landscaped lot",
-        "Near historic Nikolai II mansion",
-        "Surrounded by nature and greenery",
-        "Price: $400,000",
-        "Ready to live in"
-      ],
-      "ge": [
-        "Plot area: 700 m²",
-        "Non-agricultural land status",
-        "Available for foreign buyers",
-        "3 bedrooms with private balconies",
-        "Central heating",
-        "Guest studio in basement",
-        "Beautiful sea view",
-        "Level and well-landscaped lot",
-        "Near historic Nikolai II mansion",
-        "Surrounded by nature and greenery",
-        "Price: $400,000",
-        "Ready to live in"
-      ]
-    }
-  },
-  {
-    "id": 27,
-    "slug": "земельный-участок-в-верхнем-ахалшени-700m2",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Верхний Ахалшени, пригород Батуми",
-      "en": "Upper Akhalsheni, Batumi suburb",
-      "ge": "Upper Akhalsheni, Batumi suburb"
-    },
-    "title": {
-      "ru": "Земельный участок в Верхнем Ахалшени (700 м²)",
-      "en": "Land Plot in Upper Akhalsheni (700 m²)",
-      "ge": "Land Plot in Upper Akhalsheni (700 m²)"
-    },
-    "description": {
-      "ru": "Земельный участок 700 м² в Верхнем Ахалшени, всего в 15 минутах езды от Батуми. Статус несельскохозяйственного назначения, подходит для покупки иностранными гражданами. Природное место с мало соседей, хорошая дорога. Рельеф — склон, не обрыв. Родник вдоль участка. Есть газ, электричество, вода. Можно строить здание площадью до 500 м² высотой до 12 м.",
-      "en": "Land plot of 700 m² in Upper Akhalsheni, just 15 minutes drive from Batumi. Non-agricultural status, suitable for foreign buyers. Natural location with few neighbors, good road. Slope terrain, not a cliff. Spring along the plot. Gas, electricity, water available. Can build up to 500 m² building with 12m height.",
-      "ge": "Land plot of 700 m² in Upper Akhalsheni, just 15 minutes drive from Batumi. Non-agricultural status, suitable for foreign buyers. Natural location with few neighbors, good road. Slope terrain, not a cliff. Spring along the plot. Gas, electricity, water available. Can build up to 500 m² building with 12m height."
-    },
-    "priceUSD": 26000,
-    "priceGEL": 70200,
-    "priceRUB": 2652000,
-    "landArea": 700,
+    "priceUSD": 150000,
+    "priceGEL": 405000,
+    "priceRUB": 13800000,
+    "landArea": 2500,
     "houseArea": null,
     "images": [],
     "features": {
       "ru": [
-        "Площадь 700 м²",
-        "Статус несельскохоз назначение",
-        "Доступно для иностранных граждан",
-        "Природное место, мало соседей",
-        "Хорошая дорога",
-        "Рельеф склон, не обрыв",
-        "Родник вдоль участка",
-        "Газ, электричество, вода",
-        "Можно строить до 500 м² высотой 12м",
-        "15 минут от Батуми",
-        "Перспективная локация"
+        "Площадь участка: 2500 м²",
+        "Цена: $150,000",
+        "Локация: Капрешуми",
+        "Статус: несельскохозяйственное назначение",
+        "Доступна покупка иностранцами",
+        "Все коммуникации подведены"
       ],
       "en": [
-        "Plot area: 700 m²",
+        "Land area: 2500 m²",
+        "Price: $150,000",
+        "Location: Капрешуми",
         "Non-agricultural status",
-        "Available for foreign buyers",
-        "Natural location with few neighbors",
-        "Good road access",
-        "Slope terrain, not a cliff",
-        "Spring along the plot",
-        "Gas, electricity, water",
-        "Can build up to 500 m² with 12m height",
-        "15 minutes from Batumi",
-        "Promising location"
+        "Foreign buyers can purchase",
+        "All utilities available"
       ],
       "ge": [
-        "Plot area: 700 m²",
+        "Land area: 2500 m²",
+        "Price: $150,000",
+        "Location: Капрешуми",
         "Non-agricultural status",
-        "Available for foreign buyers",
-        "Natural location with few neighbors",
-        "Good road access",
-        "Slope terrain, not a cliff",
-        "Spring along the plot",
-        "Gas, electricity, water",
-        "Can build up to 500 m² with 12m height",
-        "15 minutes from Batumi",
-        "Promising location"
+        "Foreign buyers can purchase",
+        "All utilities available"
       ]
     }
   },
   {
-    "id": 28,
-    "slug": "земельный-участок-в-махинджаури-1000m2",
+    "id": 4,
+    "slug": "чакви-1300m2-180000",
     "type": "land",
     "status": "new",
     "location": {
-      "ru": "Махинджаури, пригород Батуми",
-      "en": "Mahindzhauri, Batumi suburb",
-      "ge": "Mahindzhauri, Batumi suburb"
+      "ru": "Чакви",
+      "en": "Чакви",
+      "ge": "Чакви"
     },
     "title": {
-      "ru": "Земельный участок в Махинджаури (1000 м²)",
-      "en": "Land Plot in Mahindzhauri (1000 m²)",
-      "ge": "Land Plot in Mahindzhauri (1000 m²)"
+      "ru": "Земельный участок 1300 м² в Чакви",
+      "en": "Земельный участок 1300 м² в Чакви",
+      "ge": "Земельный участок 1300 м² в Чакви"
     },
     "description": {
-      "ru": "Отличный земельный участок 1000 м² в престижном районе Махинджаури с хорошей локацией. Статус несельскохозяйственного назначения, доступен для покупки иностранными гражданами. Идеально подходит для строительства дома или коммерческого проекта.",
-      "en": "Excellent land plot of 1000 m² in prestigious Mahindzhauri area with great location. Non-agricultural status, available for foreign buyers. Perfect for building a house or commercial project.",
-      "ge": "Excellent land plot of 1000 m² in prestigious Mahindzhauri area with great location. Non-agricultural status, available for foreign buyers. Perfect for building a house or commercial project."
+      "ru": "В продаже участокспроектом в Чакви\n\nПлощадь 13 соток (1300 м2), разделен на 3 кадастра.\nЕсть разрешение на строительство 3х частных вилл площадью ~400м2 каждая.\n\nСтоимость земли вместе с проектом",
+      "en": "В продаже участокспроектом в Чакви\n\nПлощадь 13 соток (1300 м2), разделен на 3 кадастра.\nЕсть разрешение на строительство 3х частных вилл площадью ~400м2 каждая.\n\nСтоимость земли вместе с проектом",
+      "ge": "В продаже участокспроектом в Чакви\n\nПлощадь 13 соток (1300 м2), разделен на 3 кадастра.\nЕсть разрешение на строительство 3х частных вилл площадью ~400м2 каждая.\n\nСтоимость земли вместе с проектом"
+    },
+    "priceUSD": 180000,
+    "priceGEL": 486000,
+    "priceRUB": 16560000,
+    "landArea": 1300,
+    "houseArea": null,
+    "images": [],
+    "features": {
+      "ru": [
+        "Площадь участка: 1300 м²",
+        "Цена: $180,000",
+        "Локация: Чакви",
+        "Статус: несельскохозяйственное назначение",
+        "Доступна покупка иностранцами",
+        "Все коммуникации подведены"
+      ],
+      "en": [
+        "Land area: 1300 m²",
+        "Price: $180,000",
+        "Location: Чакви",
+        "Non-agricultural status",
+        "Foreign buyers can purchase",
+        "All utilities available"
+      ],
+      "ge": [
+        "Land area: 1300 m²",
+        "Price: $180,000",
+        "Location: Чакви",
+        "Non-agricultural status",
+        "Foreign buyers can purchase",
+        "All utilities available"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "slug": "махинджаури-1000m2-85000",
+    "type": "land",
+    "status": "new",
+    "location": {
+      "ru": "Махинджаури",
+      "en": "Махинджаури",
+      "ge": "Махинджаури"
+    },
+    "title": {
+      "ru": "Земельный участок 1000 м² в Махинджаури",
+      "en": "Земельный участок 1000 м² в Махинджаури",
+      "ge": "Земельный участок 1000 м² в Махинджаури"
+    },
+    "description": {
+      "ru": "В продаже земельныйучасток в Махинджаури\n\n✔1000 м2\n✔Статус несельхоз\n✔Отличная локация\n\n 85 000 $",
+      "en": "В продаже земельныйучасток в Махинджаури\n\n✔1000 м2\n✔Статус несельхоз\n✔Отличная локация\n\n 85 000 $",
+      "ge": "В продаже земельныйучасток в Махинджаури\n\n✔1000 м2\n✔Статус несельхоз\n✔Отличная локация\n\n 85 000 $"
     },
     "priceUSD": 85000,
     "priceGEL": 229500,
-    "priceRUB": 8670000,
+    "priceRUB": 7820000,
     "landArea": 1000,
     "houseArea": null,
     "images": [],
     "features": {
       "ru": [
-        "Площадь 1000 м²",
-        "Статус несельскохоз назначение",
-        "Доступно для иностранных граждан",
-        "Отличная локация",
-        "Престижный район Махинджаури",
-        "Подходит для дома или проекта",
-        "Инвестиционный потенциал"
+        "Площадь участка: 1000 м²",
+        "Цена: $85,000",
+        "Локация: Махинджаури",
+        "Статус: несельскохозяйственное назначение",
+        "Доступна покупка иностранцами",
+        "Все коммуникации подведены"
       ],
       "en": [
-        "Plot area: 1000 m²",
+        "Land area: 1000 m²",
+        "Price: $85,000",
+        "Location: Махинджаури",
         "Non-agricultural status",
-        "Available for foreign buyers",
-        "Excellent location",
-        "Prestigious Mahindzhauri area",
-        "Suitable for house or project",
-        "Investment potential"
+        "Foreign buyers can purchase",
+        "All utilities available"
       ],
       "ge": [
-        "Plot area: 1000 m²",
+        "Land area: 1000 m²",
+        "Price: $85,000",
+        "Location: Махинджаури",
         "Non-agricultural status",
-        "Available for foreign buyers",
-        "Excellent location",
-        "Prestigious Mahindzhauri area",
-        "Suitable for house or project",
-        "Investment potential"
+        "Foreign buyers can purchase",
+        "All utilities available"
       ]
     }
   },
   {
-    "id": 29,
-    "slug": "земельный-участок-в-бакуриани-3735m2-под-отель",
+    "id": 6,
+    "slug": "ортабатуми-6800m2-476000",
+    "type": "house",
+    "status": "new",
+    "location": {
+      "ru": "Ортабатуми",
+      "en": "Ортабатуми",
+      "ge": "Ортабатуми"
+    },
+    "title": {
+      "ru": "Участок 6800 м² с домом 400 м² в Ортабатуми",
+      "en": "Участок 6800 м² с домом 400 м² в Ортабатуми",
+      "ge": "Участок 6800 м² с домом 400 м² в Ортабатуми"
+    },
+    "description": {
+      "ru": "В продаже земельныйучасток с капитальным домом в Ортабатуми\n\n✅участок 6800 м2\n✅дом 400 м2 (под ремонт, можно сделать отель, гостевой дом, ретрит центр,жилой дом, отель и тд)\n✅участок уединенный, с кр",
+      "en": "В продаже земельныйучасток с капитальным домом в Ортабатуми\n\n✅участок 6800 м2\n✅дом 400 м2 (под ремонт, можно сделать отель, гостевой дом, ретрит центр,жилой дом, отель и тд)\n✅участок уединенный, с кр",
+      "ge": "В продаже земельныйучасток с капитальным домом в Ортабатуми\n\n✅участок 6800 м2\n✅дом 400 м2 (под ремонт, можно сделать отель, гостевой дом, ретрит центр,жилой дом, отель и тд)\n✅участок уединенный, с кр"
+    },
+    "priceUSD": 476000,
+    "priceGEL": 1285200,
+    "priceRUB": 43792000,
+    "landArea": 6800,
+    "houseArea": 400,
+    "images": [],
+    "features": {
+      "ru": [
+        "Площадь участка: 6800 м²",
+        "Цена: $476,000",
+        "Локация: Ортабатуми",
+        "Статус: несельскохозяйственное назначение",
+        "Доступна покупка иностранцами",
+        "Все коммуникации подведены"
+      ],
+      "en": [
+        "Land area: 6800 m²",
+        "Price: $476,000",
+        "Location: Ортабатуми",
+        "Non-agricultural status",
+        "Foreign buyers can purchase",
+        "All utilities available"
+      ],
+      "ge": [
+        "Land area: 6800 m²",
+        "Price: $476,000",
+        "Location: Ортабатуми",
+        "Non-agricultural status",
+        "Foreign buyers can purchase",
+        "All utilities available"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "slug": "бакуриани-3735m2-367000",
     "type": "land",
     "status": "new",
     "location": {
-      "ru": "Бакуриани, горный курорт",
-      "en": "Bakuriani, mountain resort",
-      "ge": "Bakuriani, mountain resort"
+      "ru": "Бакуриани",
+      "en": "Бакуриани",
+      "ge": "Бакуриани"
     },
     "title": {
-      "ru": "Земельный участок в Бакуриани под отель или апартаменты (3735 м²)",
-      "en": "Investment Land Plot in Bakuriani for Hotel or Apartments (3735 m²)",
-      "ge": "Investment Land Plot in Bakuriani for Hotel or Apartments (3735 m²)"
+      "ru": "Земельный участок 3735 м² в Бакуриани",
+      "en": "Земельный участок 3735 м² в Бакуриани",
+      "ge": "Земельный участок 3735 м² в Бакуриани"
     },
     "description": {
-      "ru": "Инвестиционный земельный участок 3735 м² в сердце горного курорта Бакуриани. Статус несельскохозяйственного назначения, подходит под строительство отеля или апартаментов. Газ и электричество подведены к участку. Прогнозируемая доходность 10-17% годовых на основе анализа действующих проектов в Бакуриани.",
-      "en": "Investment land plot of 3735 m² in the heart of mountain resort Bakuriani. Non-agricultural status, suitable for hotel or apartment construction. Gas and electricity connected to the plot. Projected return 10-17% annually based on existing projects analysis.",
-      "ge": "Investment land plot of 3735 m² in the heart of mountain resort Bakuriani. Non-agricultural status, suitable for hotel or apartment construction. Gas and electricity connected to the plot. Projected return 10-17% annually based on existing projects analysis."
+      "ru": "\udcabИНВЕСТИЦИОННОЕ ПРЕДЛОЖЕНИЕ\n\n Земельныйучасток под отель или апартаменты\n\n\udfd4 БАКУРИАНИ (СЕРДЦЕ КУРОРТА)\nплощадь: 3 735 м²\nстатус: не сельхоз (под строительство отеля/апартаментов)\nгаз и электрич",
+      "en": "\udcabИНВЕСТИЦИОННОЕ ПРЕДЛОЖЕНИЕ\n\n Земельныйучасток под отель или апартаменты\n\n\udfd4 БАКУРИАНИ (СЕРДЦЕ КУРОРТА)\nплощадь: 3 735 м²\nстатус: не сельхоз (под строительство отеля/апартаментов)\nгаз и электрич",
+      "ge": "\udcabИНВЕСТИЦИОННОЕ ПРЕДЛОЖЕНИЕ\n\n Земельныйучасток под отель или апартаменты\n\n\udfd4 БАКУРИАНИ (СЕРДЦЕ КУРОРТА)\nплощадь: 3 735 м²\nстатус: не сельхоз (под строительство отеля/апартаментов)\nгаз и электрич"
     },
     "priceUSD": 367000,
     "priceGEL": 990900,
-    "priceRUB": 37434000,
+    "priceRUB": 33764000,
     "landArea": 3735,
     "houseArea": null,
     "images": [],
     "features": {
       "ru": [
-        "Площадь 3735 м²",
-        "Статус несельскохоз назначение",
-        "Сердце горного курорта Бакуриани",
-        "Подходит под отель/апартаменты",
-        "Газ и электричество подведены",
-        "Прогнозируемая доходность 10-17% годовых",
-        "Стратегическая локация",
-        "Инвестиционный потенциал"
+        "Площадь участка: 3735 м²",
+        "Цена: $367,000",
+        "Локация: Бакуриани",
+        "Статус: несельскохозяйственное назначение",
+        "Доступна покупка иностранцами",
+        "Все коммуникации подведены"
       ],
       "en": [
-        "Plot area: 3735 m²",
+        "Land area: 3735 m²",
+        "Price: $367,000",
+        "Location: Бакуриани",
         "Non-agricultural status",
-        "Heart of Bakuriani mountain resort",
-        "Suitable for hotel/apartments",
-        "Gas and electricity connected",
-        "Projected 10-17% annual return",
-        "Strategic location",
-        "Strong investment potential"
+        "Foreign buyers can purchase",
+        "All utilities available"
       ],
       "ge": [
-        "Plot area: 3735 m²",
+        "Land area: 3735 m²",
+        "Price: $367,000",
+        "Location: Бакуриани",
         "Non-agricultural status",
-        "Heart of Bakuriani mountain resort",
-        "Suitable for hotel/apartments",
-        "Gas and electricity connected",
-        "Projected 10-17% annual return",
-        "Strategic location",
-        "Strong investment potential"
+        "Foreign buyers can purchase",
+        "All utilities available"
       ]
     }
   },
   {
-    "id": 30,
-    "slug": "земельный-участок-на-реке-в-чакви-3600m2",
+    "id": 8,
+    "slug": "чакви-(на-реке)-2400m2-210000",
     "type": "land",
     "status": "new",
     "location": {
-      "ru": "Чакви, курортный город",
-      "en": "Chakvi, resort town",
-      "ge": "Chakvi, resort town"
+      "ru": "Чакви (на реке)",
+      "en": "Чакви (на реке)",
+      "ge": "Чакви (на реке)"
     },
     "title": {
-      "ru": "Прекрасный участок на реке в Чакви (3600 м²)",
-      "en": "Beautiful Land Plot on River in Chakvi (3600 m²)",
-      "ge": "Beautiful Land Plot on River in Chakvi (3600 m²)"
+      "ru": "Земельный участок 2400 м² в Чакви (на реке)",
+      "en": "Земельный участок 2400 м² в Чакви (на реке)",
+      "ge": "Земельный участок 2400 м² в Чакви (на реке)"
     },
     "description": {
-      "ru": "Ровный участок 3600 м² на берегу небольшой реки в курортном городе Чакви, в 11 км от центра Батуми. Участок имеет вытянутую форму вдоль русла реки с идеально ровным ландшафтом. Вдоль всего участка протекает река, на участке растут ореховые деревья. Статус несельскохозяйственных земель. Все коммуникации подведены: природный газ, электричество, оптоволоконный интернет, центральное водоснабжение. Перспективен для строительства 10-12 таунхаусов или 4-5 частных домов.",
-      "en": "Beautiful level plot of 3600 m² on the banks of a small river in resort town Chakvi, 11 km from Batumi center. Elongated shape along the river with perfectly level landscape. River runs along entire plot, walnut trees on property. Non-agricultural land status. All utilities: natural gas, electricity, fiber optic internet, central water supply. Perspective for 10-12 townhouses or 4-5 private houses.",
-      "ge": "Beautiful level plot of 3600 m² on the banks of a small river in resort town Chakvi, 11 km from Batumi center. Elongated shape along the river with perfectly level landscape. River runs along entire plot, walnut trees on property. Non-agricultural land status. All utilities: natural gas, electricity, fiber optic internet, central water supply. Perspective for 10-12 townhouses or 4-5 private houses."
+      "ru": "Прекрасный ровный земельныйучасток на берегу небольшой реки в курортном городе Чакви в 11 км от центра Батуми.\n\nУчасток имеет вытянутую форму вдоль русла реки и идеально ровный ландшафт. Вдоль вс",
+      "en": "Прекрасный ровный земельныйучасток на берегу небольшой реки в курортном городе Чакви в 11 км от центра Батуми.\n\nУчасток имеет вытянутую форму вдоль русла реки и идеально ровный ландшафт. Вдоль вс",
+      "ge": "Прекрасный ровный земельныйучасток на берегу небольшой реки в курортном городе Чакви в 11 км от центра Батуми.\n\nУчасток имеет вытянутую форму вдоль русла реки и идеально ровный ландшафт. Вдоль вс"
     },
     "priceUSD": 210000,
     "priceGEL": 567000,
-    "priceRUB": 21420000,
-    "landArea": 3600,
+    "priceRUB": 19320000,
+    "landArea": 2400,
     "houseArea": null,
     "images": [],
     "features": {
       "ru": [
-        "Площадь 3600 м²",
-        "На берегу реки",
-        "Идеально ровный ландшафт",
-        "Ореховые деревья на участке",
-        "Статус несельскохоз земли",
-        "Газ, электричество, интернет, вода",
-        "Подходит для 10-12 таунхаусов или 4-5 домов",
-        "Уникальная живописная локация",
-        "В 11 км от Батуми",
-        "Инвестиционный потенциал"
+        "Площадь участка: 2400 м²",
+        "Цена: $210,000",
+        "Локация: Чакви (на реке)",
+        "Статус: несельскохозяйственное назначение",
+        "Доступна покупка иностранцами",
+        "Все коммуникации подведены"
       ],
       "en": [
-        "Plot area: 3600 m²",
-        "On river bank",
-        "Perfectly level landscape",
-        "Walnut trees on property",
-        "Non-agricultural land status",
-        "Gas, electricity, internet, water",
-        "Suitable for 10-12 townhouses or 4-5 houses",
-        "Unique scenic location",
-        "11 km from Batumi",
-        "Strong investment potential"
+        "Land area: 2400 m²",
+        "Price: $210,000",
+        "Location: Чакви (на реке)",
+        "Non-agricultural status",
+        "Foreign buyers can purchase",
+        "All utilities available"
       ],
       "ge": [
-        "Plot area: 3600 m²",
-        "On river bank",
-        "Perfectly level landscape",
-        "Walnut trees on property",
-        "Non-agricultural land status",
-        "Gas, electricity, internet, water",
-        "Suitable for 10-12 townhouses or 4-5 houses",
-        "Unique scenic location",
-        "11 km from Batumi",
-        "Strong investment potential"
+        "Land area: 2400 m²",
+        "Price: $210,000",
+        "Location: Чакви (на реке)",
+        "Non-agricultural status",
+        "Foreign buyers can purchase",
+        "All utilities available"
       ]
     }
   },
   {
-    "id": 31,
-    "slug": "инвестиционный-участок-1-га-в-чакви-с-проектом",
+    "id": 9,
+    "slug": "чакви-(1-га-у-моря)-10000m2-800000",
     "type": "land",
     "status": "new",
     "location": {
-      "ru": "Чакви, побережье Чёрного моря",
-      "en": "Chakvi, Black Sea coast",
-      "ge": "Chakvi, Black Sea coast"
+      "ru": "Чакви (1 га у моря)",
+      "en": "Чакви (1 га у моря)",
+      "ge": "Чакви (1 га у моря)"
     },
     "title": {
-      "ru": "Инвестиционный участок 1 Га в Чакви с проектом (10000 м²)",
-      "en": "Investment Plot 1 Hectare in Chakvi with Project (10000 m²)",
-      "ge": "Investment Plot 1 Hectare in Chakvi with Project (10000 m²)"
+      "ru": "Земельный участок 10000 м² в Чакви (1 га у моря)",
+      "en": "Земельный участок 10000 м² в Чакви (1 га у моря)",
+      "ge": "Земельный участок 10000 м² в Чакви (1 га у моря)"
     },
     "description": {
-      "ru": "Уникальный земельный участок площадью 10000 м² с проектом малоэтажной застройки на побережье Чёрного моря в курортном посёлке Чакви, в 15 минутах от Батуми. Участок находится в 800 метрах от морского побережья. Статус несельскохозяйственного назначения, подходит для покупки иностранными гражданами. Согласован проект на 10 домов. Все коммуникации: газ, электричество, центральная вода. Асфальт до участка. Участок граничит с чистой горной рекой. Проект ориентирован на растущий спрос на частные дома в зелёных зонах недалеко от Батуми.",
-      "en": "Unique land plot of 10000 m² with low-rise development project on the Black Sea coast in resort village Chakvi, 15 minutes from Batumi. Plot is 800 meters from the sea. Non-agricultural status, suitable for foreign buyers. Project approved for 10 houses. All utilities: gas, electricity, central water. Asphalt to plot. Borders clean mountain river. Project targets growing demand for private houses in green areas near Batumi.",
-      "ge": "Unique land plot of 10000 m² with low-rise development project on the Black Sea coast in resort village Chakvi, 15 minutes from Batumi. Plot is 800 meters from the sea. Non-agricultural status, suitable for foreign buyers. Project approved for 10 houses. All utilities: gas, electricity, central water. Asphalt to plot. Borders clean mountain river. Project targets growing demand for private houses in green areas near Batumi."
+      "ru": "Инвестиционный земельныйучасток 1 Га в Чакви, Грузия\nПредлагаем уникальный земельный участок c проектом малоэтажной застройки! Участок находится в 800 метрах от побережья Чёрного моря - в курортном п",
+      "en": "Инвестиционный земельныйучасток 1 Га в Чакви, Грузия\nПредлагаем уникальный земельный участок c проектом малоэтажной застройки! Участок находится в 800 метрах от побережья Чёрного моря - в курортном п",
+      "ge": "Инвестиционный земельныйучасток 1 Га в Чакви, Грузия\nПредлагаем уникальный земельный участок c проектом малоэтажной застройки! Участок находится в 800 метрах от побережья Чёрного моря - в курортном п"
     },
     "priceUSD": 800000,
     "priceGEL": 2160000,
-    "priceRUB": 81600000,
+    "priceRUB": 73600000,
     "landArea": 10000,
     "houseArea": null,
     "images": [],
     "features": {
       "ru": [
-        "Площадь 10000 м² (1 Га)",
-        "Статус несельскохоз назначение",
-        "Подходит для иностранных граждан",
-        "Проект на 10 домов согласован",
-        "Все коммуникации подведены",
-        "Асфальт до участка",
-        "800м от морского побережья",
-        "Граничит с горной рекой",
-        "Идеально для инвестиций",
-        "15 минут от Батуми",
-        "Уникальная локация",
-        "Цена: $80/м²"
+        "Площадь участка: 10000 м²",
+        "Цена: $800,000",
+        "Локация: Чакви (1 га у моря)",
+        "Статус: несельскохозяйственное назначение",
+        "Доступна покупка иностранцами",
+        "Все коммуникации подведены"
       ],
       "en": [
-        "Plot area: 10000 m² (1 hectare)",
+        "Land area: 10000 m²",
+        "Price: $800,000",
+        "Location: Чакви (1 га у моря)",
         "Non-agricultural status",
-        "Suitable for foreign buyers",
-        "Project for 10 houses approved",
-        "All utilities connected",
-        "Asphalt access",
-        "800m from sea",
-        "Borders mountain river",
-        "Perfect for investment",
-        "15 minutes from Batumi",
-        "Unique location",
-        "Price: $80/m²"
+        "Foreign buyers can purchase",
+        "All utilities available"
       ],
       "ge": [
-        "Plot area: 10000 m² (1 hectare)",
+        "Land area: 10000 m²",
+        "Price: $800,000",
+        "Location: Чакви (1 га у моря)",
         "Non-agricultural status",
-        "Suitable for foreign buyers",
-        "Project for 10 houses approved",
-        "All utilities connected",
-        "Asphalt access",
-        "800m from sea",
-        "Borders mountain river",
-        "Perfect for investment",
-        "15 minutes from Batumi",
-        "Unique location",
-        "Price: $80/m²"
+        "Foreign buyers can purchase",
+        "All utilities available"
       ]
     }
   }
