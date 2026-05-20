@@ -63,6 +63,10 @@ export default function CatalogPage({ lang, properties, onSelectProperty, initia
       return p.priceUSD >= min && p.priceUSD <= max;
     });
     return list.sort((a, b) => {
+      // HOT всегда первые
+      const hotA = a.badge === 'HOT' ? -1 : 0;
+      const hotB = b.badge === 'HOT' ? -1 : 0;
+      if (hotA !== hotB) return hotA - hotB;
       if (sort === 'price-asc') return a.priceUSD - b.priceUSD;
       if (sort === 'price-desc') return b.priceUSD - a.priceUSD;
       const aa = (a.type === 'land' ? a.landArea : a.houseArea) ?? 0;
