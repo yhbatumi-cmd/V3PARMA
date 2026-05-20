@@ -68,7 +68,7 @@ export default function Footer({ lang, onNavigate }: FooterProps) {
               <div className="flex gap-3">
                 {[
                   { href: 'https://instagram.com/parmainvest', icon: <Instagram size={24} /> },
-                  { href: 'https://t.me/parmainvest', icon: <Send size={24} /> },
+                  { href: 'https://t.me/mokhova_pro', icon: <Send size={24} /> },
                   { href: 'https://wa.me/995557520693', icon: <MessageCircle size={24} /> },
                 ].map(({ href, icon }) => (
                   <a

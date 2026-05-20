@@ -17,12 +17,12 @@ export default function ContactsPage({ lang }: ContactsPageProps) {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     const text = encodeURIComponent(`${name ? name + '\n' : ''}${phone ? phone + '\n' : ''}${message}`);
-    window.open(`https://t.me/parmainvest?text=${text}`, '_blank');
+    window.open(`https://t.me/mokhova_pro?text=${text}`, '_blank');
   };
 
   const channels = [
     { href: 'https://instagram.com/parmainvest', icon: <Instagram size={22} />, label: 'Instagram' },
-    { href: 'https://t.me/parmainvest', icon: <Send size={22} />, label: 'Telegram' },
+    { href: 'https://t.me/mokhova_pro', icon: <Send size={22} />, label: 'Telegram' },
     { href: 'https://wa.me/995557520693', icon: <MessageCircle size={22} />, label: 'WhatsApp' },
     { href: 'tel:+995557520693', icon: <Phone size={22} />, label: lang === 'RU' ? 'Телефон' : 'Phone', handle: '+995 557 520 693' },
   ];

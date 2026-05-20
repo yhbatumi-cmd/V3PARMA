@@ -89,7 +89,7 @@ export default function PropertyCard({ property: p, lang, onSelect, currency = '
             {t.details}
           </button>
           <a
-            href="https://t.me/parmainvest"
+            href="https://t.me/mokhova_pro"
             target="_blank"
             rel="noreferrer"
             onClick={(e) => e.stopPropagation()}

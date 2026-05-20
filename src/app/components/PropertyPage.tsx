@@ -167,7 +167,7 @@ export default function PropertyPage({ property: p, properties = [], lang, onBac
             {/* CTA buttons */}
             <div className="mt-8 flex flex-col gap-3">
               <a
-                href={`https://t.me/parmainvest?text=${tgText}`}
+                href={`https://t.me/mokhova_pro?text=${tgText}`}
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center justify-center gap-2 rounded-full bg-[#c9a84c] py-3.5 text-sm font-semibold text-white transition-all duration-200 hover:bg-[#d4af5a] hover:shadow-[0_0_20px_rgba(201,168,76,0.35)]"
