@@ -14,9 +14,9 @@ export default function Footer({ lang, onNavigate }: FooterProps) {
   return (
     <footer className="border-t border-white/8 bg-[#080810] px-4 py-4 md:py-6">
       <div className="mx-auto max-w-6xl">
-        <div className="flex flex-col md:flex-row gap-8 md:gap-0 md:items-start md:justify-between">
+        <div className="flex flex-col md:flex-row gap-8 md:gap-8 md:items-start md:justify-between">
           {/* Brand - left */}
-          <div className="flex flex-col items-center md:items-start flex-shrink-0 md:ml-12">
+          <div className="flex flex-col items-center md:items-start flex-shrink-0">
             <div className="flex flex-col items-center md:items-start gap-1 md:max-w-xs">
               <div className="flex justify-center md:justify-start">
                 <button onClick={() => onNavigate('home')} className="opacity-90 hover:opacity-100 transition-opacity flex-shrink-0">
@@ -28,7 +28,7 @@ export default function Footer({ lang, onNavigate }: FooterProps) {
                   />
                 </button>
               </div>
-              <p className="max-w-xs text-xs md:text-sm leading-snug text-white text-center md:text-left md:-ml-6">
+              <p className="max-w-xs text-xs md:text-sm leading-snug text-white text-center">
                 {lang === 'RU'
                   ? <>Загородная недвижимость Грузии.<br />Подбор, проверка и сопровождение.</>
                   : <>Georgia countryside real estate.<br />Search, check, and support.</>}
@@ -60,7 +60,7 @@ export default function Footer({ lang, onNavigate }: FooterProps) {
           </div>
 
           {/* Contacts - right */}
-          <div className="flex flex-col items-center md:items-end flex-shrink-0">
+          <div className="flex flex-col items-center flex-shrink-0">
             <h3 className="text-sm font-semibold uppercase tracking-widest text-[#c9a84c]/70 mb-4">
               {lang === 'RU' ? 'Контакты' : 'Contacts'}
             </h3>
@@ -82,15 +82,15 @@ export default function Footer({ lang, onNavigate }: FooterProps) {
                   </a>
                 ))}
               </div>
-              <a href="tel:+995557520693" className="text-lg text-white font-semibold hover:text-[#c9a84c] transition-colors duration-200">
+              <a href="tel:+995557520693" className="text-lg text-[#c9a84c] font-semibold hover:text-[#d4af5a] transition-colors duration-200">
                 +995 557 520 693
               </a>
             </div>
           </div>
         </div>
 
-        <div className="mt-4 border-t border-white/6 pt-4 text-center md:mt-6">
-          <div className="mx-auto md:max-w-sm">
+        <div className="mt-4 border-t border-white/6 pt-4 text-center md:mt-6 md:text-left">
+          <div>
             <p className="text-xs text-white/20">© 2020 PARMAINVEST. {lang === 'RU' ? 'Все права защищены.' : 'All rights reserved.'}</p>
             <button
               onClick={() => onNavigate('privacy')}

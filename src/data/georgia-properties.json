@@ -1834,5 +1834,324 @@
         "Ready to live in"
       ]
     }
+  },
+  {
+    "id": 27,
+    "slug": "земельный-участок-в-верхнем-ахалшени-700m2",
+    "type": "land",
+    "status": "new",
+    "location": {
+      "ru": "Верхний Ахалшени, пригород Батуми",
+      "en": "Upper Akhalsheni, Batumi suburb",
+      "ge": "Upper Akhalsheni, Batumi suburb"
+    },
+    "title": {
+      "ru": "Земельный участок в Верхнем Ахалшени (700 м²)",
+      "en": "Land Plot in Upper Akhalsheni (700 m²)",
+      "ge": "Land Plot in Upper Akhalsheni (700 m²)"
+    },
+    "description": {
+      "ru": "Земельный участок 700 м² в Верхнем Ахалшени, всего в 15 минутах езды от Батуми. Статус несельскохозяйственного назначения, подходит для покупки иностранными гражданами. Природное место с мало соседей, хорошая дорога. Рельеф — склон, не обрыв. Родник вдоль участка. Есть газ, электричество, вода. Можно строить здание площадью до 500 м² высотой до 12 м.",
+      "en": "Land plot of 700 m² in Upper Akhalsheni, just 15 minutes drive from Batumi. Non-agricultural status, suitable for foreign buyers. Natural location with few neighbors, good road. Slope terrain, not a cliff. Spring along the plot. Gas, electricity, water available. Can build up to 500 m² building with 12m height.",
+      "ge": "Land plot of 700 m² in Upper Akhalsheni, just 15 minutes drive from Batumi. Non-agricultural status, suitable for foreign buyers. Natural location with few neighbors, good road. Slope terrain, not a cliff. Spring along the plot. Gas, electricity, water available. Can build up to 500 m² building with 12m height."
+    },
+    "priceUSD": 26000,
+    "priceGEL": 70200,
+    "priceRUB": 2652000,
+    "landArea": 700,
+    "houseArea": null,
+    "images": [],
+    "features": {
+      "ru": [
+        "Площадь 700 м²",
+        "Статус несельскохоз назначение",
+        "Доступно для иностранных граждан",
+        "Природное место, мало соседей",
+        "Хорошая дорога",
+        "Рельеф склон, не обрыв",
+        "Родник вдоль участка",
+        "Газ, электричество, вода",
+        "Можно строить до 500 м² высотой 12м",
+        "15 минут от Батуми",
+        "Перспективная локация"
+      ],
+      "en": [
+        "Plot area: 700 m²",
+        "Non-agricultural status",
+        "Available for foreign buyers",
+        "Natural location with few neighbors",
+        "Good road access",
+        "Slope terrain, not a cliff",
+        "Spring along the plot",
+        "Gas, electricity, water",
+        "Can build up to 500 m² with 12m height",
+        "15 minutes from Batumi",
+        "Promising location"
+      ],
+      "ge": [
+        "Plot area: 700 m²",
+        "Non-agricultural status",
+        "Available for foreign buyers",
+        "Natural location with few neighbors",
+        "Good road access",
+        "Slope terrain, not a cliff",
+        "Spring along the plot",
+        "Gas, electricity, water",
+        "Can build up to 500 m² with 12m height",
+        "15 minutes from Batumi",
+        "Promising location"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "slug": "земельный-участок-в-махинджаури-1000m2",
+    "type": "land",
+    "status": "new",
+    "location": {
+      "ru": "Махинджаури, пригород Батуми",
+      "en": "Mahindzhauri, Batumi suburb",
+      "ge": "Mahindzhauri, Batumi suburb"
+    },
+    "title": {
+      "ru": "Земельный участок в Махинджаури (1000 м²)",
+      "en": "Land Plot in Mahindzhauri (1000 m²)",
+      "ge": "Land Plot in Mahindzhauri (1000 m²)"
+    },
+    "description": {
+      "ru": "Отличный земельный участок 1000 м² в престижном районе Махинджаури с хорошей локацией. Статус несельскохозяйственного назначения, доступен для покупки иностранными гражданами. Идеально подходит для строительства дома или коммерческого проекта.",
+      "en": "Excellent land plot of 1000 m² in prestigious Mahindzhauri area with great location. Non-agricultural status, available for foreign buyers. Perfect for building a house or commercial project.",
+      "ge": "Excellent land plot of 1000 m² in prestigious Mahindzhauri area with great location. Non-agricultural status, available for foreign buyers. Perfect for building a house or commercial project."
+    },
+    "priceUSD": 85000,
+    "priceGEL": 229500,
+    "priceRUB": 8670000,
+    "landArea": 1000,
+    "houseArea": null,
+    "images": [],
+    "features": {
+      "ru": [
+        "Площадь 1000 м²",
+        "Статус несельскохоз назначение",
+        "Доступно для иностранных граждан",
+        "Отличная локация",
+        "Престижный район Махинджаури",
+        "Подходит для дома или проекта",
+        "Инвестиционный потенциал"
+      ],
+      "en": [
+        "Plot area: 1000 m²",
+        "Non-agricultural status",
+        "Available for foreign buyers",
+        "Excellent location",
+        "Prestigious Mahindzhauri area",
+        "Suitable for house or project",
+        "Investment potential"
+      ],
+      "ge": [
+        "Plot area: 1000 m²",
+        "Non-agricultural status",
+        "Available for foreign buyers",
+        "Excellent location",
+        "Prestigious Mahindzhauri area",
+        "Suitable for house or project",
+        "Investment potential"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "slug": "земельный-участок-в-бакуриани-3735m2-под-отель",
+    "type": "land",
+    "status": "new",
+    "location": {
+      "ru": "Бакуриани, горный курорт",
+      "en": "Bakuriani, mountain resort",
+      "ge": "Bakuriani, mountain resort"
+    },
+    "title": {
+      "ru": "Земельный участок в Бакуриани под отель или апартаменты (3735 м²)",
+      "en": "Investment Land Plot in Bakuriani for Hotel or Apartments (3735 m²)",
+      "ge": "Investment Land Plot in Bakuriani for Hotel or Apartments (3735 m²)"
+    },
+    "description": {
+      "ru": "Инвестиционный земельный участок 3735 м² в сердце горного курорта Бакуриани. Статус несельскохозяйственного назначения, подходит под строительство отеля или апартаментов. Газ и электричество подведены к участку. Прогнозируемая доходность 10-17% годовых на основе анализа действующих проектов в Бакуриани.",
+      "en": "Investment land plot of 3735 m² in the heart of mountain resort Bakuriani. Non-agricultural status, suitable for hotel or apartment construction. Gas and electricity connected to the plot. Projected return 10-17% annually based on existing projects analysis.",
+      "ge": "Investment land plot of 3735 m² in the heart of mountain resort Bakuriani. Non-agricultural status, suitable for hotel or apartment construction. Gas and electricity connected to the plot. Projected return 10-17% annually based on existing projects analysis."
+    },
+    "priceUSD": 367000,
+    "priceGEL": 990900,
+    "priceRUB": 37434000,
+    "landArea": 3735,
+    "houseArea": null,
+    "images": [],
+    "features": {
+      "ru": [
+        "Площадь 3735 м²",
+        "Статус несельскохоз назначение",
+        "Сердце горного курорта Бакуриани",
+        "Подходит под отель/апартаменты",
+        "Газ и электричество подведены",
+        "Прогнозируемая доходность 10-17% годовых",
+        "Стратегическая локация",
+        "Инвестиционный потенциал"
+      ],
+      "en": [
+        "Plot area: 3735 m²",
+        "Non-agricultural status",
+        "Heart of Bakuriani mountain resort",
+        "Suitable for hotel/apartments",
+        "Gas and electricity connected",
+        "Projected 10-17% annual return",
+        "Strategic location",
+        "Strong investment potential"
+      ],
+      "ge": [
+        "Plot area: 3735 m²",
+        "Non-agricultural status",
+        "Heart of Bakuriani mountain resort",
+        "Suitable for hotel/apartments",
+        "Gas and electricity connected",
+        "Projected 10-17% annual return",
+        "Strategic location",
+        "Strong investment potential"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "slug": "земельный-участок-на-реке-в-чакви-3600m2",
+    "type": "land",
+    "status": "new",
+    "location": {
+      "ru": "Чакви, курортный город",
+      "en": "Chakvi, resort town",
+      "ge": "Chakvi, resort town"
+    },
+    "title": {
+      "ru": "Прекрасный участок на реке в Чакви (3600 м²)",
+      "en": "Beautiful Land Plot on River in Chakvi (3600 m²)",
+      "ge": "Beautiful Land Plot on River in Chakvi (3600 m²)"
+    },
+    "description": {
+      "ru": "Ровный участок 3600 м² на берегу небольшой реки в курортном городе Чакви, в 11 км от центра Батуми. Участок имеет вытянутую форму вдоль русла реки с идеально ровным ландшафтом. Вдоль всего участка протекает река, на участке растут ореховые деревья. Статус несельскохозяйственных земель. Все коммуникации подведены: природный газ, электричество, оптоволоконный интернет, центральное водоснабжение. Перспективен для строительства 10-12 таунхаусов или 4-5 частных домов.",
+      "en": "Beautiful level plot of 3600 m² on the banks of a small river in resort town Chakvi, 11 km from Batumi center. Elongated shape along the river with perfectly level landscape. River runs along entire plot, walnut trees on property. Non-agricultural land status. All utilities: natural gas, electricity, fiber optic internet, central water supply. Perspective for 10-12 townhouses or 4-5 private houses.",
+      "ge": "Beautiful level plot of 3600 m² on the banks of a small river in resort town Chakvi, 11 km from Batumi center. Elongated shape along the river with perfectly level landscape. River runs along entire plot, walnut trees on property. Non-agricultural land status. All utilities: natural gas, electricity, fiber optic internet, central water supply. Perspective for 10-12 townhouses or 4-5 private houses."
+    },
+    "priceUSD": 210000,
+    "priceGEL": 567000,
+    "priceRUB": 21420000,
+    "landArea": 3600,
+    "houseArea": null,
+    "images": [],
+    "features": {
+      "ru": [
+        "Площадь 3600 м²",
+        "На берегу реки",
+        "Идеально ровный ландшафт",
+        "Ореховые деревья на участке",
+        "Статус несельскохоз земли",
+        "Газ, электричество, интернет, вода",
+        "Подходит для 10-12 таунхаусов или 4-5 домов",
+        "Уникальная живописная локация",
+        "В 11 км от Батуми",
+        "Инвестиционный потенциал"
+      ],
+      "en": [
+        "Plot area: 3600 m²",
+        "On river bank",
+        "Perfectly level landscape",
+        "Walnut trees on property",
+        "Non-agricultural land status",
+        "Gas, electricity, internet, water",
+        "Suitable for 10-12 townhouses or 4-5 houses",
+        "Unique scenic location",
+        "11 km from Batumi",
+        "Strong investment potential"
+      ],
+      "ge": [
+        "Plot area: 3600 m²",
+        "On river bank",
+        "Perfectly level landscape",
+        "Walnut trees on property",
+        "Non-agricultural land status",
+        "Gas, electricity, internet, water",
+        "Suitable for 10-12 townhouses or 4-5 houses",
+        "Unique scenic location",
+        "11 km from Batumi",
+        "Strong investment potential"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "slug": "инвестиционный-участок-1-га-в-чакви-с-проектом",
+    "type": "land",
+    "status": "new",
+    "location": {
+      "ru": "Чакви, побережье Чёрного моря",
+      "en": "Chakvi, Black Sea coast",
+      "ge": "Chakvi, Black Sea coast"
+    },
+    "title": {
+      "ru": "Инвестиционный участок 1 Га в Чакви с проектом (10000 м²)",
+      "en": "Investment Plot 1 Hectare in Chakvi with Project (10000 m²)",
+      "ge": "Investment Plot 1 Hectare in Chakvi with Project (10000 m²)"
+    },
+    "description": {
+      "ru": "Уникальный земельный участок площадью 10000 м² с проектом малоэтажной застройки на побережье Чёрного моря в курортном посёлке Чакви, в 15 минутах от Батуми. Участок находится в 800 метрах от морского побережья. Статус несельскохозяйственного назначения, подходит для покупки иностранными гражданами. Согласован проект на 10 домов. Все коммуникации: газ, электричество, центральная вода. Асфальт до участка. Участок граничит с чистой горной рекой. Проект ориентирован на растущий спрос на частные дома в зелёных зонах недалеко от Батуми.",
+      "en": "Unique land plot of 10000 m² with low-rise development project on the Black Sea coast in resort village Chakvi, 15 minutes from Batumi. Plot is 800 meters from the sea. Non-agricultural status, suitable for foreign buyers. Project approved for 10 houses. All utilities: gas, electricity, central water. Asphalt to plot. Borders clean mountain river. Project targets growing demand for private houses in green areas near Batumi.",
+      "ge": "Unique land plot of 10000 m² with low-rise development project on the Black Sea coast in resort village Chakvi, 15 minutes from Batumi. Plot is 800 meters from the sea. Non-agricultural status, suitable for foreign buyers. Project approved for 10 houses. All utilities: gas, electricity, central water. Asphalt to plot. Borders clean mountain river. Project targets growing demand for private houses in green areas near Batumi."
+    },
+    "priceUSD": 800000,
+    "priceGEL": 2160000,
+    "priceRUB": 81600000,
+    "landArea": 10000,
+    "houseArea": null,
+    "images": [],
+    "features": {
+      "ru": [
+        "Площадь 10000 м² (1 Га)",
+        "Статус несельскохоз назначение",
+        "Подходит для иностранных граждан",
+        "Проект на 10 домов согласован",
+        "Все коммуникации подведены",
+        "Асфальт до участка",
+        "800м от морского побережья",
+        "Граничит с горной рекой",
+        "Идеально для инвестиций",
+        "15 минут от Батуми",
+        "Уникальная локация",
+        "Цена: $80/м²"
+      ],
+      "en": [
+        "Plot area: 10000 m² (1 hectare)",
+        "Non-agricultural status",
+        "Suitable for foreign buyers",
+        "Project for 10 houses approved",
+        "All utilities connected",
+        "Asphalt access",
+        "800m from sea",
+        "Borders mountain river",
+        "Perfect for investment",
+        "15 minutes from Batumi",
+        "Unique location",
+        "Price: $80/m²"
+      ],
+      "ge": [
+        "Plot area: 10000 m² (1 hectare)",
+        "Non-agricultural status",
+        "Suitable for foreign buyers",
+        "Project for 10 houses approved",
+        "All utilities connected",
+        "Asphalt access",
+        "800m from sea",
+        "Borders mountain river",
+        "Perfect for investment",
+        "15 minutes from Batumi",
+        "Unique location",
+        "Price: $80/m²"
+      ]
+    }
   }
 ]
