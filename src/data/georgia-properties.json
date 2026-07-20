@@ -1,57 +1,7 @@
 [
   {
-    "id": 1,
-    "slug": "земельный-участок-в-верхний-ахалшени-700-м²",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Верхний Ахалшени",
-      "en": "Upper Akhalsheni, near Batumi",
-      "ge": "Upper Akhalsheni, near Batumi"
-    },
-    "title": {
-      "ru": "Земельный участок в Верхний Ахалшени (700 м²)",
-      "en": "Земельный plot в Верхний Ахалшени (700 m²)",
-      "ge": "Земельный plot в Верхний Ахалшени (700 m²)"
-    },
-    "description": {
-      "ru": "В продаже в Верхнем Ахалшени (до Батуми 15 минут езды). статус - несельскохозяйственное назначение. рядом проходит газ, электричество, вода.",
-      "en": "В продаже в Верхнем Ахалшени (до Батуми 15 минут езды). статус - несельскохозяйственное назначение. рядом проходит газ, электричество, вода.",
-      "ge": "В продаже в Верхнем Ахалшени (до Батуми 15 минут езды). статус - несельскохозяйственное назначение. рядом проходит газ, электричество, вода."
-    },
-    "priceUSD": 26000,
-    "priceGEL": 70200,
-    "priceRUB": 2652000,
-    "landArea": 700,
-    "houseArea": null,
-    "images": [
-      "tg_60_photo_5@14-03-2026_17-54-26.jpg",
-      "tg_60_photo_6@14-03-2026_17-54-26.jpg"
-    ],
-    "features": {
-      "ru": [
-        "площадь 700 м2",
-        "статус - несельскохозяйственное назначение",
-        "рядом проходит газ, электричество, вода.",
-        "Цена: $26,000"
-      ],
-      "en": [
-        "площадь 700 m²",
-        "статус - несельскохозяйственное назначение",
-        "рядом проходит газ, электричество, вода.",
-        "Price: $26,000"
-      ],
-      "ge": [
-        "площадь 700 m²",
-        "статус - несельскохозяйственное назначение",
-        "рядом проходит газ, электричество, вода.",
-        "Price: $26,000"
-      ]
-    }
-  },
-  {
     "id": 2,
-    "slug": "участок-с-проектом-у-бамбуковой-рощи-в-махинджаури",
+    "slug": "uchastok-s-razresheniem-na-stroitelstvo-v-makhindzhauri",
     "type": "land",
     "status": "new",
     "location": {
@@ -60,9 +10,9 @@
       "ge": "Makhinjauri, Batumi suburb"
     },
     "title": {
-      "ru": "Участок с проектом у бамбуковой рощи в Махинджаури",
-      "en": "Plot с проектом у бамбуковой рощи в Махинджаури",
-      "ge": "Plot с проектом у бамбуковой рощи в Махинджаури"
+      "ru": "Участок с разрешением на строительство в Махинджаури",
+      "en": "Plot with Building Permit in Makhinjauri",
+      "ge": "Plot with Building Permit in Makhinjauri"
     },
     "description": {
       "ru": "- коммуникации на участке. - асфальтированная дорога, из центра Махинджаури 3-4 минуты на машине. - архитектурный проект на строительство 5 коттеджей",
@@ -75,6 +25,10 @@
     "landArea": null,
     "houseArea": null,
     "images": [
+      "makhinjauri_plot_photo1@29-06-2026.jpg",
+      "makhinjauri_plot_photo2@29-06-2026.jpg",
+      "makhinjauri_plot_photo3@29-06-2026.jpg",
+      "makhinjauri_plot_photo4@29-06-2026.jpg",
       "tg_64_photo_7@14-03-2026_17-58-02.jpg",
       "tg_64_photo_8@14-03-2026_17-58-02.jpg",
       "tg_64_photo_9@14-03-2026_17-58-02.jpg",
@@ -466,111 +420,6 @@
     }
   },
   {
-    "id": 10,
-    "slug": "земельный-участок-в-тбилиси-330-м²",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Тбилиси",
-      "en": "Tbilisi area",
-      "ge": "Tbilisi area"
-    },
-    "title": {
-      "ru": "Земельный участок в Тбилиси (330 м²)",
-      "en": "Земельный plot в Тбилиси (330 m²)",
-      "ge": "Земельный plot в Тбилиси (330 m²)"
-    },
-    "description": {
-      "ru": "В продаже в пригороде Тбилиси - Тсавкиси вилладж. Идеально для строительства частного дома или коттеджей для бизнеса. Цена: 45000$ за весь участок",
-      "en": "В продаже в пригороде Тбилиси - Тсавкиси вилладж. Идеально для строительства частного дома или коттеджей для бизнеса. Price: 45000$ за весь plot",
-      "ge": "В продаже в пригороде Тбилиси - Тсавкиси вилладж. Идеально для строительства частного дома или коттеджей для бизнеса. Price: 45000$ за весь plot"
-    },
-    "priceUSD": 45000,
-    "priceGEL": 121500,
-    "priceRUB": 4590000,
-    "landArea": 330,
-    "houseArea": null,
-    "images": [
-      "tg_189_photo_79@28-03-2026_15-20-12.jpg",
-      "tg_189_photo_80@28-03-2026_15-20-12.jpg"
-    ],
-    "features": {
-      "ru": [
-        "Площадь: 330 м²",
-        "Статус: Несельхоз",
-        "Ровный участок",
-        "Идеально для строительства частного дома или коттеджей для бизнеса",
-        "Цена: $45,000"
-      ],
-      "en": [
-        "Area: 330 m²",
-        "Статус: Non-agricultural",
-        "Ровный plot",
-        "Идеально для строительства частного дома или коттеджей для бизнеса",
-        "Price: $45,000"
-      ],
-      "ge": [
-        "Area: 330 m²",
-        "Статус: Non-agricultural",
-        "Ровный plot",
-        "Идеально для строительства частного дома или коттеджей для бизнеса",
-        "Price: $45,000"
-      ]
-    }
-  },
-  {
-    "id": 11,
-    "slug": "земельный-участок-в-поти-797-м²",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Поти",
-      "en": "Poti",
-      "ge": "Poti"
-    },
-    "title": {
-      "ru": "Земельный участок в Поти (797 м²)",
-      "en": "Земельный plot в Поти (797 m²)",
-      "ge": "Земельный plot в Поти (797 m²)"
-    },
-    "description": {
-      "ru": "В продаже в Поти, ул.Элада. Ровный участок в городе. Идеально для строительства частного дома, все коммуникации",
-      "en": "В продаже в Поти, ул.Элада. Ровный plot в городе. Идеально для строительства частного дома, все коммуникации",
-      "ge": "В продаже в Поти, ул.Элада. Ровный plot в городе. Идеально для строительства частного дома, все коммуникации"
-    },
-    "priceUSD": 35000,
-    "priceGEL": 94500,
-    "priceRUB": 3570000,
-    "landArea": 797,
-    "houseArea": null,
-    "images": [
-      "tg_191_photo_81@28-03-2026_15-30-39.jpg"
-    ],
-    "features": {
-      "ru": [
-        "Площадь: 797 м2",
-        "Статус: Несельхоз",
-        "Ровный участок в городе",
-        "Идеально для строительства частного дома, все коммуникации",
-        "Цена: $35,000"
-      ],
-      "en": [
-        "Area: 797 m²",
-        "Статус: Non-agricultural",
-        "Ровный plot в городе",
-        "Идеально для строительства частного дома, все коммуникации",
-        "Price: $35,000"
-      ],
-      "ge": [
-        "Area: 797 m²",
-        "Статус: Non-agricultural",
-        "Ровный plot в городе",
-        "Идеально для строительства частного дома, все коммуникации",
-        "Price: $35,000"
-      ]
-    }
-  },
-  {
     "id": 12,
     "slug": "земельный-участок-в-григолети-300-м²",
     "type": "land",
@@ -853,82 +702,6 @@
         "площадь участка ~300 m² не сельхоз назначения - доступна покупка foreign buyers",
         "дом полностью готов к проживанию, отделка «под ключ»",
         "Price: $125,000"
-      ]
-    }
-  },
-  {
-    "id": 17,
-    "slug": "таунхаус-в-грузия-300-м²",
-    "type": "house",
-    "status": "new",
-    "location": {
-      "ru": "Грузия",
-      "en": "Georgia",
-      "ge": "Georgia"
-    },
-    "title": {
-      "ru": "Таунхаус в Грузия (300 м²)",
-      "en": "Таунхаус в Грузия (300 m²)",
-      "ge": "Таунхаус в Грузия (300 m²)"
-    },
-    "description": {
-      "ru": "Премиальная инвестиционная возможность в винном регионе Кахетии — продаём наш таунхаус. Редкий шанс приобрести недвижимость в одном из самых быстроразвивающихся лайфстайл-направлений Восточной Европы — проект полностью распродан.. Этот бутик-жилой комплекс включает современные таунхаусы, построенные по немецким стандартам качества, идеально подходящие как для личного проживания, так и для высокодо",
-      "en": "Премиальная инвестиционная возможность в винном регионе Кахетии — продаём наш таунхаус. Редкий шанс приобрести недвижимость в одном из самых быстроразвивающихся лайфстайл-направлений Восточной Европы — проект полностью распродан.. Этот бутик-жилой комплекс включает современные таунхаусы, построенные по немецким стандартам качества, идеально подходящие как для личного проживания, так и для высокодо",
-      "ge": "Премиальная инвестиционная возможность в винном регионе Кахетии — продаём наш таунхаус. Редкий шанс приобрести недвижимость в одном из самых быстроразвивающихся лайфстайл-направлений Восточной Европы — проект полностью распродан.. Этот бутик-жилой комплекс включает современные таунхаусы, построенные по немецким стандартам качества, идеально подходящие как для личного проживания, так и для высокодо"
-    },
-    "priceUSD": 320000,
-    "priceGEL": 864000,
-    "priceRUB": 32640000,
-    "landArea": 300,
-    "houseArea": null,
-    "images": [
-      "tg_232_photo_112@14-04-2026_15-33-50.jpg",
-      "tg_232_photo_113@14-04-2026_15-33-50.jpg",
-      "tg_232_photo_114@14-04-2026_15-33-50.jpg",
-      "tg_232_photo_115@14-04-2026_15-33-50.jpg",
-      "tg_232_photo_116@14-04-2026_15-33-50.jpg",
-      "tg_232_photo_117@14-04-2026_15-33-50.jpg",
-      "tg_232_photo_118@14-04-2026_15-33-50.jpg"
-    ],
-    "features": {
-      "ru": [
-        "Таунхаус площадью 220 м²",
-        "Участок 300 м²",
-        "Готовый общий бассейн",
-        "Возможность установки частного бассейна",
-        "Частный виноградник на территории проекта",
-        "Растущий спрос на эко-люкс и винный туризм",
-        "Высокий потенциал аренды (краткосрочной и сезонной)",
-        "Более низкий входной порог по сравнению с европейскими винными регионами",
-        "Уникальная концепция — ограниченное предложение и высокий потенциал роста стоимости",
-        "Дом для отдыха",
-        "Цена: $320,000"
-      ],
-      "en": [
-        "Таунхаус площадью 220 m²",
-        "Plot 300 m²",
-        "Готовый общий бассейн",
-        "Возможность установки частного бассейна",
-        "Частный виноградник на территории проекта",
-        "Растущий спрос на эко-люкс и винный туризм",
-        "Высокий потенциал аренды (краткосрочной и сезонной)",
-        "Более низкий входной порог по сравнению с европейскими винными регионами",
-        "Уникальная концепция — ограниченное предложение и высокий потенциал роста стоимости",
-        "Дом для отдыха",
-        "Price: $320,000"
-      ],
-      "ge": [
-        "Таунхаус площадью 220 m²",
-        "Plot 300 m²",
-        "Готовый общий бассейн",
-        "Возможность установки частного бассейна",
-        "Частный виноградник на территории проекта",
-        "Растущий спрос на эко-люкс и винный туризм",
-        "Высокий потенциал аренды (краткосрочной и сезонной)",
-        "Более низкий входной порог по сравнению с европейскими винными регионами",
-        "Уникальная концепция — ограниченное предложение и высокий потенциал роста стоимости",
-        "Дом для отдыха",
-        "Price: $320,000"
       ]
     }
   },
@@ -1390,108 +1163,6 @@
     }
   },
   {
-    "id": 26,
-    "slug": "земельный-участок-в-ланчхути-50000-м²",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Ланчхути",
-      "en": "Lanchkhuti",
-      "ge": "Lanchkhuti"
-    },
-    "title": {
-      "ru": "Земельный участок в Ланчхути (50000 м²)",
-      "en": "Земельный plot в Ланчхути (50000 m²)",
-      "ge": "Земельный plot в Ланчхути (50000 m²)"
-    },
-    "description": {
-      "ru": "В продаже в Леса (Ланчхути). Рядом река Лесистцкали и национальный парк Колхети. 70.000$ за весь участок",
-      "en": "В продаже в Леса (Ланчхути). Рядом река Лесистцкали и национальный парк Колхети. 70.000$ за весь plot",
-      "ge": "В продаже в Леса (Ланчхути). Рядом река Лесистцкали и национальный парк Колхети. 70.000$ за весь plot"
-    },
-    "priceUSD": 270000,
-    "priceGEL": 729000,
-    "priceRUB": 27540000,
-    "landArea": 50000,
-    "houseArea": null,
-    "images": [
-      "tg_183_photo_73@28-03-2026_15-17-15.jpg",
-      "tg_183_photo_74@28-03-2026_15-17-15.jpg",
-      "tg_183_photo_75@28-03-2026_15-17-15.jpg"
-    ],
-    "features": {
-      "ru": [
-        "Площадь: 50.000 м²",
-        "Статус: Сельхоз",
-        "Ровный участок",
-        "Рядом река Лесистцкали и национальный парк Колхети",
-        "Цена: $270,000"
-      ],
-      "en": [
-        "Area: 50.000 m²",
-        "Статус: Сельхоз",
-        "Ровный plot",
-        "Рядом река Лесистцкали и национальный парк Колхети",
-        "Price: $270,000"
-      ],
-      "ge": [
-        "Area: 50.000 m²",
-        "Статус: Сельхоз",
-        "Ровный plot",
-        "Рядом река Лесистцкали и национальный парк Колхети",
-        "Price: $270,000"
-      ]
-    }
-  },
-  {
-    "id": 27,
-    "slug": "земельный-участок-в-качрети-100000-м²",
-    "type": "land",
-    "status": "new",
-    "location": {
-      "ru": "Качрети",
-      "en": "Kakheti, near Signagi",
-      "ge": "Kakheti, near Signagi"
-    },
-    "title": {
-      "ru": "Земельный участок в Качрети (100000 м²)",
-      "en": "Земельный plot в Качрети (100000 m²)",
-      "ge": "Земельный plot в Качрети (100000 m²)"
-    },
-    "description": {
-      "ru": "В продаже в Качрети (рядом с Сигнахи). 85.000$ за весь участок",
-      "en": "В продаже в Качрети (рядом с Сигнахи). 85.000$ за весь plot",
-      "ge": "В продаже в Качрети (рядом с Сигнахи). 85.000$ за весь plot"
-    },
-    "priceUSD": 285000,
-    "priceGEL": 769500,
-    "priceRUB": 29070000,
-    "landArea": 100000,
-    "houseArea": null,
-    "images": [
-      "tg_186_photo_76@28-03-2026_15-19-38.jpg",
-      "tg_186_photo_77@28-03-2026_15-19-38.jpg",
-      "tg_186_photo_78@28-03-2026_15-19-38.jpg"
-    ],
-    "features": {
-      "ru": [
-        "Площадь: 100.000 м²",
-        "Статус: Сельхоз",
-        "Цена: $285,000"
-      ],
-      "en": [
-        "Area: 100.000 m²",
-        "Статус: Сельхоз",
-        "Price: $285,000"
-      ],
-      "ge": [
-        "Area: 100.000 m²",
-        "Статус: Сельхоз",
-        "Price: $285,000"
-      ]
-    }
-  },
-  {
     "id": 28,
     "slug": "земельный-участок-в-шекветили-1078-м²",
     "type": "land",
@@ -1517,7 +1188,6 @@
     "landArea": 1078,
     "houseArea": null,
     "images": [
-      "tg_196_photo_86@28-03-2026_15-55-23.jpg",
       "tg_196_photo_87@28-03-2026_15-55-23.jpg",
       "tg_196_photo_88@28-03-2026_15-55-23.jpg",
       "tg_196_photo_89@28-03-2026_15-55-23.jpg",
@@ -1623,156 +1293,6 @@
         "Море в пешей доступности",
         "Рядом находится Ботанический сад и центр Махинджаури со всей необходимой инфраструктурой",
         "Price: $270,000"
-      ]
-    }
-  },
-  {
-    "id": 30,
-    "slug": "дом-в-батуми-ахалсопели-229-м²",
-    "type": "house",
-    "status": "new",
-    "location": {
-      "ru": "Батуми, Ахалсопели",
-      "en": "Batumi, Akhalsopeli",
-      "ge": "Batumi, Akhalsopeli"
-    },
-    "title": {
-      "ru": "Дом в Батуми, Ахалсопели (229 м²)",
-      "en": "Дом в Батуми, Ахалсопели (229 m²)",
-      "ge": "Дом в Батуми, Ахалсопели (229 m²)"
-    },
-    "description": {
-      "ru": "В продаже 3-х комнатный частный в пригороде Батуми. Ахалсопели, 10 минут до города. Посудомоечная машина, стиральная и сушильная машины",
-      "en": "В продаже 3-х комнатный частный в пригороде Батуми. Ахалсопели, 10 минут до города. Посудомоечная машина, стиральная и сушильная машины",
-      "ge": "В продаже 3-х комнатный частный в пригороде Батуми. Ахалсопели, 10 минут до города. Посудомоечная машина, стиральная и сушильная машины"
-    },
-    "priceUSD": 285000,
-    "priceGEL": 769500,
-    "priceRUB": 29070000,
-    "landArea": 229,
-    "houseArea": 229,
-    "images": [
-      "tg_257_photo_126@21-04-2026_11-00-35.jpg",
-      "tg_257_photo_127@21-04-2026_11-00-35.jpg",
-      "tg_257_photo_128@21-04-2026_11-00-35.jpg",
-      "tg_257_photo_129@21-04-2026_11-00-35.jpg",
-      "tg_257_photo_130@21-04-2026_11-00-35.jpg",
-      "tg_257_photo_131@21-04-2026_11-00-35.jpg",
-      "tg_257_photo_132@21-04-2026_11-00-35.jpg"
-    ],
-    "features": {
-      "ru": [
-        "229 м² площадь дома",
-        "300 м² участок",
-        "2 этажа",
-        "Посудомоечная машина, стиральная и сушильная машины",
-        "Духовка",
-        "Терасса на втором этаже",
-        "Вид на город, море и горы",
-        "2 парковочных места",
-        "Центральное отопление + подогрев пола",
-        "Цена: $285,000"
-      ],
-      "en": [
-        "229 m² площадь дома",
-        "300 m² plot",
-        "2 этажа",
-        "Посудомоечная машина, стиральная и сушильная машины",
-        "Духовка",
-        "Терасса на втором этаже",
-        "Вид на город, море и горы",
-        "2 парковочных места",
-        "Central heating + подогрев пола",
-        "Price: $285,000"
-      ],
-      "ge": [
-        "229 m² площадь дома",
-        "300 m² plot",
-        "2 этажа",
-        "Посудомоечная машина, стиральная и сушильная машины",
-        "Духовка",
-        "Терасса на втором этаже",
-        "Вид на город, море и горы",
-        "2 парковочных места",
-        "Central heating + подогрев пола",
-        "Price: $285,000"
-      ]
-    }
-  },
-  {
-    "id": 31,
-    "slug": "коттедж-в-батуми-ахалсопели-305-м²",
-    "type": "house",
-    "status": "new",
-    "location": {
-      "ru": "Батуми, Ахалсопели",
-      "en": "Batumi, Akhalsopeli",
-      "ge": "Batumi, Akhalsopeli"
-    },
-    "title": {
-      "ru": "Коттедж в Батуми, Ахалсопели (305 м²)",
-      "en": "Коттедж в Батуми, Ахалсопели (305 m²)",
-      "ge": "Коттедж в Батуми, Ахалсопели (305 m²)"
-    },
-    "description": {
-      "ru": "готовый к проживанию, в Батуми (Ахалсопели). Закрытый коттеджный мини-поселок из 6 домов. Дом 305 м2, двор 100 м2",
-      "en": "готовый к проживанию, в Батуми (Ахалсопели). Закрытый коттеджный мини-поселок из 6 домов. Дом 305 m², двор 100 m²",
-      "ge": "готовый к проживанию, в Батуми (Ахалсопели). Закрытый коттеджный мини-поселок из 6 домов. Дом 305 m², двор 100 m²"
-    },
-    "priceUSD": 280000,
-    "priceGEL": 756000,
-    "priceRUB": 28560000,
-    "landArea": 305,
-    "houseArea": 305,
-    "images": [
-      "tg_264_photo_133@21-04-2026_11-02-48.jpg",
-      "tg_264_photo_134@21-04-2026_11-02-48.jpg",
-      "tg_264_photo_135@21-04-2026_11-02-48.jpg",
-      "tg_264_photo_136@21-04-2026_11-02-48.jpg",
-      "tg_264_photo_137@21-04-2026_11-02-48.jpg",
-      "tg_264_photo_138@21-04-2026_11-02-48.jpg",
-      "tg_264_photo_139@21-04-2026_11-02-48.jpg",
-      "tg_264_photo_140@21-04-2026_11-02-48.jpg"
-    ],
-    "features": {
-      "ru": [
-        "Закрытый коттеджный мини-поселок из 6 домов",
-        "Дом 305 м2, двор 100 м2",
-        "Дорогой ремонт, дом в идеальном состоянии",
-        "3 этажа",
-        "2 спальни",
-        "Газовое отопление, полы с подогревом",
-        "Большие террасы на двух этажах",
-        "Мебель и техника вся остается",
-        "Свой инфинити-бассейн с подогревом",
-        "Гараж на 2 машины",
-        "Цена: $280,000"
-      ],
-      "en": [
-        "Закрытый коттеджный мини-поселок из 6 домов",
-        "Дом 305 m², двор 100 m²",
-        "Дорогой ремонт, дом в идеальном состоянии",
-        "3 этажа",
-        "2 спальни",
-        "Gasовое отопление, полы с подогревом",
-        "Большие террасы на двух этажах",
-        "Мебель и техника вся остается",
-        "Свой инфинити-бассейн с подогревом",
-        "Garage на 2 машины",
-        "Price: $280,000"
-      ],
-      "ge": [
-        "Закрытый коттеджный мини-поселок из 6 домов",
-        "Дом 305 m², двор 100 m²",
-        "Дорогой ремонт, дом в идеальном состоянии",
-        "3 этажа",
-        "2 спальни",
-        "Gasовое отопление, полы с подогревом",
-        "Большие террасы на двух этажах",
-        "Мебель и техника вся остается",
-        "Свой инфинити-бассейн с подогревом",
-        "Garage на 2 машины",
-        "Price: $280,000"
       ]
     }
   },
@@ -2361,9 +1881,9 @@
       "en": "Unique 10000 m² land plot with low-rise development project on the Black Sea coast in Chakvi, 15 min from Batumi. 800m from sea. Non-agricultural status, available for foreign buyers. Project for 10 houses approved. Borders mountain river.",
       "ge": "Unique 10000 m² land plot with low-rise development project on the Black Sea coast in Chakvi, 15 min from Batumi. 800m from sea. Non-agricultural status, available for foreign buyers. Project for 10 houses approved. Borders mountain river."
     },
-    "priceUSD": 715190,
-    "priceGEL": 1931013,
-    "priceRUB": 72949380,
+    "priceUSD": 817360,
+    "priceGEL": 2206872,
+    "priceRUB": 83369520,
     "landArea": 10217,
     "houseArea": null,
     "images": [
@@ -2416,9 +1936,442 @@
         "Price: $80/m²"
       ]
     },
-    "badge": "HOT",
-    "oldPriceUSD": 800000,
-    "oldPriceGEL": 2160000,
-    "oldPriceRUB": 81600000
+    "badge": "HOT"
+  },
+  {
+    "id": 42,
+    "slug": "zemelniy-uchastok-s-vidom-na-more-v-gonio-4700-m",
+    "type": "land",
+    "status": "new",
+    "location": {
+      "ru": "Гонио",
+      "en": "Gonio, Black Sea coast",
+      "ge": "Gonio, Black Sea coast"
+    },
+    "title": {
+      "ru": "Земельный участок с видом на море в Гонио (4700 м²)",
+      "en": "Land plot с видом на море в Гонио (4700 m²)",
+      "ge": "Land plot с видом на море в Гонио (4700 m²)"
+    },
+    "description": {
+      "ru": "Эксклюзивный земельный участок с панорамным видом на Черное море в курортном городе Гонио. Территория террасирована, готовый проект коттеджной застройки. На участке плодовые деревья (ткемали, мандарины и др.). Отличный подъезд, все коммуникации рядом.",
+      "en": "Exclusive land plot with panoramic sea views in Gonio. Terraced slope, ready cottage development project. Fruit trees on site (tkemali, mandarins, etc.). Great access road, all utilities nearby.",
+      "ge": "Exclusive land plot with panoramic sea views in Gonio. Terraced slope, ready cottage development project. Fruit trees on site (tkemali, mandarins, etc.). Great access road, all utilities nearby."
+    },
+    "priceUSD": 587500,
+    "priceGEL": 1586250,
+    "priceRUB": 23500000,
+    "landArea": 4700,
+    "houseArea": null,
+    "images": [
+      "gonio_view_sea@29-06-2026_10-12-00.jpg"
+    ],
+    "features": {
+      "ru": [
+        "Площадь: 4700 м²",
+        "Статус: несельскохозяйственное назначение",
+        "Панорамный вид на море и береговую линию",
+        "Рельеф: склон, террасирован",
+        "На участке плодовые деревья (ткемали, мандарины и др.)",
+        "Отличный подъезд",
+        "Готовый проект коттеджной застройки",
+        "Все коммуникации рядом",
+        "Цена: $587,500 (~$125/м²)"
+      ],
+      "en": [
+        "Area: 4700 m²",
+        "Non-agricultural status",
+        "Panoramic sea views and coastline",
+        "Terraced slope terrain",
+        "Fruit trees on site (tkemali, mandarins, etc.)",
+        "Excellent access road",
+        "Ready cottage development project",
+        "All utilities nearby",
+        "Price: $587,500 (~$125/m²)"
+      ],
+      "ge": [
+        "Area: 4700 m²",
+        "Non-agricultural status",
+        "Panoramic sea views and coastline",
+        "Terraced slope terrain",
+        "Fruit trees on site (tkemali, mandarins, etc.)",
+        "Excellent access road",
+        "Ready cottage development project",
+        "All utilities nearby",
+        "Price: $587,500 (~$125/m²)"
+      ]
+    },
+    "badge": "HOT"
+  },
+  {
+    "id": 43,
+    "slug": "semejnaya-vinodelnya-v-kaxetii-telavi-660-m",
+    "type": "land",
+    "status": "new",
+    "location": {
+      "ru": "Телави, Кахетия",
+      "en": "Telavi, Kakheti",
+      "ge": "Telavi, Kakheti"
+    },
+    "title": {
+      "ru": "Семейная винодельня в Кахетии, г. Телави (660 м²)",
+      "en": "Family Winery in Kakheti, Telavi (660 m²)",
+      "ge": "Family Winery in Kakheti, Telavi (660 m²)"
+    },
+    "description": {
+      "ru": "Действующая и прибыльная семейная винодельня в сердце винного региона Кахетии. Виноградник 3000 м² (аренда на 49 лет), производство до 2 тонн вина и 500 л чачи. Винный погреб с квеври, жилое помещение, собственная пекарня. 5★ в Google. Все документы в порядке.",
+      "en": "Operating and profitable family winery in the heart of Kakheti wine region. 3000 m² vineyard (49-year lease), production up to 2 tons of wine and 500L chacha. Wine cellar with qvevri, living quarters, own bakery. 5★ on Google. All documents in order.",
+      "ge": "Operating and profitable family winery in the heart of Kakheti wine region. 3000 m² vineyard (49-year lease), production up to 2 tons of wine and 500L chacha. Wine cellar with qvevri, living quarters, own bakery. 5★ on Google. All documents in order."
+    },
+    "priceUSD": 99000,
+    "priceGEL": 267300,
+    "priceRUB": 9900000,
+    "landArea": 660,
+    "houseArea": null,
+    "images": [
+      "telavi_winery_photo1@29-06-2026.jpg",
+      "telavi_winery_photo2@29-06-2026.jpg",
+      "telavi_winery_photo3@29-06-2026.jpg",
+      "telavi_winery_photo4@29-06-2026.jpg",
+      "telavi_winery_photo5@29-06-2026.jpg",
+      "telavi_winery_photo6@29-06-2026.jpg"
+    ],
+    "features": {
+      "ru": [
+        "Земля: 660 м² (несельхоз, в собственности)",
+        "Виноградник: 3000 м² (аренда на 49 лет)",
+        "Производство: до 2 тонн вина и 500 л чачи",
+        "Действующий и прибыльный бизнес",
+        "Винный погреб с квеври и жилое помещение",
+        "Собственная пекарня",
+        "5★ в Google",
+        "Все коммуникации и документы в порядке",
+        "Потенциал: расширение, гостиница, ресторан",
+        "Цена: $99,000"
+      ],
+      "en": [
+        "Land: 660 m² (non-agricultural, owned)",
+        "Vineyard: 3000 m² (49-year lease)",
+        "Production: up to 2 tons of wine and 500L chacha",
+        "Operating and profitable business",
+        "Wine cellar with qvevri and living quarters",
+        "Own bakery",
+        "5★ on Google",
+        "All utilities and documents in order",
+        "Potential: expansion, hotel, restaurant",
+        "Price: $99,000"
+      ],
+      "ge": [
+        "Land: 660 m² (non-agricultural, owned)",
+        "Vineyard: 3000 m² (49-year lease)",
+        "Production: up to 2 tons of wine and 500L chacha",
+        "Operating and profitable business",
+        "Wine cellar with qvevri and living quarters",
+        "Own bakery",
+        "5★ on Google",
+        "All utilities and documents in order",
+        "Potential: expansion, hotel, restaurant",
+        "Price: $99,000"
+      ]
+    },
+    "badge": "HOT"
+  },
+  {
+    "id": 46,
+    "slug": "dom-v-gurii-meriya-316-m",
+    "type": "house",
+    "status": "new",
+    "location": {
+      "ru": "Гурия, п. Мерия",
+      "en": "Guria, Meria village",
+      "ge": "Guria, Meria village"
+    },
+    "title": {
+      "ru": "Дом в Гурии, п. Мерия (316 м²)",
+      "en": "House in Guria, Meria (316 m²)",
+      "ge": "House in Guria, Meria (316 m²)"
+    },
+    "description": {
+      "ru": "Полностью реконструированный экодом из натуральных материалов в п. Мерия, Гурия. 7 минут до моря, 40 км до Батуми. Глиняная штукатурка, натуральное дерево (каштан), новые деревянные окна. Камин с печью для выпечки, бассейн с подогревом от солнечных батарей. Плантации фундука, мандарина, фруктовый сад. Гостевой дом и дом для персонала. Доходность 10–15% годовых.",
+      "en": "Fully reconstructed eco-house from natural materials in Meria, Guria. 7 min to beach, 40 km to Batumi. Clay plaster, natural chestnut wood, new wooden windows. Fireplace with baking oven, solar-heated pool. Hazelnut and mandarin plantations, fruit orchard. Guest house and staff quarters. 10–15% annual yield potential.",
+      "ge": "Fully reconstructed eco-house from natural materials in Meria, Guria. 7 min to beach, 40 km to Batumi. Clay plaster, natural chestnut wood, new wooden windows. Fireplace with baking oven, solar-heated pool. Hazelnut and mandarin plantations, fruit orchard. Guest house and staff quarters. 10–15% annual yield potential."
+    },
+    "priceUSD": 300000,
+    "priceGEL": 810000,
+    "priceRUB": 30000000,
+    "landArea": 8600,
+    "houseArea": 316,
+    "images": [
+      "guria_ecohouse_photo1@29-06-2026.jpg",
+      "guria_ecohouse_photo2@29-06-2026.jpg",
+      "guria_ecohouse_photo3@29-06-2026.jpg",
+      "guria_ecohouse_photo4@29-06-2026.jpg",
+      "guria_ecohouse_photo5@29-06-2026.jpg",
+      "guria_ecohouse_photo6@29-06-2026.jpg",
+      "guria_ecohouse_photo7@29-06-2026.jpg",
+      "guria_ecohouse_photo8@29-06-2026.jpg",
+      "guria_ecohouse_photo9@29-06-2026.jpg",
+      "guria_ecohouse_photo10@29-06-2026.jpg"
+    ],
+    "features": {
+      "ru": [
+        "Площадь дома: 316 м²",
+        "Участок: 8600 м²",
+        "Статус: несельхоз (доступно иностранцам)",
+        "5 спален, 2 зала, 2 санузла",
+        "Экодом из натуральных материалов (каштан, глиняная штукатурка)",
+        "Камин с печью для выпечки",
+        "Бассейн с подогревом от солнечных батарей",
+        "Плантации фундука и мандарина, фруктовый сад",
+        "Гостевой дом + дом для персонала",
+        "7 минут до пляжа, 40 км до Батуми",
+        "Потенциал: гостевой дом, доходность 10–15%",
+        "Цена: $300,000"
+      ],
+      "en": [
+        "House area: 316 m²",
+        "Plot: 8600 m²",
+        "Non-agricultural status (available to foreigners)",
+        "5 bedrooms, 2 living rooms, 2 bathrooms",
+        "Eco-house from natural materials (chestnut wood, clay plaster)",
+        "Fireplace with baking oven",
+        "Solar-heated swimming pool",
+        "Hazelnut & mandarin plantations, fruit orchard",
+        "Guest house + staff quarters",
+        "7 min to beach, 40 km to Batumi",
+        "Potential: guest house, 10–15% annual yield",
+        "Price: $300,000"
+      ],
+      "ge": [
+        "House area: 316 m²",
+        "Plot: 8600 m²",
+        "Non-agricultural status (available to foreigners)",
+        "5 bedrooms, 2 living rooms, 2 bathrooms",
+        "Eco-house from natural materials (chestnut wood, clay plaster)",
+        "Fireplace with baking oven",
+        "Solar-heated swimming pool",
+        "Hazelnut & mandarin plantations, fruit orchard",
+        "Guest house + staff quarters",
+        "7 min to beach, 40 km to Batumi",
+        "Potential: guest house, 10–15% annual yield",
+        "Price: $300,000"
+      ]
+    },
+    "badge": "HOT"
+  },
+  {
+    "id": 44,
+    "slug": "villa-v-gonio-267-m",
+    "type": "house",
+    "status": "new",
+    "location": {
+      "ru": "Гонио",
+      "en": "Gonio, near Batumi",
+      "ge": "Gonio, near Batumi"
+    },
+    "title": {
+      "ru": "Вилла в Гонио (267 м²)",
+      "en": "Villa in Gonio (267 m²)",
+      "ge": "Villa in Gonio (267 m²)"
+    },
+    "description": {
+      "ru": "В продаже вилла в Гонио (8 км от Батуми). Новый качественный ремонт без мебели. Панорамный вид на море и горы. Тёплый пол и радиаторы, все коммуникации подключены. Террасы с видами, гараж. Подходит для проживания или аренды.",
+      "en": "Villa for sale in Gonio (8 km from Batumi). Brand new quality renovation, unfurnished. Panoramic sea and mountain views. Underfloor heating and radiators, all utilities connected. Terraces with views, garage. Suitable for living or rental.",
+      "ge": "Villa for sale in Gonio (8 km from Batumi). Brand new quality renovation, unfurnished. Panoramic sea and mountain views. Underfloor heating and radiators, all utilities connected. Terraces with views, garage. Suitable for living or rental."
+    },
+    "priceUSD": 280000,
+    "priceGEL": 756000,
+    "priceRUB": 28000000,
+    "landArea": 150,
+    "houseArea": 267,
+    "images": [
+      "gonio_villa_photo3@29-06-2026.jpg",
+      "gonio_villa_photo1@29-06-2026.jpg",
+      "gonio_villa_photo2@29-06-2026.jpg",
+      "gonio_villa_photo4@29-06-2026.jpg",
+      "gonio_villa_photo5@29-06-2026.jpg",
+      "gonio_villa_photo6@29-06-2026.jpg",
+      "gonio_villa_photo7@29-06-2026.jpg"
+    ],
+    "features": {
+      "ru": [
+        "Площадь дома: 267 м²",
+        "Участок: 150 м²",
+        "Планировка: гостиная, 3 спальни, 3 санузла, кухня, гараж, терраса",
+        "Новый качественный ремонт (без мебели)",
+        "Тёплый пол и радиаторы",
+        "Панорамный вид на море и горы",
+        "Все коммуникации подключены",
+        "8 км от Батуми",
+        "Цена: $280,000"
+      ],
+      "en": [
+        "House area: 267 m²",
+        "Plot: 150 m²",
+        "Layout: living room, 3 bedrooms, 3 bathrooms, kitchen, garage, terrace",
+        "Brand new quality renovation (unfurnished)",
+        "Underfloor heating and radiators",
+        "Panoramic sea and mountain views",
+        "All utilities connected",
+        "8 km from Batumi",
+        "Price: $280,000"
+      ],
+      "ge": [
+        "House area: 267 m²",
+        "Plot: 150 m²",
+        "Layout: living room, 3 bedrooms, 3 bathrooms, kitchen, garage, terrace",
+        "Brand new quality renovation (unfurnished)",
+        "Underfloor heating and radiators",
+        "Panoramic sea and mountain views",
+        "All utilities connected",
+        "8 km from Batumi",
+        "Price: $280,000"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "slug": "villa-v-gonio-320-m",
+    "type": "house",
+    "status": "new",
+    "location": {
+      "ru": "Гонио",
+      "en": "Gonio, near Batumi",
+      "ge": "Gonio, near Batumi"
+    },
+    "title": {
+      "ru": "Вилла в Гонио (320 м²)",
+      "en": "Villa in Gonio (320 m²)",
+      "ge": "Villa in Gonio (320 m²)"
+    },
+    "description": {
+      "ru": "В продаже вилла в Гонио (8 км от Батуми). Новый качественный ремонт без мебели. Панорамный вид на море и горы. Тёплый пол и радиаторы, все коммуникации подключены. Террасы с видами, гараж. Подходит для проживания или аренды.",
+      "en": "Villa for sale in Gonio (8 km from Batumi). Brand new quality renovation, unfurnished. Panoramic sea and mountain views. Underfloor heating and radiators, all utilities connected. Terraces with views, garage. Suitable for living or rental.",
+      "ge": "Villa for sale in Gonio (8 km from Batumi). Brand new quality renovation, unfurnished. Panoramic sea and mountain views. Underfloor heating and radiators, all utilities connected. Terraces with views, garage. Suitable for living or rental."
+    },
+    "priceUSD": 350000,
+    "priceGEL": 945000,
+    "priceRUB": 35000000,
+    "landArea": 250,
+    "houseArea": 320,
+    "images": [
+      "gonio_villa_photo6@29-06-2026.jpg",
+      "gonio_villa_photo1@29-06-2026.jpg",
+      "gonio_villa_photo2@29-06-2026.jpg",
+      "gonio_villa_photo3@29-06-2026.jpg",
+      "gonio_villa_photo4@29-06-2026.jpg",
+      "gonio_villa_photo5@29-06-2026.jpg",
+      "gonio_villa_photo7@29-06-2026.jpg"
+    ],
+    "features": {
+      "ru": [
+        "Площадь дома: 320 м²",
+        "Участок: 250 м²",
+        "Планировка: гостиная, 3 санузла, кухня, гараж, большая терраса",
+        "Новый качественный ремонт (без мебели)",
+        "Тёплый пол и радиаторы",
+        "Панорамный вид на море и горы",
+        "Все коммуникации подключены",
+        "8 км от Батуми",
+        "Цена: $350,000"
+      ],
+      "en": [
+        "House area: 320 m²",
+        "Plot: 250 m²",
+        "Layout: living room, 3 bathrooms, kitchen, garage, large terrace",
+        "Brand new quality renovation (unfurnished)",
+        "Underfloor heating and radiators",
+        "Panoramic sea and mountain views",
+        "All utilities connected",
+        "8 km from Batumi",
+        "Price: $350,000"
+      ],
+      "ge": [
+        "House area: 320 m²",
+        "Plot: 250 m²",
+        "Layout: living room, 3 bathrooms, kitchen, garage, large terrace",
+        "Brand new quality renovation (unfurnished)",
+        "Underfloor heating and radiators",
+        "Panoramic sea and mountain views",
+        "All utilities connected",
+        "8 km from Batumi",
+        "Price: $350,000"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "slug": "sovremennaya-rezidenciya-v-kobuleti-510-m",
+    "type": "house",
+    "status": "new",
+    "location": {
+      "ru": "Кобулети",
+      "en": "Kobuleti, Black Sea Coast",
+      "ge": "Kobuleti, Black Sea Coast"
+    },
+    "title": {
+      "ru": "Современная резиденция в Кобулети (510 м²)",
+      "en": "Modern Residence in Kobuleti (510 m²)",
+      "ge": "Modern Residence in Kobuleti (510 m²)"
+    },
+    "description": {
+      "ru": "Новая современная загородная резиденция на берегу Чёрного моря в Кобулети. Просторный дом с 5 спальнями, центральным отоплением, тёплым полом и фруктовым садом. Идеален для жилья или сдачи в аренду.",
+      "en": "Brand new modern residential house on the Black Sea coast in Kobuleti. Spacious home with 5 bedrooms, central heating, underfloor heating, and fruit orchard. Perfect for living or rental.",
+      "ge": "Brand new modern residential house on the Black Sea coast in Kobuleti. Spacious home with 5 bedrooms, central heating, underfloor heating, and fruit orchard. Perfect for living or rental."
+    },
+    "priceUSD": 565000,
+    "priceGEL": 1525500,
+    "priceRUB": 56500000,
+    "landArea": 3500,
+    "houseArea": 510,
+    "images": [
+      "kobuleti_residence_photo1@09-07-2026.jpg",
+      "kobuleti_residence_photo2@09-07-2026.jpg",
+      "kobuleti_residence_photo3@09-07-2026.jpg",
+      "kobuleti_residence_photo4@09-07-2026.jpg",
+      "kobuleti_residence_photo5@09-07-2026.jpg",
+      "kobuleti_residence_photo6@09-07-2026.jpg",
+      "kobuleti_residence_photo7@09-07-2026.jpg",
+      "kobuleti_residence_photo8@09-07-2026.jpg"
+    ],
+    "features": {
+      "ru": [
+        "Площадь дома: 510 м²",
+        "Участок: 3500 м² (несельхоз, доступно иностранцам)",
+        "Спальни: 5",
+        "Санузлы: 4",
+        "Центральное отопление и тёплый пол",
+        "Сад с фруктовыми деревьями",
+        "Современный ремонт",
+        "На берегу Чёрного моря",
+        "Идеально для жилья или аренды",
+        "Цена: $565,000"
+      ],
+      "en": [
+        "House area: 510 m²",
+        "Plot: 3500 m² (non-agricultural, available to foreigners)",
+        "Bedrooms: 5",
+        "Bathrooms: 4",
+        "Central heating and underfloor heating",
+        "Fruit orchard",
+        "Modern renovation",
+        "Black Sea coastal location",
+        "Perfect for living or rental",
+        "Price: $565,000"
+      ],
+      "ge": [
+        "House area: 510 m²",
+        "Plot: 3500 m² (non-agricultural, available to foreigners)",
+        "Bedrooms: 5",
+        "Bathrooms: 4",
+        "Central heating and underfloor heating",
+        "Fruit orchard",
+        "Modern renovation",
+        "Black Sea coastal location",
+        "Perfect for living or rental",
+        "Price: $565,000"
+      ]
+    },
+    "badge": "HOT"
   }
 ]
